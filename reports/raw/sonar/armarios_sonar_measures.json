@@ -1,0 +1,7530 @@
+{
+  "totalExtracted": 118,
+  "components": [
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/tabela/acoes/AcoesDoBotao.java",
+      "name": "AcoesDoBotao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/tabela/acoes/AcoesDoBotao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "66"
+        },
+        {
+          "metric": "ncloc",
+          "value": "45"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "108",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/tabela/acoes/AcoesEventoTabela.java",
+      "name": "AcoesEventoTabela.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/tabela/acoes/AcoesEventoTabela.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "18"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/AcoesEventoTabelaArmario.java",
+      "name": "AcoesEventoTabelaArmario.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/AcoesEventoTabelaArmario.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "72"
+        },
+        {
+          "metric": "ncloc",
+          "value": "54"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "61",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "26"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/AcoesEventoTabelaConcessao.java",
+      "name": "AcoesEventoTabelaConcessao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/AcoesEventoTabelaConcessao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "52",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "106"
+        },
+        {
+          "metric": "ncloc",
+          "value": "83"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "52",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "83",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "41"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/AcoesEventoTabelaCurso.java",
+      "name": "AcoesEventoTabelaCurso.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/AcoesEventoTabelaCurso.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "78"
+        },
+        {
+          "metric": "ncloc",
+          "value": "54"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/AcoesEventoTabelaEmprestimo.java",
+      "name": "AcoesEventoTabelaEmprestimo.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/AcoesEventoTabelaEmprestimo.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "52",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "105"
+        },
+        {
+          "metric": "ncloc",
+          "value": "83"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "52",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "83",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "41"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/AcoesEventoTabelaEstudante.java",
+      "name": "AcoesEventoTabelaEstudante.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/AcoesEventoTabelaEstudante.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "83"
+        },
+        {
+          "metric": "ncloc",
+          "value": "59"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "59",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "31"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/AcoesEventoTabelaHistorico.java",
+      "name": "AcoesEventoTabelaHistorico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/AcoesEventoTabelaHistorico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "42"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "27",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/AcoesEventoTabelaLista.java",
+      "name": "AcoesEventoTabelaLista.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/AcoesEventoTabelaLista.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "55"
+        },
+        {
+          "metric": "ncloc",
+          "value": "39"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/AcoesEventoTabelaLocalizacao.java",
+      "name": "AcoesEventoTabelaLocalizacao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/AcoesEventoTabelaLocalizacao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "75"
+        },
+        {
+          "metric": "ncloc",
+          "value": "52"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "58",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/AcoesEventoTabelaServidor.java",
+      "name": "AcoesEventoTabelaServidor.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/AcoesEventoTabelaServidor.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "83"
+        },
+        {
+          "metric": "ncloc",
+          "value": "58"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "59",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "31"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Armario.java",
+      "name": "Armario.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Armario.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "81"
+        },
+        {
+          "metric": "ncloc",
+          "value": "63"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/ArmarioComboBoxModel.java",
+      "name": "ArmarioComboBoxModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/ArmarioComboBoxModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "54"
+        },
+        {
+          "metric": "ncloc",
+          "value": "38"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "89",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/ArmarioDao.java",
+      "name": "ArmarioDao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/ArmarioDao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "40"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "26",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/ArmarioDaoImpl.java",
+      "name": "ArmarioDaoImpl.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/ArmarioDaoImpl.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "54",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "13"
+        },
+        {
+          "metric": "lines",
+          "value": "141"
+        },
+        {
+          "metric": "ncloc",
+          "value": "118"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "54",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "97",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "54"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/ArmarioException.java",
+      "name": "ArmarioException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/ArmarioException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/ArmarioServico.java",
+      "name": "ArmarioServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/ArmarioServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "46",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "20"
+        },
+        {
+          "metric": "lines",
+          "value": "104"
+        },
+        {
+          "metric": "ncloc",
+          "value": "75"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "20.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "46",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "467",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "31"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/test/java/br/edu/ifpr/paranavai/servico/ArmarioServicoTest.java",
+      "name": "ArmarioServicoTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/edu/ifpr/paranavai/servico/ArmarioServicoTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "78",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "32"
+        },
+        {
+          "metric": "lines",
+          "value": "311"
+        },
+        {
+          "metric": "ncloc",
+          "value": "236"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "78",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "257",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "130"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/utils/AutenticacaoUtil.java",
+      "name": "AutenticacaoUtil.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/utils/AutenticacaoUtil.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "19"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/utils/Carregando.java",
+      "name": "Carregando.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/utils/Carregando.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "59"
+        },
+        {
+          "metric": "ncloc",
+          "value": "32"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "12.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "120",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/ComboBoxServico.java",
+      "name": "ComboBoxServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/ComboBoxServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "100"
+        },
+        {
+          "metric": "ncloc",
+          "value": "71"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Concessao.java",
+      "name": "Concessao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Concessao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "105"
+        },
+        {
+          "metric": "ncloc",
+          "value": "76"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "56",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/ConcessaoDao.java",
+      "name": "ConcessaoDao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/ConcessaoDao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "40"
+        },
+        {
+          "metric": "ncloc",
+          "value": "18"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "26",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/ConcessaoDaoImpl.java",
+      "name": "ConcessaoDaoImpl.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/ConcessaoDaoImpl.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "53",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "13"
+        },
+        {
+          "metric": "lines",
+          "value": "135"
+        },
+        {
+          "metric": "ncloc",
+          "value": "112"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "53",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "87",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/ConcessaoException.java",
+      "name": "ConcessaoException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/ConcessaoException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/ConcessaoServico.java",
+      "name": "ConcessaoServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/ConcessaoServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "21"
+        },
+        {
+          "metric": "lines",
+          "value": "95"
+        },
+        {
+          "metric": "ncloc",
+          "value": "69"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "19.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "403",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "29"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/ConcessaoUIModal.java",
+      "name": "ConcessaoUIModal.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/ConcessaoUIModal.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "168",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "15"
+        },
+        {
+          "metric": "lines",
+          "value": "301"
+        },
+        {
+          "metric": "ncloc",
+          "value": "245"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "168",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "731",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/CriacaoEdicaoArmarioUIModal.java",
+      "name": "CriacaoEdicaoArmarioUIModal.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/CriacaoEdicaoArmarioUIModal.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "142",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "12"
+        },
+        {
+          "metric": "lines",
+          "value": "266"
+        },
+        {
+          "metric": "ncloc",
+          "value": "217"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "142",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "545",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "106"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/CriacaoEdicaoCursoUIModal.java",
+      "name": "CriacaoEdicaoCursoUIModal.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/CriacaoEdicaoCursoUIModal.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "151",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "15"
+        },
+        {
+          "metric": "lines",
+          "value": "262"
+        },
+        {
+          "metric": "ncloc",
+          "value": "213"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "151",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "562",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "86"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/CriacaoEdicaoEstudanteUIModal.java",
+      "name": "CriacaoEdicaoEstudanteUIModal.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/CriacaoEdicaoEstudanteUIModal.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "338",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "29"
+        },
+        {
+          "metric": "lines",
+          "value": "484"
+        },
+        {
+          "metric": "ncloc",
+          "value": "413"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "10.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "338",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1298",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "168"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/CriacaoEdicaoLocalizacaoUIModal.java",
+      "name": "CriacaoEdicaoLocalizacaoUIModal.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/CriacaoEdicaoLocalizacaoUIModal.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "137",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "15"
+        },
+        {
+          "metric": "lines",
+          "value": "242"
+        },
+        {
+          "metric": "ncloc",
+          "value": "198"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "137",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "512",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "84"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/CriacaoEdicaoServidorUIModal.java",
+      "name": "CriacaoEdicaoServidorUIModal.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/CriacaoEdicaoServidorUIModal.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "325",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "29"
+        },
+        {
+          "metric": "lines",
+          "value": "463"
+        },
+        {
+          "metric": "ncloc",
+          "value": "396"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "325",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1163",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "161"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Curso.java",
+      "name": "Curso.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Curso.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "17"
+        },
+        {
+          "metric": "lines",
+          "value": "101"
+        },
+        {
+          "metric": "ncloc",
+          "value": "79"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "38",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "27"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/CursoComboBoxModel.java",
+      "name": "CursoComboBoxModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/CursoComboBoxModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "53"
+        },
+        {
+          "metric": "ncloc",
+          "value": "38"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "89",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/CursoDao.java",
+      "name": "CursoDao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/CursoDao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "31"
+        },
+        {
+          "metric": "ncloc",
+          "value": "14"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/CursoDaoImpl.java",
+      "name": "CursoDaoImpl.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/CursoDaoImpl.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "97"
+        },
+        {
+          "metric": "ncloc",
+          "value": "79"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "74",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "35"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/CursoException.java",
+      "name": "CursoException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/CursoException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/CursoServico.java",
+      "name": "CursoServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/CursoServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "15"
+        },
+        {
+          "metric": "lines",
+          "value": "75"
+        },
+        {
+          "metric": "ncloc",
+          "value": "55"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "23.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "394",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/test/java/br/edu/ifpr/paranavai/servico/CursoServicoTest.java",
+      "name": "CursoServicoTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/edu/ifpr/paranavai/servico/CursoServicoTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "71",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "28"
+        },
+        {
+          "metric": "lines",
+          "value": "258"
+        },
+        {
+          "metric": "ncloc",
+          "value": "192"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "71",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "243",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "107"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/EditorDasAcoesDaCelulaArmario.java",
+      "name": "EditorDasAcoesDaCelulaArmario.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/EditorDasAcoesDaCelulaArmario.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/EditorDasAcoesDaCelulaCurso.java",
+      "name": "EditorDasAcoesDaCelulaCurso.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/EditorDasAcoesDaCelulaCurso.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "36"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/EditorDasAcoesDaCelulaEstudante.java",
+      "name": "EditorDasAcoesDaCelulaEstudante.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/EditorDasAcoesDaCelulaEstudante.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "35"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/EditorDasAcoesDaCelulaHistoricoUI.java",
+      "name": "EditorDasAcoesDaCelulaHistoricoUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/EditorDasAcoesDaCelulaHistoricoUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/EditorDasAcoesDaCelulaListaUI.java",
+      "name": "EditorDasAcoesDaCelulaListaUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/EditorDasAcoesDaCelulaListaUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "35"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/EditorDasAcoesDaCelulaLocalizacao.java",
+      "name": "EditorDasAcoesDaCelulaLocalizacao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/EditorDasAcoesDaCelulaLocalizacao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/EditorDasAcoesDaCelulaServidor.java",
+      "name": "EditorDasAcoesDaCelulaServidor.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/EditorDasAcoesDaCelulaServidor.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/EditorDasAcoesDaCelulaTabelaConcessao.java",
+      "name": "EditorDasAcoesDaCelulaTabelaConcessao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/EditorDasAcoesDaCelulaTabelaConcessao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/EditorDasAcoesDaCelulaTabelaEmprestimo.java",
+      "name": "EditorDasAcoesDaCelulaTabelaEmprestimo.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/EditorDasAcoesDaCelulaTabelaEmprestimo.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Emprestimo.java",
+      "name": "Emprestimo.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Emprestimo.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "12"
+        },
+        {
+          "metric": "lines",
+          "value": "94"
+        },
+        {
+          "metric": "ncloc",
+          "value": "68"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "37",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "13"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/EmprestimoConcessaoUIModal.java",
+      "name": "EmprestimoConcessaoUIModal.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/EmprestimoConcessaoUIModal.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "305",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "29"
+        },
+        {
+          "metric": "lines",
+          "value": "540"
+        },
+        {
+          "metric": "ncloc",
+          "value": "453"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "305",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1228",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "176"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/EmprestimoDao.java",
+      "name": "EmprestimoDao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/EmprestimoDao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "39"
+        },
+        {
+          "metric": "ncloc",
+          "value": "18"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "26",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/EmprestimoDaoImpl.java",
+      "name": "EmprestimoDaoImpl.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/EmprestimoDaoImpl.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "53",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "13"
+        },
+        {
+          "metric": "lines",
+          "value": "135"
+        },
+        {
+          "metric": "ncloc",
+          "value": "112"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "53",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "87",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/EmprestimoEstudanteUI.java",
+      "name": "EmprestimoEstudanteUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/EmprestimoEstudanteUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "166",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "16"
+        },
+        {
+          "metric": "lines",
+          "value": "246"
+        },
+        {
+          "metric": "ncloc",
+          "value": "190"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "10.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "166",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "613",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "123"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/EmprestimoException.java",
+      "name": "EmprestimoException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/EmprestimoException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/EmprestimoServico.java",
+      "name": "EmprestimoServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/EmprestimoServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "21"
+        },
+        {
+          "metric": "lines",
+          "value": "95"
+        },
+        {
+          "metric": "ncloc",
+          "value": "69"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "19.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "403",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "29"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/test/java/br/edu/ifpr/paranavai/servico/EmprestimoServicoTest.java",
+      "name": "EmprestimoServicoTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/edu/ifpr/paranavai/servico/EmprestimoServicoTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "103",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "39"
+        },
+        {
+          "metric": "lines",
+          "value": "355"
+        },
+        {
+          "metric": "ncloc",
+          "value": "277"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "103",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "387",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "150"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/EmprestimoUIModal.java",
+      "name": "EmprestimoUIModal.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/EmprestimoUIModal.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "165",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "19"
+        },
+        {
+          "metric": "lines",
+          "value": "303"
+        },
+        {
+          "metric": "ncloc",
+          "value": "245"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "165",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "554",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "90"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/test/java/br/edu/ifpr/paranavai/servico/EncriptTest.java",
+      "name": "EncriptTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/edu/ifpr/paranavai/servico/EncriptTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "21"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Estudante.java",
+      "name": "Estudante.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Estudante.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "55"
+        },
+        {
+          "metric": "ncloc",
+          "value": "42"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "40",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/EstudanteComboBoxModel.java",
+      "name": "EstudanteComboBoxModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/EstudanteComboBoxModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "53"
+        },
+        {
+          "metric": "ncloc",
+          "value": "38"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/EstudanteDao.java",
+      "name": "EstudanteDao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/EstudanteDao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "36"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/EstudanteDaoImpl.java",
+      "name": "EstudanteDaoImpl.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/EstudanteDaoImpl.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "58",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "136"
+        },
+        {
+          "metric": "ncloc",
+          "value": "114"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "58",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "94",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "53"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/EstudanteException.java",
+      "name": "EstudanteException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/EstudanteException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/EstudantesDevolucaoUI.java",
+      "name": "EstudantesDevolucaoUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/EstudantesDevolucaoUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "101",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "10"
+        },
+        {
+          "metric": "lines",
+          "value": "207"
+        },
+        {
+          "metric": "ncloc",
+          "value": "156"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "101",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "389",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "59"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/EstudantesEmprestimoUI.java",
+      "name": "EstudantesEmprestimoUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/EstudantesEmprestimoUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "100",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "209"
+        },
+        {
+          "metric": "ncloc",
+          "value": "161"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "100",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "343",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "64"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/EstudanteServico.java",
+      "name": "EstudanteServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/EstudanteServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "68",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "32"
+        },
+        {
+          "metric": "lines",
+          "value": "119"
+        },
+        {
+          "metric": "ncloc",
+          "value": "96"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "29.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "68",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "857",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "45"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/test/java/br/edu/ifpr/paranavai/servico/EstudanteServicoTest.java",
+      "name": "EstudanteServicoTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/edu/ifpr/paranavai/servico/EstudanteServicoTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "127",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "56"
+        },
+        {
+          "metric": "lines",
+          "value": "467"
+        },
+        {
+          "metric": "ncloc",
+          "value": "365"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "127",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "386",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "207"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/conexao/HibernateUtil.java",
+      "name": "HibernateUtil.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/conexao/HibernateUtil.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "41"
+        },
+        {
+          "metric": "ncloc",
+          "value": "30"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/IndexArmarioPanelUI.java",
+      "name": "IndexArmarioPanelUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/IndexArmarioPanelUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "125",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "194"
+        },
+        {
+          "metric": "ncloc",
+          "value": "146"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "11.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "125",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "510",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "85"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/IndexConcessaoPanelUI.java",
+      "name": "IndexConcessaoPanelUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/IndexConcessaoPanelUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "205",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "38"
+        },
+        {
+          "metric": "lines",
+          "value": "287"
+        },
+        {
+          "metric": "ncloc",
+          "value": "228"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "11.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "205",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "796",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "142"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/IndexCursoPanelUI.java",
+      "name": "IndexCursoPanelUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/IndexCursoPanelUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "122",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "17"
+        },
+        {
+          "metric": "lines",
+          "value": "200"
+        },
+        {
+          "metric": "ncloc",
+          "value": "148"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "10.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "122",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "474",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "82"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/IndexEmprestimoPanelUI.java",
+      "name": "IndexEmprestimoPanelUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/IndexEmprestimoPanelUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "219",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "48",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "43"
+        },
+        {
+          "metric": "lines",
+          "value": "303"
+        },
+        {
+          "metric": "ncloc",
+          "value": "240"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "11.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "219",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "828",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "147"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/IndexEstudantePanelUI.java",
+      "name": "IndexEstudantePanelUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/IndexEstudantePanelUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "188",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "25"
+        },
+        {
+          "metric": "lines",
+          "value": "291"
+        },
+        {
+          "metric": "ncloc",
+          "value": "223"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "10.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "188",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "696",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "123"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/IndexHistoricoUI.java",
+      "name": "IndexHistoricoUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/IndexHistoricoUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "69",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "10"
+        },
+        {
+          "metric": "lines",
+          "value": "138"
+        },
+        {
+          "metric": "ncloc",
+          "value": "93"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "11.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "69",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "315",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "51"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/IndexLocalizacaoPanelUI.java",
+      "name": "IndexLocalizacaoPanelUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/IndexLocalizacaoPanelUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "121",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "15"
+        },
+        {
+          "metric": "lines",
+          "value": "192"
+        },
+        {
+          "metric": "ncloc",
+          "value": "144"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "11.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "121",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "494",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "83"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/IndexLoginUI.java",
+      "name": "IndexLoginUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/IndexLoginUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "168",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "18"
+        },
+        {
+          "metric": "lines",
+          "value": "274"
+        },
+        {
+          "metric": "ncloc",
+          "value": "207"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "168",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "591",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "136"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/IndexServidorPanelUI.java",
+      "name": "IndexServidorPanelUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/IndexServidorPanelUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "164",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "23"
+        },
+        {
+          "metric": "lines",
+          "value": "251"
+        },
+        {
+          "metric": "ncloc",
+          "value": "194"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "10.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "164",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "621",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "117"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/IndicadorServico.java",
+      "name": "IndicadorServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/IndicadorServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "43"
+        },
+        {
+          "metric": "ncloc",
+          "value": "27"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/InicioDashboard.java",
+      "name": "InicioDashboard.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/InicioDashboard.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "253",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "381"
+        },
+        {
+          "metric": "ncloc",
+          "value": "290"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "14.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "253",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1276",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "202"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/ListaHistoricoUI.java",
+      "name": "ListaHistoricoUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/ListaHistoricoUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "66",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "196"
+        },
+        {
+          "metric": "ncloc",
+          "value": "146"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "66",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "245",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "54"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Localizacao.java",
+      "name": "Localizacao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Localizacao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "16"
+        },
+        {
+          "metric": "lines",
+          "value": "97"
+        },
+        {
+          "metric": "ncloc",
+          "value": "76"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/LocalizacaoComboBoxModel.java",
+      "name": "LocalizacaoComboBoxModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/LocalizacaoComboBoxModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "53"
+        },
+        {
+          "metric": "ncloc",
+          "value": "38"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "89",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/LocalizacaoDao.java",
+      "name": "LocalizacaoDao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/LocalizacaoDao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "14"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/LocalizacaoDaoImpl.java",
+      "name": "LocalizacaoDaoImpl.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/LocalizacaoDaoImpl.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "97"
+        },
+        {
+          "metric": "ncloc",
+          "value": "82"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "73",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "35"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/LocalizacaoException.java",
+      "name": "LocalizacaoException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/LocalizacaoException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/LocalizacaoServico.java",
+      "name": "LocalizacaoServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/LocalizacaoServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "40",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "17"
+        },
+        {
+          "metric": "lines",
+          "value": "91"
+        },
+        {
+          "metric": "ncloc",
+          "value": "67"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "17.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "40",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "341",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "27"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/test/java/br/edu/ifpr/paranavai/servico/LocalizacaoServicoTest.java",
+      "name": "LocalizacaoServicoTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/edu/ifpr/paranavai/servico/LocalizacaoServicoTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "74",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "28"
+        },
+        {
+          "metric": "lines",
+          "value": "258"
+        },
+        {
+          "metric": "ncloc",
+          "value": "191"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "74",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "237",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "102"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/LoginException.java",
+      "name": "LoginException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/LoginException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/LoginServico.java",
+      "name": "LoginServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/LoginServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "38"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "32.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "271",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/utils/MensagemUtil.java",
+      "name": "MensagemUtil.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/utils/MensagemUtil.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "127"
+        },
+        {
+          "metric": "ncloc",
+          "value": "101"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/utils/OperacaoUtil.java",
+      "name": "OperacaoUtil.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/utils/OperacaoUtil.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "52"
+        },
+        {
+          "metric": "ncloc",
+          "value": "35"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "14.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "153",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/tabela/acoes/PainelAcoesEmprestimosConcessoesUI.java",
+      "name": "PainelAcoesEmprestimosConcessoesUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/tabela/acoes/PainelAcoesEmprestimosConcessoesUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "38",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "93"
+        },
+        {
+          "metric": "ncloc",
+          "value": "67"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "38",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "71",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/tabela/acoes/PainelAcoesUI.java",
+      "name": "PainelAcoesUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/tabela/acoes/PainelAcoesUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "102"
+        },
+        {
+          "metric": "ncloc",
+          "value": "76"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "61",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/PainelDeControle.java",
+      "name": "PainelDeControle.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/PainelDeControle.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "644",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "56"
+        },
+        {
+          "metric": "lines",
+          "value": "892"
+        },
+        {
+          "metric": "ncloc",
+          "value": "739"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "11.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "644",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2490",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "319"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Pessoa.java",
+      "name": "Pessoa.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Pessoa.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "50",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "21"
+        },
+        {
+          "metric": "lines",
+          "value": "147"
+        },
+        {
+          "metric": "ncloc",
+          "value": "112"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "50",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "92",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "27"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/RenderizadorDasAcoesDaCelulaArmario.java",
+      "name": "RenderizadorDasAcoesDaCelulaArmario.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/armarios/RenderizadorDasAcoesDaCelulaArmario.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "29"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/RenderizadorDasAcoesDaCelulaConcessao.java",
+      "name": "RenderizadorDasAcoesDaCelulaConcessao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/RenderizadorDasAcoesDaCelulaConcessao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/RenderizadorDasAcoesDaCelulaCurso.java",
+      "name": "RenderizadorDasAcoesDaCelulaCurso.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/curso/RenderizadorDasAcoesDaCelulaCurso.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "35"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/RenderizadorDasAcoesDaCelulaEmprestimo.java",
+      "name": "RenderizadorDasAcoesDaCelulaEmprestimo.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/RenderizadorDasAcoesDaCelulaEmprestimo.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/RenderizadorDasAcoesDaCelulaEstudante.java",
+      "name": "RenderizadorDasAcoesDaCelulaEstudante.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/RenderizadorDasAcoesDaCelulaEstudante.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "35"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/RenderizadorDasAcoesDaCelulaHistorico.java",
+      "name": "RenderizadorDasAcoesDaCelulaHistorico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/RenderizadorDasAcoesDaCelulaHistorico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/RenderizadorDasAcoesDaCelulaLista.java",
+      "name": "RenderizadorDasAcoesDaCelulaLista.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/historico/RenderizadorDasAcoesDaCelulaLista.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "35"
+        },
+        {
+          "metric": "ncloc",
+          "value": "18"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/RenderizadorDasAcoesDaCelulaLocalizacao.java",
+      "name": "RenderizadorDasAcoesDaCelulaLocalizacao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/localizacao/RenderizadorDasAcoesDaCelulaLocalizacao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "32"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/RenderizadorDasAcoesDaCelulaServidor.java",
+      "name": "RenderizadorDasAcoesDaCelulaServidor.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/RenderizadorDasAcoesDaCelulaServidor.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/SelecionarLocalizacaoUI.java",
+      "name": "SelecionarLocalizacaoUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/SelecionarLocalizacaoUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "81",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "133"
+        },
+        {
+          "metric": "ncloc",
+          "value": "94"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "12.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "81",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "351",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "68"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Servidor.java",
+      "name": "Servidor.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/modelo/Servidor.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "38"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/ServidorDao.java",
+      "name": "ServidorDao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/ServidorDao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "29"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/ServidorDaoImpl.java",
+      "name": "ServidorDaoImpl.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/dao/impl/ServidorDaoImpl.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "39",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "91"
+        },
+        {
+          "metric": "ncloc",
+          "value": "73"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "39",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "69",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "31"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/ServidorException.java",
+      "name": "ServidorException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/excecoes/ServidorException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/servico/ServidorServico.java",
+      "name": "ServidorServico.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/servico/ServidorServico.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "30"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/modelo/StatusArmario.java",
+      "name": "StatusArmario.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/modelo/StatusArmario.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/StatusArmarioComboBoxModel.java",
+      "name": "StatusArmarioComboBoxModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/combobox/StatusArmarioComboBoxModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "53"
+        },
+        {
+          "metric": "ncloc",
+          "value": "38"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/utils/Tela.java",
+      "name": "Tela.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/utils/Tela.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "77",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "10"
+        },
+        {
+          "metric": "lines",
+          "value": "147"
+        },
+        {
+          "metric": "ncloc",
+          "value": "100"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "77",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "201",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "41"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/utils/TelaLimpa1.java",
+      "name": "TelaLimpa1.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/utils/TelaLimpa1.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "66",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "153"
+        },
+        {
+          "metric": "ncloc",
+          "value": "107"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "66",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "187",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "39"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/VisualizarConcessaoModalUI.java",
+      "name": "VisualizarConcessaoModalUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/concessao/VisualizarConcessaoModalUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "110",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "247"
+        },
+        {
+          "metric": "ncloc",
+          "value": "203"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "110",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "418",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "78"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/VisualizarEmprestimoModalUI.java",
+      "name": "VisualizarEmprestimoModalUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/emprestimo/VisualizarEmprestimoModalUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "108",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "240"
+        },
+        {
+          "metric": "ncloc",
+          "value": "198"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "108",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "391",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "71"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/VisualizarEstudanteModalUI.java",
+      "name": "VisualizarEstudanteModalUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/estudante/VisualizarEstudanteModalUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "151",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "307"
+        },
+        {
+          "metric": "ncloc",
+          "value": "251"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "151",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "652",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "98"
+        }
+      ]
+    },
+    {
+      "key": "Armarios-Sonar:src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/VisualizarServidorModalUI.java",
+      "name": "VisualizarServidorModalUI.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/edu/ifpr/paranavai/armarios/visao/servidor/VisualizarServidorModalUI.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "73",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "179"
+        },
+        {
+          "metric": "ncloc",
+          "value": "142"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "73",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "297",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "52"
+        }
+      ]
+    }
+  ]
+}

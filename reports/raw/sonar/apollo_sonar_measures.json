@@ -1,0 +1,5475 @@
+{
+  "totalExtracted": 87,
+  "components": [
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/ApiApplication.java",
+      "name": "ApiApplication.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/ApiApplication.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "11"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/test/java/com/onixx/apolloveiculos/api/ApiApplicationTests.java",
+      "name": "ApiApplicationTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/com/onixx/apolloveiculos/api/ApiApplicationTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "11"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/AuthService.java",
+      "name": "AuthService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/AuthService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "47",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "13"
+        },
+        {
+          "metric": "lines",
+          "value": "133"
+        },
+        {
+          "metric": "ncloc",
+          "value": "116"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "47",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "197",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "49"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Bodywork/Bodywork.java",
+      "name": "Bodywork.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Bodywork/Bodywork.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "29"
+        },
+        {
+          "metric": "ncloc",
+          "value": "24"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/BodyworkController.java",
+      "name": "BodyworkController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/BodyworkController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "88"
+        },
+        {
+          "metric": "ncloc",
+          "value": "76"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "210",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Bodywork/BodyworkDTO.java",
+      "name": "BodyworkDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Bodywork/BodyworkDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "14.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/BodyworkRepository.java",
+      "name": "BodyworkRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/BodyworkRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "25"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/BodyworkService.java",
+      "name": "BodyworkService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/BodyworkService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "57"
+        },
+        {
+          "metric": "ncloc",
+          "value": "44"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "124",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "17"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Events/CarCreatedEvent.java",
+      "name": "CarCreatedEvent.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Events/CarCreatedEvent.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "19"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Events/CarDeletedEvent.java",
+      "name": "CarDeletedEvent.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Events/CarDeletedEvent.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Listeners/CarEventListener.java",
+      "name": "CarEventListener.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Listeners/CarEventListener.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "64"
+        },
+        {
+          "metric": "ncloc",
+          "value": "53"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "79",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/CarOperations/CarOperation.java",
+      "name": "CarOperation.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/CarOperations/CarOperation.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "54"
+        },
+        {
+          "metric": "ncloc",
+          "value": "43"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "27",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/CarOperationRepository.java",
+      "name": "CarOperationRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/CarOperationRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "23"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/CarOperationService.java",
+      "name": "CarOperationService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/CarOperationService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "68",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "21"
+        },
+        {
+          "metric": "lines",
+          "value": "156"
+        },
+        {
+          "metric": "ncloc",
+          "value": "95"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "10.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "68",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "306",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "43"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Cars/Cars.java",
+      "name": "Cars.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Cars/Cars.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "178"
+        },
+        {
+          "metric": "ncloc",
+          "value": "132"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "102",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/CarsController.java",
+      "name": "CarsController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/CarsController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "197",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "19"
+        },
+        {
+          "metric": "lines",
+          "value": "308"
+        },
+        {
+          "metric": "ncloc",
+          "value": "282"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "197",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "539",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "95"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/CarService.java",
+      "name": "CarService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/CarService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "189",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "69",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "79"
+        },
+        {
+          "metric": "lines",
+          "value": "335"
+        },
+        {
+          "metric": "ncloc",
+          "value": "279"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "189",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "749",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "136"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/CarsRepository.java",
+      "name": "CarsRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/CarsRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "78"
+        },
+        {
+          "metric": "ncloc",
+          "value": "66"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Events/CarUpdatedEvent.java",
+      "name": "CarUpdatedEvent.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Events/CarUpdatedEvent.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "19"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/User/ChangePasswordDTO.java",
+      "name": "ChangePasswordDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/User/ChangePasswordDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "3"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "23.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Infra/CloudinaryConfig.java",
+      "name": "CloudinaryConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Infra/CloudinaryConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "32"
+        },
+        {
+          "metric": "ncloc",
+          "value": "25"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/CloudinaryService.java",
+      "name": "CloudinaryService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/CloudinaryService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "90"
+        },
+        {
+          "metric": "ncloc",
+          "value": "42"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Colors/Colors.java",
+      "name": "Colors.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Colors/Colors.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "26"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/ColorsController.java",
+      "name": "ColorsController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/ColorsController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "60",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "92"
+        },
+        {
+          "metric": "ncloc",
+          "value": "77"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "60",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "208",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Colors/ColorsDTO.java",
+      "name": "ColorsDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Colors/ColorsDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "14.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/ColorsRepository.java",
+      "name": "ColorsRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/ColorsRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "28"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/ColorsService.java",
+      "name": "ColorsService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/ColorsService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "63"
+        },
+        {
+          "metric": "ncloc",
+          "value": "50"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "124",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "17"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Utils/DataInitializer.java",
+      "name": "DataInitializer.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Utils/DataInitializer.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "73",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "19"
+        },
+        {
+          "metric": "lines",
+          "value": "150"
+        },
+        {
+          "metric": "ncloc",
+          "value": "127"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "73",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "248",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "72"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Directions/Directions.java",
+      "name": "Directions.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Directions/Directions.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "26"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/DirectionsController.java",
+      "name": "DirectionsController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/DirectionsController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "72",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "87"
+        },
+        {
+          "metric": "ncloc",
+          "value": "72"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "10.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "72",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "229",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Directions/DirectionsDTO.java",
+      "name": "DirectionsDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Directions/DirectionsDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "11.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/DirectionsRepository.java",
+      "name": "DirectionsRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/DirectionsRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "18"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/DirectionsService.java",
+      "name": "DirectionsService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/DirectionsService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "65"
+        },
+        {
+          "metric": "ncloc",
+          "value": "50"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "124",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "17"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/EmailService.java",
+      "name": "EmailService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/EmailService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "57"
+        },
+        {
+          "metric": "ncloc",
+          "value": "46"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "17"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Utils/ENUM_CONDITION.java",
+      "name": "ENUM_CONDITION.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Utils/ENUM_CONDITION.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "17.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Infra/EnvironmentChecker.java",
+      "name": "EnvironmentChecker.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Infra/EnvironmentChecker.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "23"
+        },
+        {
+          "metric": "ncloc",
+          "value": "17"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Cars/FavoriteCars.java",
+      "name": "FavoriteCars.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Cars/FavoriteCars.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "37"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/FavoriteCarsController.java",
+      "name": "FavoriteCarsController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/FavoriteCarsController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "87",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "124"
+        },
+        {
+          "metric": "ncloc",
+          "value": "113"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "87",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "264",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/FavoriteCarsRepository.java",
+      "name": "FavoriteCarsRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/FavoriteCarsRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "25"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/FavoriteCarsService.java",
+      "name": "FavoriteCarsService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/FavoriteCarsService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "27",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "82"
+        },
+        {
+          "metric": "ncloc",
+          "value": "66"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "27",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "72",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/ForgotPasswordController.java",
+      "name": "ForgotPasswordController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/ForgotPasswordController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "76"
+        },
+        {
+          "metric": "ncloc",
+          "value": "61"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "84",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Fuels/Fuels.java",
+      "name": "Fuels.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Fuels/Fuels.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/FuelsController.java",
+      "name": "FuelsController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/FuelsController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "96"
+        },
+        {
+          "metric": "ncloc",
+          "value": "81"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "219",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Fuels/FuelsDTO.java",
+      "name": "FuelsDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Fuels/FuelsDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "14.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/FuelsRepository.java",
+      "name": "FuelsRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/FuelsRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "24"
+        },
+        {
+          "metric": "ncloc",
+          "value": "18"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/FuelsService.java",
+      "name": "FuelsService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/FuelsService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "63"
+        },
+        {
+          "metric": "ncloc",
+          "value": "50"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "124",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "17"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Infra/Exception/GlobalException.java",
+      "name": "GlobalException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Infra/Exception/GlobalException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "60"
+        },
+        {
+          "metric": "ncloc",
+          "value": "52"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "10.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "168",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/ImageRepository.java",
+      "name": "ImageRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/ImageRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "14"
+        },
+        {
+          "metric": "ncloc",
+          "value": "11"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Images/Images.java",
+      "name": "Images.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Images/Images.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "30"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/ImageService.java",
+      "name": "ImageService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/ImageService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "31"
+        },
+        {
+          "metric": "ncloc",
+          "value": "23"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "9.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "63",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/DTO/ImageUploadResponseDTO.java",
+      "name": "ImageUploadResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/DTO/ImageUploadResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "18"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Infra/JsonViewResponseBodyAdvice.java",
+      "name": "JsonViewResponseBodyAdvice.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Infra/JsonViewResponseBodyAdvice.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "10"
+        },
+        {
+          "metric": "lines",
+          "value": "100"
+        },
+        {
+          "metric": "ncloc",
+          "value": "73"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "56",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "26"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Marks/Mark.java",
+      "name": "Mark.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Marks/Mark.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "25"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Models/Models.java",
+      "name": "Models.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Models/Models.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "27"
+        },
+        {
+          "metric": "ncloc",
+          "value": "24"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Motors/Motors.java",
+      "name": "Motors.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Motors/Motors.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/MotorsController.java",
+      "name": "MotorsController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/MotorsController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "71",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "77"
+        },
+        {
+          "metric": "ncloc",
+          "value": "64"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "12.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "71",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "232",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Motors/MotorsDTO.java",
+      "name": "MotorsDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Motors/MotorsDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "14.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/MotorsRepository.java",
+      "name": "MotorsRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/MotorsRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/MotorsService.java",
+      "name": "MotorsService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/MotorsService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "59"
+        },
+        {
+          "metric": "ncloc",
+          "value": "49"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "124",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "17"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/OLXCarRequest/OLXCarParams.java",
+      "name": "OLXCarParams.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/OLXCarRequest/OLXCarParams.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "28"
+        },
+        {
+          "metric": "ncloc",
+          "value": "25"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/OLXCarRequest/OLXCarRequest.java",
+      "name": "OLXCarRequest.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/OLXCarRequest/OLXCarRequest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "76"
+        },
+        {
+          "metric": "ncloc",
+          "value": "67"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "34"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/OLXIntegrationService.java",
+      "name": "OLXIntegrationService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/OLXIntegrationService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "80"
+        },
+        {
+          "metric": "ncloc",
+          "value": "60"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "18.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "330",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "34"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/User/RefreshToken.java",
+      "name": "RefreshToken.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/User/RefreshToken.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/RefreshTokenRepository.java",
+      "name": "RefreshTokenRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/RefreshTokenRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/DTO/ResponseAnyDTO.java",
+      "name": "ResponseAnyDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/DTO/ResponseAnyDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "18.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Infra/Security/SecurityConfigurations.java",
+      "name": "SecurityConfigurations.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Infra/Security/SecurityConfigurations.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "123"
+        },
+        {
+          "metric": "ncloc",
+          "value": "103"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "207",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Infra/Security/SecurityFilter.java",
+      "name": "SecurityFilter.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Infra/Security/SecurityFilter.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "40",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "76"
+        },
+        {
+          "metric": "ncloc",
+          "value": "66"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "40",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "71",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Standard/Standard.java",
+      "name": "Standard.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Standard/Standard.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "65",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Standard/Status.java",
+      "name": "Status.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Standard/Status.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "17.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "26",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Infra/Security/TokenService.java",
+      "name": "TokenService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Infra/Security/TokenService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "68",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "103"
+        },
+        {
+          "metric": "ncloc",
+          "value": "93"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "68",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "246",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Traction/Traction.java",
+      "name": "Traction.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Traction/Traction.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "28"
+        },
+        {
+          "metric": "ncloc",
+          "value": "25"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Transmissions/Transmissions.java",
+      "name": "Transmissions.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Transmissions/Transmissions.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "28"
+        },
+        {
+          "metric": "ncloc",
+          "value": "25"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/TransmissionsController.java",
+      "name": "TransmissionsController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/TransmissionsController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "97"
+        },
+        {
+          "metric": "ncloc",
+          "value": "82"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "219",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Transmissions/TransmissionsDTO.java",
+      "name": "TransmissionsDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Transmissions/TransmissionsDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "14.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/TransmissionsRepository.java",
+      "name": "TransmissionsRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/TransmissionsRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/TransmissionsService.java",
+      "name": "TransmissionsService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/TransmissionsService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "64"
+        },
+        {
+          "metric": "ncloc",
+          "value": "50"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "124",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "17"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/User/User.java",
+      "name": "User.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/User/User.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "87"
+        },
+        {
+          "metric": "ncloc",
+          "value": "68"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "52",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Controllers/UserController.java",
+      "name": "UserController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Controllers/UserController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "67",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "17"
+        },
+        {
+          "metric": "lines",
+          "value": "127"
+        },
+        {
+          "metric": "ncloc",
+          "value": "115"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "67",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "213",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "39"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/User/UserDTO.java",
+      "name": "UserDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/User/UserDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "18.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/User/UserRegisterDTO.java",
+      "name": "UserRegisterDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/User/UserRegisterDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Repositories/UserRepository.java",
+      "name": "UserRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Repositories/UserRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "8.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/User/UserResponseDTO.java",
+      "name": "UserResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/User/UserResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "5"
+        },
+        {
+          "metric": "ncloc",
+          "value": "3"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "23.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/User/UserRoles.java",
+      "name": "UserRoles.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/User/UserRoles.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "16"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "26",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Services/UserService.java",
+      "name": "UserService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Services/UserService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "13"
+        },
+        {
+          "metric": "lines",
+          "value": "88"
+        },
+        {
+          "metric": "ncloc",
+          "value": "73"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "50",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Cars/VehiclesStatus.java",
+      "name": "VehiclesStatus.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Cars/VehiclesStatus.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "17.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Domains/Cars/VehicleTypes.java",
+      "name": "VehicleTypes.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Domains/Cars/VehicleTypes.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "17.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Apollo-Sonar:src/main/java/com/onixx/apolloveiculos/api/Utils/Views.java",
+      "name": "Views.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/onixx/apolloveiculos/api/Utils/Views.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "20"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "16.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "25",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    }
+  ]
+}

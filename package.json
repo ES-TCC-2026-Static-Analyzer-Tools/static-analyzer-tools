@@ -1,0 +1,23 @@
+{
+  "name": "static-analyzer-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ES-TCC-2026-Static-Analyzer-Tools/static-analyzer-tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ES-TCC-2026-Static-Analyzer-Tools/static-analyzer-tools/issues"
+  },
+  "homepage": "https://github.com/ES-TCC-2026-Static-Analyzer-Tools/static-analyzer-tools#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

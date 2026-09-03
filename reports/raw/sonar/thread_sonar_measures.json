@@ -1,0 +1,4725 @@
+{
+  "totalExtracted": 78,
+  "components": [
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/Agreement.java",
+      "name": "Agreement.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/Agreement.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "39"
+        },
+        {
+          "metric": "ncloc",
+          "value": "31"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/controllers/AgreementController.java",
+      "name": "AgreementController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/controllers/AgreementController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "38",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "101"
+        },
+        {
+          "metric": "ncloc",
+          "value": "88"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "38",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/list/AgreementListDTO.java",
+      "name": "AgreementListDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/list/AgreementListDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/mapper/AgreementMapper.java",
+      "name": "AgreementMapper.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/mapper/AgreementMapper.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/repositories/AgreementRepository.java",
+      "name": "AgreementRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/repositories/AgreementRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "19"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/AgreementRequestDTO.java",
+      "name": "AgreementRequestDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/AgreementRequestDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "20"
+        },
+        {
+          "metric": "ncloc",
+          "value": "17"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/AgreementResponseDTO.java",
+      "name": "AgreementResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/AgreementResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/services/AgreementService.java",
+      "name": "AgreementService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/services/AgreementService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "62"
+        },
+        {
+          "metric": "ncloc",
+          "value": "51"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/AgreementStatus.java",
+      "name": "AgreementStatus.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/AgreementStatus.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/exceptions/ApiExceptionHandler.java",
+      "name": "ApiExceptionHandler.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/exceptions/ApiExceptionHandler.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "83"
+        },
+        {
+          "metric": "ncloc",
+          "value": "69"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/Client.java",
+      "name": "Client.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/Client.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "128"
+        },
+        {
+          "metric": "ncloc",
+          "value": "95"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/controllers/ClientController.java",
+      "name": "ClientController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/controllers/ClientController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "88"
+        },
+        {
+          "metric": "ncloc",
+          "value": "77"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/list/ClientListDTO.java",
+      "name": "ClientListDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/list/ClientListDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/mapper/ClientMapper.java",
+      "name": "ClientMapper.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/mapper/ClientMapper.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "49"
+        },
+        {
+          "metric": "ncloc",
+          "value": "44"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "34"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/repositories/ClientRepository.java",
+      "name": "ClientRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/repositories/ClientRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "18"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/ClientRequestDTO.java",
+      "name": "ClientRequestDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/ClientRequestDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "58"
+        },
+        {
+          "metric": "ncloc",
+          "value": "52"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "67",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/ClientResponseDTO.java",
+      "name": "ClientResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/ClientResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "41"
+        },
+        {
+          "metric": "ncloc",
+          "value": "38"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "67",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/services/ClientService.java",
+      "name": "ClientService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/services/ClientService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "12"
+        },
+        {
+          "metric": "lines",
+          "value": "120"
+        },
+        {
+          "metric": "ncloc",
+          "value": "104"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "71"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/test/java/com/ifpr/thread/stilofit/ClientServiceTest.java",
+      "name": "ClientServiceTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/com/ifpr/thread/stilofit/ClientServiceTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "lines",
+          "value": "98"
+        },
+        {
+          "metric": "ncloc",
+          "value": "85"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "89",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/Contract.java",
+      "name": "Contract.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/Contract.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "77"
+        },
+        {
+          "metric": "ncloc",
+          "value": "59"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/controllers/ContractController.java",
+      "name": "ContractController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/controllers/ContractController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "68"
+        },
+        {
+          "metric": "ncloc",
+          "value": "57"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/list/ContractListDTO.java",
+      "name": "ContractListDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/list/ContractListDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/mapper/ContractMapper.java",
+      "name": "ContractMapper.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/mapper/ContractMapper.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "62"
+        },
+        {
+          "metric": "ncloc",
+          "value": "56"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/exceptions/ContractNameAlreadyExistsException.java",
+      "name": "ContractNameAlreadyExistsException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/exceptions/ContractNameAlreadyExistsException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/repositories/ContractRepository.java",
+      "name": "ContractRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/repositories/ContractRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/ContractRequestDTO.java",
+      "name": "ContractRequestDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/ContractRequestDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "55"
+        },
+        {
+          "metric": "ncloc",
+          "value": "39"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/ContractResponseDTO.java",
+      "name": "ContractResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/ContractResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "27"
+        },
+        {
+          "metric": "ncloc",
+          "value": "23"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/services/ContractService.java",
+      "name": "ContractService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/services/ContractService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "13"
+        },
+        {
+          "metric": "lines",
+          "value": "76"
+        },
+        {
+          "metric": "ncloc",
+          "value": "59"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/ContractStatus.java",
+      "name": "ContractStatus.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/ContractStatus.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/config/CorsConfig.java",
+      "name": "CorsConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/config/CorsConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "23"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/exceptions/CpfAlreadyRegisteredException.java",
+      "name": "CpfAlreadyRegisteredException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/exceptions/CpfAlreadyRegisteredException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/Discount.java",
+      "name": "Discount.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/Discount.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "42"
+        },
+        {
+          "metric": "ncloc",
+          "value": "31"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/list/DiscountListDTO.java",
+      "name": "DiscountListDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/list/DiscountListDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "14"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/DiscountRequestDTO.java",
+      "name": "DiscountRequestDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/DiscountRequestDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "27"
+        },
+        {
+          "metric": "ncloc",
+          "value": "23"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/DiscountResponseDTO.java",
+      "name": "DiscountResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/DiscountResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "20"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/DiscountType.java",
+      "name": "DiscountType.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/DiscountType.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/Employee.java",
+      "name": "Employee.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/Employee.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "129"
+        },
+        {
+          "metric": "ncloc",
+          "value": "99"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/controllers/EmployeeController.java",
+      "name": "EmployeeController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/controllers/EmployeeController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "87"
+        },
+        {
+          "metric": "ncloc",
+          "value": "77"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/list/EmployeeListDTO.java",
+      "name": "EmployeeListDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/list/EmployeeListDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/mapper/EmployeeMapper.java",
+      "name": "EmployeeMapper.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/mapper/EmployeeMapper.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "48"
+        },
+        {
+          "metric": "ncloc",
+          "value": "44"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/repositories/EmployeeRepository.java",
+      "name": "EmployeeRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/repositories/EmployeeRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "20"
+        },
+        {
+          "metric": "ncloc",
+          "value": "14"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/EmployeeRequestDTO.java",
+      "name": "EmployeeRequestDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/EmployeeRequestDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "57"
+        },
+        {
+          "metric": "ncloc",
+          "value": "51"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/EmployeeResponseDTO.java",
+      "name": "EmployeeResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/EmployeeResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "41"
+        },
+        {
+          "metric": "ncloc",
+          "value": "36"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/services/EmployeeService.java",
+      "name": "EmployeeService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/services/EmployeeService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "101"
+        },
+        {
+          "metric": "ncloc",
+          "value": "90"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "58"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/exceptions/ErrorMessage.java",
+      "name": "ErrorMessage.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/exceptions/ErrorMessage.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "57"
+        },
+        {
+          "metric": "ncloc",
+          "value": "48"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/Gender.java",
+      "name": "Gender.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/Gender.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/MaritalStatus.java",
+      "name": "MaritalStatus.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/MaritalStatus.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/exceptions/NotBlankException.java",
+      "name": "NotBlankException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/exceptions/NotBlankException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/exceptions/NotFoundException.java",
+      "name": "NotFoundException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/exceptions/NotFoundException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/exceptions/ProfessionalRegisterAlreadyExistsException.java",
+      "name": "ProfessionalRegisterAlreadyExistsException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/exceptions/ProfessionalRegisterAlreadyExistsException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/Promotion.java",
+      "name": "Promotion.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/Promotion.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "17"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/controllers/PromotionController.java",
+      "name": "PromotionController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/controllers/PromotionController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "38",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "101"
+        },
+        {
+          "metric": "ncloc",
+          "value": "89"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "38",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/list/PromotionListDTO.java",
+      "name": "PromotionListDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/list/PromotionListDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/mapper/PromotionMapper.java",
+      "name": "PromotionMapper.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/mapper/PromotionMapper.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "25"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/repositories/PromotionRepository.java",
+      "name": "PromotionRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/repositories/PromotionRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "21"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/PromotionRequestDTO.java",
+      "name": "PromotionRequestDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/PromotionRequestDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/PromotionResponseDTO.java",
+      "name": "PromotionResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/PromotionResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/services/PromotionService.java",
+      "name": "PromotionService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/services/PromotionService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "59"
+        },
+        {
+          "metric": "ncloc",
+          "value": "46"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/Residence.java",
+      "name": "Residence.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/Residence.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/Role.java",
+      "name": "Role.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/Role.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/Sale.java",
+      "name": "Sale.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/Sale.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "64"
+        },
+        {
+          "metric": "ncloc",
+          "value": "52"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/controllers/SaleController.java",
+      "name": "SaleController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/controllers/SaleController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "100"
+        },
+        {
+          "metric": "ncloc",
+          "value": "88"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "40",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/list/SaleListDTO.java",
+      "name": "SaleListDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/list/SaleListDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/mapper/SaleMapper.java",
+      "name": "SaleMapper.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/mapper/SaleMapper.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "28"
+        },
+        {
+          "metric": "ncloc",
+          "value": "24"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/repositories/SaleRepository.java",
+      "name": "SaleRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/repositories/SaleRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/SaleRequestDTO.java",
+      "name": "SaleRequestDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/SaleRequestDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/dto/SaleResponseDTO.java",
+      "name": "SaleResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/dto/SaleResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "23"
+        },
+        {
+          "metric": "ncloc",
+          "value": "17"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/services/SaleService.java",
+      "name": "SaleService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/services/SaleService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "17"
+        },
+        {
+          "metric": "lines",
+          "value": "88"
+        },
+        {
+          "metric": "ncloc",
+          "value": "72"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/config/SecurityConfig.java",
+      "name": "SecurityConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/config/SecurityConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/Shift.java",
+      "name": "Shift.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/Shift.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/config/SpringDocOpenApiConfig.java",
+      "name": "SpringDocOpenApiConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/config/SpringDocOpenApiConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "21"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/Status.java",
+      "name": "Status.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/Status.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/StilofitApplication.java",
+      "name": "StilofitApplication.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/StilofitApplication.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/test/java/com/ifpr/thread/stilofit/StilofitApplicationTests.java",
+      "name": "StilofitApplicationTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/com/ifpr/thread/stilofit/StilofitApplicationTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "14"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/enums/TypeExpire.java",
+      "name": "TypeExpire.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/enums/TypeExpire.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/models/WeekDays.java",
+      "name": "WeekDays.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/models/WeekDays.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "39"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/repositories/WeekDaysRepository.java",
+      "name": "WeekDaysRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/repositories/WeekDaysRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Thread-Sonar:src/main/java/com/ifpr/thread/stilofit/utils/WeekDaysUtils.java",
+      "name": "WeekDaysUtils.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/ifpr/thread/stilofit/utils/WeekDaysUtils.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "19"
+        },
+        {
+          "metric": "lines",
+          "value": "48"
+        },
+        {
+          "metric": "ncloc",
+          "value": "42"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "38"
+        }
+      ]
+    }
+  ]
+}

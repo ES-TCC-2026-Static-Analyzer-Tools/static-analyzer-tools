@@ -1,0 +1,2014 @@
+{
+  "formatVersion": 0,
+  "pmdVersion": "7.26.0",
+  "timestamp": "2026-08-23T19:02:22.855-03:00",
+  "files": [
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/ApiWebharasApplication.java",
+      "violations": [
+        {
+          "beginline": 9,
+          "begincolumn": 35,
+          "endline": 9,
+          "endcolumn": 39,
+          "description": "Parameter \u0027args\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/config/AuthenticationService.java",
+      "violations": [
+        {
+          "beginline": 20,
+          "begincolumn": 50,
+          "endline": 20,
+          "endcolumn": 58,
+          "description": "Parameter \u0027username\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 27,
+          "endline": 21,
+          "endcolumn": 35,
+          "description": "Local variable \u0027optional\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/config/MethodSecurityConfig.java",
+      "violations": [
+        {
+          "beginline": 16,
+          "begincolumn": 48,
+          "endline": 16,
+          "endcolumn": 65,
+          "description": "Local variable \u0027expressionHandler\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/config/SecurityConfiguration.java",
+      "violations": [
+        {
+          "beginline": 10,
+          "begincolumn": 1,
+          "endline": 10,
+          "endcolumn": 103,
+          "description": "Unused import \u0027org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 19,
+          "begincolumn": 1,
+          "endline": 19,
+          "endcolumn": 61,
+          "description": "Unused import \u0027org.springframework.web.cors.CorsConfigurationSource\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 20,
+          "begincolumn": 1,
+          "endline": 20,
+          "endcolumn": 69,
+          "description": "Unused import \u0027org.springframework.web.cors.UrlBasedCorsConfigurationSource\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 22,
+          "begincolumn": 1,
+          "endline": 22,
+          "endcolumn": 25,
+          "description": "Unused import \u0027java.util.Arrays\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 30,
+          "begincolumn": 18,
+          "endline": 30,
+          "endcolumn": 30,
+          "description": "Missing commented default access modifier on field \u0027tokenService\u0027",
+          "rule": "CommentDefaultAccessModifier",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#commentdefaultaccessmodifier"
+        },
+        {
+          "beginline": 33,
+          "begincolumn": 35,
+          "endline": 33,
+          "endcolumn": 56,
+          "description": "Avoid excessively long variable names like authenticationService",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 43,
+          "begincolumn": 59,
+          "endline": 43,
+          "endcolumn": 63,
+          "description": "Parameter \u0027auth\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 43,
+          "endline": 49,
+          "endcolumn": 47,
+          "description": "Parameter \u0027http\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 59,
+          "begincolumn": 25,
+          "endline": 59,
+          "endcolumn": 29,
+          "description": "Local variable \u0027cors\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 59,
+          "begincolumn": 25,
+          "endline": 59,
+          "endcolumn": 29,
+          "description": "Use Explicit Types",
+          "rule": "UseExplicitTypes",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#useexplicittypes"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/controller/AuthController.java",
+      "violations": [
+        {
+          "beginline": 23,
+          "begincolumn": 91,
+          "endline": 23,
+          "endcolumn": 99,
+          "description": "Parameter \u0027loginDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 24,
+          "begincolumn": 24,
+          "endline": 24,
+          "endcolumn": 38,
+          "description": "Local variable \u0027apiResponseDTO\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/controller/TesteController.java",
+      "violations": [
+        {
+          "beginline": 5,
+          "begincolumn": 1,
+          "endline": 5,
+          "endcolumn": 50,
+          "description": "Unused import \u0027org.springframework.web.bind.annotation.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 14,
+          "endline": 10,
+          "endcolumn": 29,
+          "description": "The class \u0027TesteController\u0027 might be a test class, but it contains no test cases.",
+          "rule": "TestClassWithoutTestCases",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#testclasswithouttestcases"
+        },
+        {
+          "beginline": 15,
+          "begincolumn": 9,
+          "endline": 15,
+          "endcolumn": 15,
+          "description": "Usage of System.out/err",
+          "rule": "SystemPrintln",
+          "ruleset": "Best Practices",
+          "priority": 2,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_bestpractices.html#systemprintln"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/dto/ApiResponseDTO.java",
+      "violations": [
+        {
+          "beginline": 24,
+          "begincolumn": 38,
+          "endline": 24,
+          "endcolumn": 44,
+          "description": "Parameter \u0027status\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 24,
+          "begincolumn": 53,
+          "endline": 24,
+          "endcolumn": 60,
+          "description": "Parameter \u0027message\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 29,
+          "begincolumn": 38,
+          "endline": 29,
+          "endcolumn": 44,
+          "description": "Parameter \u0027status\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/dto/RoleDTO.java",
+      "violations": [
+        {
+          "beginline": 10,
+          "begincolumn": 14,
+          "endline": 10,
+          "endcolumn": 42,
+          "description": "Access to field `NON_NULL` on foreign value `JsonInclude.Include` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 13,
+          "begincolumn": 18,
+          "endline": 13,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/dto/TokenDTO.java",
+      "violations": [
+        {
+          "beginline": 3,
+          "begincolumn": 1,
+          "endline": 3,
+          "endcolumn": 23,
+          "description": "Unused import \u0027lombok.Builder\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 12,
+          "endline": 10,
+          "endcolumn": 16,
+          "description": "Missing commented default access modifier on field \u0027type\u0027",
+          "rule": "CommentDefaultAccessModifier",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#commentdefaultaccessmodifier"
+        },
+        {
+          "beginline": 11,
+          "begincolumn": 12,
+          "endline": 11,
+          "endcolumn": 17,
+          "description": "Missing commented default access modifier on field \u0027token\u0027",
+          "rule": "CommentDefaultAccessModifier",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#commentdefaultaccessmodifier"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Ancestrais.java",
+      "violations": [
+        {
+          "beginline": 3,
+          "begincolumn": 1,
+          "endline": 3,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 32,
+          "endline": 9,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 11,
+          "begincolumn": 18,
+          "endline": 11,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 19,
+          "begincolumn": 23,
+          "endline": 19,
+          "endcolumn": 37,
+          "description": "Access to field `LAZY` on foreign value `FetchType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 23,
+          "begincolumn": 23,
+          "endline": 23,
+          "endcolumn": 37,
+          "description": "Access to field `LAZY` on foreign value `FetchType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Cavalo.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 1,
+          "endline": 6,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 15,
+          "begincolumn": 32,
+          "endline": 15,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 17,
+          "begincolumn": 18,
+          "endline": 17,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 26,
+          "begincolumn": 27,
+          "endline": 26,
+          "endcolumn": 42,
+          "description": "The field name \u0027data_nascimento\u0027 doesn\u0027t match \u0027[a-z][a-zA-Z0-9]*\u0027",
+          "rule": "FieldNamingConventions",
+          "ruleset": "Code Style",
+          "priority": 1,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#fieldnamingconventions"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Cidade.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 1,
+          "endline": 6,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 32,
+          "endline": 14,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Estado.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 1,
+          "endline": 6,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 32,
+          "endline": 14,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Genero.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 1,
+          "endline": 6,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 32,
+          "endline": 14,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Habilidade.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 1,
+          "endline": 6,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 32,
+          "endline": 14,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Imagem.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 1,
+          "endline": 6,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 32,
+          "endline": 14,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Pelagem.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 1,
+          "endline": 6,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 32,
+          "endline": 14,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Raca.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 1,
+          "endline": 6,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 12,
+          "begincolumn": 14,
+          "endline": 12,
+          "endcolumn": 18,
+          "description": "Avoid short class names like Raca",
+          "rule": "ShortClassName",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortclassname"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 32,
+          "endline": 14,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Role.java",
+      "violations": [
+        {
+          "beginline": 3,
+          "begincolumn": 1,
+          "endline": 3,
+          "endcolumn": 62,
+          "description": "Unused import \u0027com.fasterxml.jackson.annotation.JsonIgnoreProperties\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 1,
+          "endline": 9,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 15,
+          "begincolumn": 14,
+          "endline": 15,
+          "endcolumn": 42,
+          "description": "Access to field `NON_NULL` on foreign value `JsonInclude.Include` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 14,
+          "endline": 16,
+          "endcolumn": 18,
+          "description": "Avoid short class names like Role",
+          "rule": "ShortClassName",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortclassname"
+        },
+        {
+          "beginline": 20,
+          "begincolumn": 32,
+          "endline": 20,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 18,
+          "endline": 21,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Usuario.java",
+      "violations": [
+        {
+          "beginline": 8,
+          "begincolumn": 1,
+          "endline": 8,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 27,
+          "begincolumn": 32,
+          "endline": 27,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 29,
+          "begincolumn": 18,
+          "endline": 29,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 25,
+          "endline": 49,
+          "endcolumn": 40,
+          "description": "Access to field `EAGER` on foreign value `FetchType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 32,
+          "endline": 58,
+          "endcolumn": 43,
+          "description": "Local variable \u0027authorities\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 59,
+          "endline": 58,
+          "endcolumn": 77,
+          "description": "Explicit type arguments can be replaced by a diamond: `new ArrayList\u003c\u003e()`",
+          "rule": "UseDiamondOperator",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#usediamondoperator"
+        },
+        {
+          "beginline": 59,
+          "begincolumn": 19,
+          "endline": 59,
+          "endcolumn": 23,
+          "description": "Local variable \u0027role\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/entity/Video.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 1,
+          "endline": 6,
+          "endcolumn": 28,
+          "description": "Unused import \u0027javax.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 32,
+          "endline": 14,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/filter/TokenAuthenticationFilter.java",
+      "violations": [
+        {
+          "beginline": 5,
+          "begincolumn": 1,
+          "endline": 5,
+          "endcolumn": 50,
+          "description": "Unused import \u0027org.hibernate.event.spi.SaveOrUpdateEvent\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 14,
+          "endline": 21,
+          "endcolumn": 39,
+          "description": "The class \u0027TokenAuthenticationFilter\u0027 has a total cyclomatic complexity of 12 (highest 4).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 23,
+          "begincolumn": 24,
+          "endline": 23,
+          "endcolumn": 74,
+          "description": "Array initialization can be written shorter",
+          "rule": "UseShortArrayInitializer",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#useshortarrayinitializer"
+        },
+        {
+          "beginline": 23,
+          "begincolumn": 24,
+          "endline": 23,
+          "endcolumn": 43,
+          "description": "Avoid excessively long variable names like PERMIT_ALL_PATTERNS",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 23,
+          "begincolumn": 24,
+          "endline": 23,
+          "endcolumn": 43,
+          "description": "Missing commented default access modifier on field \u0027PERMIT_ALL_PATTERNS\u0027",
+          "rule": "CommentDefaultAccessModifier",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#commentdefaultaccessmodifier"
+        },
+        {
+          "beginline": 27,
+          "begincolumn": 9,
+          "endline": 27,
+          "endcolumn": 34,
+          "description": "It is a good practice to call super() in a constructor",
+          "rule": "CallSuperInConstructor",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#callsuperinconstructor"
+        },
+        {
+          "beginline": 27,
+          "begincolumn": 48,
+          "endline": 27,
+          "endcolumn": 60,
+          "description": "Parameter \u0027tokenService\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 53,
+          "endline": 32,
+          "endcolumn": 60,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 82,
+          "endline": 32,
+          "endcolumn": 90,
+          "description": "Parameter \u0027response\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 104,
+          "endline": 32,
+          "endcolumn": 115,
+          "description": "Parameter \u0027filterChain\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 156,
+          "endline": 32,
+          "endcolumn": 157,
+          "description": "Unnecessary semicolon",
+          "rule": "UnnecessarySemicolon",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessarysemicolon"
+        },
+        {
+          "beginline": 34,
+          "begincolumn": 11,
+          "endline": 34,
+          "endcolumn": 26,
+          "description": "Local variable \u0027tokenFromHeader\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 35,
+          "begincolumn": 12,
+          "endline": 35,
+          "endcolumn": 22,
+          "description": "Local variable \u0027tokenValid\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 44,
+          "begincolumn": 55,
+          "endline": 44,
+          "endcolumn": 62,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 45,
+          "begincolumn": 10,
+          "endline": 45,
+          "endcolumn": 15,
+          "description": "Local variable \u0027token\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 53,
+          "begincolumn": 44,
+          "endline": 53,
+          "endcolumn": 49,
+          "description": "Parameter \u0027token\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 54,
+          "begincolumn": 18,
+          "endline": 54,
+          "endcolumn": 22,
+          "description": "Local variable \u0027user\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 57,
+          "begincolumn": 40,
+          "endline": 57,
+          "endcolumn": 75,
+          "description": "Avoid excessively long variable names like usernamePasswordAuthenticationToken",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 57,
+          "begincolumn": 40,
+          "endline": 57,
+          "endcolumn": 75,
+          "description": "Local variable \u0027usernamePasswordAuthenticationToken\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 62,
+          "begincolumn": 55,
+          "endline": 62,
+          "endcolumn": 62,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 63,
+          "begincolumn": 24,
+          "endline": 63,
+          "endcolumn": 32,
+          "description": "Local variable \u0027matchers\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 64,
+          "begincolumn": 15,
+          "endline": 64,
+          "endcolumn": 22,
+          "description": "Local variable \u0027pattern\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 67,
+          "begincolumn": 18,
+          "endline": 67,
+          "endcolumn": 38,
+          "description": "Avoid excessively long variable names like ignoreRequestMatcher",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 67,
+          "begincolumn": 18,
+          "endline": 67,
+          "endcolumn": 38,
+          "description": "Local variable \u0027ignoreRequestMatcher\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 11,
+          "endline": 68,
+          "endcolumn": 71,
+          "description": "Useless parentheses around `ignoreRequestMatcher.matches((HttpServletReques...`.",
+          "rule": "UselessParentheses",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#uselessparentheses"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/repository/UsuarioRepository.java",
+      "violations": [
+        {
+          "beginline": 10,
+          "begincolumn": 18,
+          "endline": 10,
+          "endcolumn": 35,
+          "description": "Annotate this interface with @FunctionalInterface or with @SuppressWarnings(\"PMD.ImplicitFunctionalInterface\") to clarify your intent.",
+          "rule": "ImplicitFunctionalInterface",
+          "ruleset": "Best Practices",
+          "priority": 2,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_bestpractices.html#implicitfunctionalinterface"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/security/CustomAuthorize.java",
+      "violations": [
+        {
+          "beginline": 10,
+          "begincolumn": 1,
+          "endline": 10,
+          "endcolumn": 26,
+          "description": "Unused import \u0027java.util.Objects\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 13,
+          "begincolumn": 14,
+          "endline": 13,
+          "endcolumn": 29,
+          "description": "The class \u0027CustomAuthorize\u0027 has a total cyclomatic complexity of 15 (highest 7).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 15,
+          "begincolumn": 49,
+          "endline": 15,
+          "endcolumn": 53,
+          "description": "Parameter \u0027auth\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 15,
+          "begincolumn": 62,
+          "endline": 15,
+          "endcolumn": 80,
+          "description": "Avoid excessively long variable names like targetDomainObject",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 15,
+          "begincolumn": 89,
+          "endline": 15,
+          "endcolumn": 100,
+          "description": "Parameter \u0027permissions\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 22,
+          "begincolumn": 9,
+          "endline": 26,
+          "endcolumn": 10,
+          "description": "This if statement can be replaced by `return false;`",
+          "rule": "SimplifyBooleanReturns",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#simplifybooleanreturns"
+        },
+        {
+          "beginline": 31,
+          "begincolumn": 49,
+          "endline": 31,
+          "endcolumn": 53,
+          "description": "Parameter \u0027auth\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 31,
+          "begincolumn": 85,
+          "endline": 31,
+          "endcolumn": 95,
+          "description": "Parameter \u0027targetType\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 31,
+          "begincolumn": 104,
+          "endline": 31,
+          "endcolumn": 114,
+          "description": "Parameter \u0027permission\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 9,
+          "endline": 34,
+          "endcolumn": 10,
+          "description": "This if statement can be replaced by `return false;`",
+          "rule": "SimplifyBooleanReturns",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#simplifybooleanreturns"
+        },
+        {
+          "beginline": 39,
+          "begincolumn": 49,
+          "endline": 39,
+          "endcolumn": 53,
+          "description": "Parameter \u0027auth\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 39,
+          "begincolumn": 66,
+          "endline": 39,
+          "endcolumn": 77,
+          "description": "Parameter \u0027permissions\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 22,
+          "endline": 40,
+          "endcolumn": 37,
+          "description": "Local variable \u0027permissionsList\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 42,
+          "begincolumn": 20,
+          "endline": 42,
+          "endcolumn": 43,
+          "description": "Avoid excessively long variable names like targetTypeAndPermission",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 42,
+          "begincolumn": 20,
+          "endline": 42,
+          "endcolumn": 43,
+          "description": "Local variable \u0027targetTypeAndPermission\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 17,
+          "endline": 46,
+          "endcolumn": 28,
+          "description": "Local variable \u0027positionOf_\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 17,
+          "endline": 46,
+          "endcolumn": 28,
+          "description": "The local variable name \u0027positionOf_\u0027 doesn\u0027t match \u0027[a-z][a-zA-Z0-9]*\u0027",
+          "rule": "LocalVariableNamingConventions",
+          "ruleset": "Code Style",
+          "priority": 1,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablenamingconventions"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 13,
+          "endline": 47,
+          "endcolumn": 51,
+          "description": "Do not call pure method toUpperCase if the result is not used.",
+          "rule": "UselessPureMethodCall",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#uselesspuremethodcall"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 13,
+          "endline": 47,
+          "endcolumn": 50,
+          "description": "When doing a String.toLowerCase()/toUpperCase() call, use a Locale",
+          "rule": "UseLocaleWithCaseConversions",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#uselocalewithcaseconversions"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 20,
+          "endline": 48,
+          "endcolumn": 30,
+          "description": "Local variable \u0027targetType\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 35,
+          "endline": 49,
+          "endcolumn": 46,
+          "description": "Local variable \u0027grantedAuth\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 50,
+          "begincolumn": 24,
+          "endline": 50,
+          "endcolumn": 38,
+          "description": "Local variable \u0027userPermission\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 51,
+          "begincolumn": 24,
+          "endline": 51,
+          "endcolumn": 38,
+          "description": "Local variable \u0027authTargetType\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 53,
+          "begincolumn": 21,
+          "endline": 56,
+          "endcolumn": 22,
+          "description": "This if statement could be combined with its parent",
+          "rule": "CollapsibleIfStatements",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#collapsibleifstatements"
+        },
+        {
+          "beginline": 60,
+          "begincolumn": 9,
+          "endline": 62,
+          "endcolumn": 10,
+          "description": "This if statement can be replaced by `return {condition};`",
+          "rule": "SimplifyBooleanReturns",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#simplifybooleanreturns"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/security/JwtTokenData.java",
+      "violations": [
+        {
+          "beginline": 9,
+          "begincolumn": 14,
+          "endline": 9,
+          "endcolumn": 42,
+          "description": "Access to field `NON_NULL` on foreign value `JsonInclude.Include` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/security/JwtUsuarioData.java",
+      "violations": [
+        {
+          "beginline": 3,
+          "begincolumn": 1,
+          "endline": 3,
+          "endcolumn": 40,
+          "description": "Unused import \u0027com.api.apiwebharas.dto.RoleDTO\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 1,
+          "endline": 9,
+          "endcolumn": 22,
+          "description": "Unused import \u0027java.util.Set\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 13,
+          "begincolumn": 14,
+          "endline": 13,
+          "endcolumn": 42,
+          "description": "Access to field `NON_NULL` on foreign value `JsonInclude.Include` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 15,
+          "begincolumn": 18,
+          "endline": 15,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/security/TokenService.java",
+      "violations": [
+        {
+          "beginline": 26,
+          "begincolumn": 15,
+          "endline": 26,
+          "endcolumn": 27,
+          "description": "Missing commented default access modifier on field \u0027objectMapper\u0027",
+          "rule": "CommentDefaultAccessModifier",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#commentdefaultaccessmodifier"
+        },
+        {
+          "beginline": 29,
+          "begincolumn": 18,
+          "endline": 29,
+          "endcolumn": 32,
+          "description": "Local variable \u0027authentication\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 30,
+          "begincolumn": 10,
+          "endline": 30,
+          "endcolumn": 57,
+          "description": "Useless parentheses around `(UsuarioContext) authentication.getPrincipal()`.",
+          "rule": "UselessParentheses",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#uselessparentheses"
+        },
+        {
+          "beginline": 33,
+          "begincolumn": 41,
+          "endline": 33,
+          "endcolumn": 48,
+          "description": "Parameter \u0027usuario\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 34,
+          "begincolumn": 16,
+          "endline": 34,
+          "endcolumn": 28,
+          "description": "Local variable \u0027jwtTokenData\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 36,
+          "begincolumn": 23,
+          "endline": 36,
+          "endcolumn": 29,
+          "description": "Local variable \u0027claims\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 38,
+          "begincolumn": 8,
+          "endline": 38,
+          "endcolumn": 11,
+          "description": "Local variable \u0027now\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 38,
+          "begincolumn": 8,
+          "endline": 38,
+          "endcolumn": 11,
+          "description": "Usage of java.util.Date should be replaced with classes from java.time",
+          "rule": "ReplaceJavaUtilDate",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#replacejavautildate"
+        },
+        {
+          "beginline": 38,
+          "begincolumn": 14,
+          "endline": 38,
+          "endcolumn": 24,
+          "description": "Usage of java.util.Date should be replaced with classes from java.time",
+          "rule": "ReplaceJavaUtilDate",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#replacejavautildate"
+        },
+        {
+          "beginline": 39,
+          "begincolumn": 8,
+          "endline": 39,
+          "endcolumn": 11,
+          "description": "Local variable \u0027exp\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 39,
+          "begincolumn": 8,
+          "endline": 39,
+          "endcolumn": 11,
+          "description": "Usage of java.util.Date should be replaced with classes from java.time",
+          "rule": "ReplaceJavaUtilDate",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#replacejavautildate"
+        },
+        {
+          "beginline": 39,
+          "begincolumn": 14,
+          "endline": 39,
+          "endcolumn": 66,
+          "description": "Usage of java.util.Date should be replaced with classes from java.time",
+          "rule": "ReplaceJavaUtilDate",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#replacejavautildate"
+        },
+        {
+          "beginline": 41,
+          "begincolumn": 13,
+          "endline": 41,
+          "endcolumn": 22,
+          "description": "Local variable \u0027secretKey\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 51,
+          "begincolumn": 52,
+          "endline": 51,
+          "endcolumn": 59,
+          "description": "Parameter \u0027usuario\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 52,
+          "begincolumn": 16,
+          "endline": 52,
+          "endcolumn": 28,
+          "description": "Local variable \u0027jwtTokenData\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 54,
+          "begincolumn": 18,
+          "endline": 54,
+          "endcolumn": 32,
+          "description": "Local variable \u0027usuarioContext\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 16,
+          "endline": 58,
+          "endcolumn": 21,
+          "description": "Local variable \u0027roles\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 37,
+          "endline": 68,
+          "endcolumn": 42,
+          "description": "Parameter \u0027token\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 72,
+          "begincolumn": 12,
+          "endline": 72,
+          "endcolumn": 21,
+          "description": "Avoid catching Exception in try-catch block",
+          "rule": "AvoidCatchingGenericException",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidcatchinggenericexception"
+        },
+        {
+          "beginline": 77,
+          "begincolumn": 44,
+          "endline": 77,
+          "endcolumn": 49,
+          "description": "Parameter \u0027token\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 58,
+          "endline": 81,
+          "endcolumn": 63,
+          "description": "Parameter \u0027token\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 82,
+          "begincolumn": 23,
+          "endline": 82,
+          "endcolumn": 36,
+          "description": "Local variable \u0027usuarioObject\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 84,
+          "begincolumn": 18,
+          "endline": 84,
+          "endcolumn": 32,
+          "description": "Local variable \u0027usuarioContext\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 93,
+          "begincolumn": 49,
+          "endline": 93,
+          "endcolumn": 54,
+          "description": "Parameter \u0027token\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/security/UsuarioContext.java",
+      "violations": [
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 23,
+          "begincolumn": 32,
+          "endline": 23,
+          "endcolumn": 43,
+          "description": "Local variable \u0027authorities\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 23,
+          "begincolumn": 59,
+          "endline": 23,
+          "endcolumn": 77,
+          "description": "Explicit type arguments can be replaced by a diamond: `new ArrayList\u003c\u003e()`",
+          "rule": "UseDiamondOperator",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#usediamondoperator"
+        },
+        {
+          "beginline": 24,
+          "begincolumn": 21,
+          "endline": 24,
+          "endcolumn": 25,
+          "description": "Local variable \u0027role\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/api/apiwebharas/service/AuthService.java",
+      "violations": [
+        {
+          "beginline": 19,
+          "begincolumn": 35,
+          "endline": 19,
+          "endcolumn": 56,
+          "description": "Avoid excessively long variable names like authenticationManager",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 24,
+          "begincolumn": 42,
+          "endline": 24,
+          "endcolumn": 50,
+          "description": "Parameter \u0027loginDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 25,
+          "begincolumn": 24,
+          "endline": 25,
+          "endcolumn": 38,
+          "description": "Local variable \u0027apiResponseDTO\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 26,
+          "begincolumn": 31,
+          "endline": 26,
+          "endcolumn": 52,
+          "description": "Avoid excessively long variable names like bCryptPasswordEncoder",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 26,
+          "begincolumn": 31,
+          "endline": 26,
+          "endcolumn": 52,
+          "description": "Local variable \u0027bCryptPasswordEncoder\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 45,
+          "endline": 28,
+          "endcolumn": 80,
+          "description": "Avoid excessively long variable names like usernamePasswordAuthenticationToken",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 45,
+          "endline": 28,
+          "endcolumn": 80,
+          "description": "Local variable \u0027usernamePasswordAuthenticationToken\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 30,
+          "begincolumn": 24,
+          "endline": 30,
+          "endcolumn": 38,
+          "description": "Local variable \u0027authentication\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 17,
+          "endline": 32,
+          "endcolumn": 24,
+          "description": "Local variable \u0027usuario\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 34,
+          "begincolumn": 16,
+          "endline": 34,
+          "endcolumn": 21,
+          "description": "Local variable \u0027token\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 36,
+          "begincolumn": 18,
+          "endline": 36,
+          "endcolumn": 26,
+          "description": "Local variable \u0027tokenDTO\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    }
+  ],
+  "suppressedViolations": [],
+  "processingErrors": [],
+  "configurationErrors": []
+}

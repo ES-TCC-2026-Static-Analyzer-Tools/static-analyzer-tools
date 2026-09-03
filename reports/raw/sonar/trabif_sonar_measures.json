@@ -1,0 +1,6560 @@
+{
+  "totalExtracted": 106,
+  "components": [
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/Area.java",
+      "name": "Area.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/Area.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "38"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/AreaAvaliador.java",
+      "name": "AreaAvaliador.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/AreaAvaliador.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "34"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/AreaAvaliadorController.java",
+      "name": "AreaAvaliadorController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/AreaAvaliadorController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "162"
+        },
+        {
+          "metric": "ncloc",
+          "value": "142"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "86",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/AreaAvaliadorDTO.java",
+      "name": "AreaAvaliadorDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/AreaAvaliadorDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "23"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/AreaAvaliadorRepository.java",
+      "name": "AreaAvaliadorRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/AreaAvaliadorRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "16"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/AreaAvaliadorService.java",
+      "name": "AreaAvaliadorService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/AreaAvaliadorService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "17"
+        },
+        {
+          "metric": "lines",
+          "value": "93"
+        },
+        {
+          "metric": "ncloc",
+          "value": "75"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "19.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "441",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "31"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/AreaController.java",
+      "name": "AreaController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/AreaController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "136"
+        },
+        {
+          "metric": "ncloc",
+          "value": "118"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "78",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/AreaDTO.java",
+      "name": "AreaDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/AreaDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "37",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/AreaRepository.java",
+      "name": "AreaRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/AreaRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/repository/AreaRepositoryTests.java",
+      "name": "AreaRepositoryTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/repository/AreaRepositoryTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "43"
+        },
+        {
+          "metric": "ncloc",
+          "value": "31"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/AreaService.java",
+      "name": "AreaService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/AreaService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "93"
+        },
+        {
+          "metric": "ncloc",
+          "value": "72"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "20.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "442",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/AreaTrabalho.java",
+      "name": "AreaTrabalho.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/AreaTrabalho.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "34"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/AreaTrabalhoController.java",
+      "name": "AreaTrabalhoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/AreaTrabalhoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "162"
+        },
+        {
+          "metric": "ncloc",
+          "value": "142"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "86",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/AreaTrabalhoDTO.java",
+      "name": "AreaTrabalhoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/AreaTrabalhoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "31"
+        },
+        {
+          "metric": "ncloc",
+          "value": "24"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "47",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/AreaTrabalhoRepository.java",
+      "name": "AreaTrabalhoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/AreaTrabalhoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "16"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/AreaTrabalhoService.java",
+      "name": "AreaTrabalhoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/AreaTrabalhoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "17"
+        },
+        {
+          "metric": "lines",
+          "value": "94"
+        },
+        {
+          "metric": "ncloc",
+          "value": "76"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "19.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "443",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "32"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/Auditoria.java",
+      "name": "Auditoria.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/Auditoria.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "51"
+        },
+        {
+          "metric": "ncloc",
+          "value": "41"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/AuditoriaDTO.java",
+      "name": "AuditoriaDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/AuditoriaDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "14"
+        },
+        {
+          "metric": "ncloc",
+          "value": "11"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/security/AuthEntryPointJwt.java",
+      "name": "AuthEntryPointJwt.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/security/AuthEntryPointJwt.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "49"
+        },
+        {
+          "metric": "ncloc",
+          "value": "37"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/security/AuthFilterToken.java",
+      "name": "AuthFilterToken.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/security/AuthFilterToken.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "59"
+        },
+        {
+          "metric": "ncloc",
+          "value": "46"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/AutorTrabalho.java",
+      "name": "AutorTrabalho.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/AutorTrabalho.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "34"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/AutorTrabalhoController.java",
+      "name": "AutorTrabalhoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/AutorTrabalhoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "50",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "184"
+        },
+        {
+          "metric": "ncloc",
+          "value": "163"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "50",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "123",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "36"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/AutorTrabalhoConversorDTO.java",
+      "name": "AutorTrabalhoConversorDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/AutorTrabalhoConversorDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "36"
+        },
+        {
+          "metric": "ncloc",
+          "value": "27"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/AutorTrabalhoDTO.java",
+      "name": "AutorTrabalhoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/AutorTrabalhoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "23"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/AutorTrabalhoRepository.java",
+      "name": "AutorTrabalhoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/AutorTrabalhoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "20"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/AutorTrabalhoService.java",
+      "name": "AutorTrabalhoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/AutorTrabalhoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "40",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "18"
+        },
+        {
+          "metric": "lines",
+          "value": "110"
+        },
+        {
+          "metric": "ncloc",
+          "value": "90"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "18.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "40",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "506",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "39"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/exception/BadResourceException.java",
+      "name": "BadResourceException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/exception/BadResourceException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "31"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/Categoria.java",
+      "name": "Categoria.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/Categoria.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "38"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/CategoriaController.java",
+      "name": "CategoriaController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/CategoriaController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "136"
+        },
+        {
+          "metric": "ncloc",
+          "value": "118"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "81",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/CategoriaDTO.java",
+      "name": "CategoriaDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/CategoriaDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/CategoriaRepository.java",
+      "name": "CategoriaRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/CategoriaRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/repository/CategoriaRepositoryTests.java",
+      "name": "CategoriaRepositoryTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/repository/CategoriaRepositoryTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "33"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/CategoriaService.java",
+      "name": "CategoriaService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/CategoriaService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "93"
+        },
+        {
+          "metric": "ncloc",
+          "value": "72"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "20.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "442",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/Constantes.java",
+      "name": "Constantes.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/Constantes.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/Email.java",
+      "name": "Email.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/Email.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "53"
+        },
+        {
+          "metric": "ncloc",
+          "value": "39"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/EmailController.java",
+      "name": "EmailController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/EmailController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "43"
+        },
+        {
+          "metric": "ncloc",
+          "value": "32"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/EmailRepository.java",
+      "name": "EmailRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/EmailRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/repository/EmailRepositoryTests.java",
+      "name": "EmailRepositoryTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/repository/EmailRepositoryTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "33"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/EmailService.java",
+      "name": "EmailService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/EmailService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "13"
+        },
+        {
+          "metric": "lines",
+          "value": "131"
+        },
+        {
+          "metric": "ncloc",
+          "value": "106"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "87",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "59"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/EmailTemplate.java",
+      "name": "EmailTemplate.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/EmailTemplate.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "43"
+        },
+        {
+          "metric": "ncloc",
+          "value": "32"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/EmailTemplateController.java",
+      "name": "EmailTemplateController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/EmailTemplateController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "37",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "135"
+        },
+        {
+          "metric": "ncloc",
+          "value": "118"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "37",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "78",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/EmailTemplateDTO.java",
+      "name": "EmailTemplateDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/EmailTemplateDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "27"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/EmailTemplateRepository.java",
+      "name": "EmailTemplateRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/EmailTemplateRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/EmailTemplateService.java",
+      "name": "EmailTemplateService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/EmailTemplateService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "91"
+        },
+        {
+          "metric": "ncloc",
+          "value": "72"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "20.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "442",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/Evento.java",
+      "name": "Evento.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/Evento.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "48"
+        },
+        {
+          "metric": "ncloc",
+          "value": "35"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/EventoController.java",
+      "name": "EventoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/EventoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "136"
+        },
+        {
+          "metric": "ncloc",
+          "value": "118"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "75",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/EventoDTO.java",
+      "name": "EventoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/EventoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "29"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/EventoEmailTemplate.java",
+      "name": "EventoEmailTemplate.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/EventoEmailTemplate.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "34"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/EventoEmailTemplateController.java",
+      "name": "EventoEmailTemplateController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/EventoEmailTemplateController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "54",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "181"
+        },
+        {
+          "metric": "ncloc",
+          "value": "160"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "54",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "113",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "37"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/EventoEmailTemplateDTO.java",
+      "name": "EventoEmailTemplateDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/EventoEmailTemplateDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "23"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/EventoEmailTemplateRepository.java",
+      "name": "EventoEmailTemplateRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/EventoEmailTemplateRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "16"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/EventoEmailTemplateService.java",
+      "name": "EventoEmailTemplateService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/EventoEmailTemplateService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "50",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "20"
+        },
+        {
+          "metric": "lines",
+          "value": "116"
+        },
+        {
+          "metric": "ncloc",
+          "value": "96"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "20.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "50",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "602",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "43"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/EventoRepository.java",
+      "name": "EventoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/EventoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/repository/EventoRepositoryTests.java",
+      "name": "EventoRepositoryTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/repository/EventoRepositoryTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "33"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/EventoService.java",
+      "name": "EventoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/EventoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "112"
+        },
+        {
+          "metric": "ncloc",
+          "value": "90"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "16.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "445",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/security/JwtUtil.java",
+      "name": "JwtUtil.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/security/JwtUtil.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "51"
+        },
+        {
+          "metric": "ncloc",
+          "value": "41"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "85",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/Migration.java",
+      "name": "Migration.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/Migration.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "43"
+        },
+        {
+          "metric": "ncloc",
+          "value": "31"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/migrations/Migration1.java",
+      "name": "Migration1.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/migrations/Migration1.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "85"
+        },
+        {
+          "metric": "ncloc",
+          "value": "67"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "57",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/MigrationRepository.java",
+      "name": "MigrationRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/MigrationRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/MigrationService.java",
+      "name": "MigrationService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/MigrationService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "10"
+        },
+        {
+          "metric": "lines",
+          "value": "65"
+        },
+        {
+          "metric": "ncloc",
+          "value": "51"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "19.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "294",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/OpenApiConfig.java",
+      "name": "OpenApiConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/OpenApiConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "19"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/Permissao.java",
+      "name": "Permissao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/Permissao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "23"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/PermissaoController.java",
+      "name": "PermissaoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/PermissaoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "136"
+        },
+        {
+          "metric": "ncloc",
+          "value": "118"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "81",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/PermissaoDTO.java",
+      "name": "PermissaoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/PermissaoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/PermissaoRepository.java",
+      "name": "PermissaoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/PermissaoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/repository/PermissaoRepositoryTests.java",
+      "name": "PermissaoRepositoryTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/repository/PermissaoRepositoryTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "33"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/PermissaoService.java",
+      "name": "PermissaoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/PermissaoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "93"
+        },
+        {
+          "metric": "ncloc",
+          "value": "72"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "20.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "442",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/PermissaoUsuario.java",
+      "name": "PermissaoUsuario.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/PermissaoUsuario.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "50"
+        },
+        {
+          "metric": "ncloc",
+          "value": "38"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/PermissaoUsuarioController.java",
+      "name": "PermissaoUsuarioController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/PermissaoUsuarioController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "103",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "16"
+        },
+        {
+          "metric": "lines",
+          "value": "295"
+        },
+        {
+          "metric": "ncloc",
+          "value": "263"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "103",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "296",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "72"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/PermissaoUsuarioDTO.java",
+      "name": "PermissaoUsuarioDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/PermissaoUsuarioDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "27"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/PermissaoUsuarioRepository.java",
+      "name": "PermissaoUsuarioRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/PermissaoUsuarioRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "37"
+        },
+        {
+          "metric": "ncloc",
+          "value": "26"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/PermissaoUsuarioService.java",
+      "name": "PermissaoUsuarioService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/PermissaoUsuarioService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "110",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "37",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "42"
+        },
+        {
+          "metric": "lines",
+          "value": "295"
+        },
+        {
+          "metric": "ncloc",
+          "value": "248"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "11.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "110",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "872",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "149"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/service/PermissaoUsuarioServiceTeste.java",
+      "name": "PermissaoUsuarioServiceTeste.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/service/PermissaoUsuarioServiceTeste.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "99"
+        },
+        {
+          "metric": "ncloc",
+          "value": "73"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "27"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/exception/ResourceAlreadyExistsException.java",
+      "name": "ResourceAlreadyExistsException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/exception/ResourceAlreadyExistsException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "14"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/exception/ResourceNotFoundException.java",
+      "name": "ResourceNotFoundException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/exception/ResourceNotFoundException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/ResultadoSubmissao.java",
+      "name": "ResultadoSubmissao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/ResultadoSubmissao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "40"
+        },
+        {
+          "metric": "ncloc",
+          "value": "27"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/ResultadoSubmissaoController.java",
+      "name": "ResultadoSubmissaoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/ResultadoSubmissaoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "44",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "162"
+        },
+        {
+          "metric": "ncloc",
+          "value": "142"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "44",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "89",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/ResultadoSubmissaoDTO.java",
+      "name": "ResultadoSubmissaoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/ResultadoSubmissaoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "29"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/ResultadoSubmissaoRepository.java",
+      "name": "ResultadoSubmissaoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/ResultadoSubmissaoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "16"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/ResultadoSubmissaoService.java",
+      "name": "ResultadoSubmissaoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/ResultadoSubmissaoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "19"
+        },
+        {
+          "metric": "lines",
+          "value": "100"
+        },
+        {
+          "metric": "ncloc",
+          "value": "82"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "18.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "453",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "36"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/service/ResultadoSubmissaoTests.java",
+      "name": "ResultadoSubmissaoTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/service/ResultadoSubmissaoTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "103"
+        },
+        {
+          "metric": "ncloc",
+          "value": "74"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "79",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/SecurityConfig.java",
+      "name": "SecurityConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/SecurityConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "1"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "60.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "5.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/Trabalho.java",
+      "name": "Trabalho.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/Trabalho.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "63"
+        },
+        {
+          "metric": "ncloc",
+          "value": "48"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/TrabalhoAvaliador.java",
+      "name": "TrabalhoAvaliador.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/TrabalhoAvaliador.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "50"
+        },
+        {
+          "metric": "ncloc",
+          "value": "38"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/TrabalhoAvaliadorController.java",
+      "name": "TrabalhoAvaliadorController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/TrabalhoAvaliadorController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "47",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "176"
+        },
+        {
+          "metric": "ncloc",
+          "value": "155"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "47",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "92",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "32"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/TrabalhoAvaliadorDTO.java",
+      "name": "TrabalhoAvaliadorDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/TrabalhoAvaliadorDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "35"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/TrabalhoAvaliadorRepository.java",
+      "name": "TrabalhoAvaliadorRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/TrabalhoAvaliadorRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/TrabalhoAvaliadorService.java",
+      "name": "TrabalhoAvaliadorService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/TrabalhoAvaliadorService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "22"
+        },
+        {
+          "metric": "lines",
+          "value": "115"
+        },
+        {
+          "metric": "ncloc",
+          "value": "95"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "19.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "553",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/TrabalhoController.java",
+      "name": "TrabalhoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/TrabalhoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "46",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "191"
+        },
+        {
+          "metric": "ncloc",
+          "value": "154"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "46",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "99",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "34"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/TrabalhoConversorDTO.java",
+      "name": "TrabalhoConversorDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/TrabalhoConversorDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "36"
+        },
+        {
+          "metric": "ncloc",
+          "value": "27"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/TrabalhoDTO.java",
+      "name": "TrabalhoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/TrabalhoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "27"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/TrabalhoRepository.java",
+      "name": "TrabalhoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/TrabalhoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "21"
+        },
+        {
+          "metric": "ncloc",
+          "value": "14"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/repository/TrabalhoRepositoryTests.java",
+      "name": "TrabalhoRepositoryTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/repository/TrabalhoRepositoryTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "46"
+        },
+        {
+          "metric": "ncloc",
+          "value": "33"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/TrabalhoService.java",
+      "name": "TrabalhoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/TrabalhoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "16"
+        },
+        {
+          "metric": "lines",
+          "value": "101"
+        },
+        {
+          "metric": "ncloc",
+          "value": "80"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "18.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "36",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "444",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "34"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/TrabifApplication.java",
+      "name": "TrabifApplication.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/TrabifApplication.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "14"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/trabif/TrabifApplicationTests.java",
+      "name": "TrabifApplicationTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/trabif/TrabifApplicationTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "68"
+        },
+        {
+          "metric": "ncloc",
+          "value": "0"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/domain/Usuario.java",
+      "name": "Usuario.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/domain/Usuario.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "101"
+        },
+        {
+          "metric": "ncloc",
+          "value": "78"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "48",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/UsuarioController.java",
+      "name": "UsuarioController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/UsuarioController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "39",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "147"
+        },
+        {
+          "metric": "ncloc",
+          "value": "128"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "39",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "84",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "32"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/UsuarioDetailService.java",
+      "name": "UsuarioDetailService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/UsuarioDetailService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "28"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/dto/UsuarioDTO.java",
+      "name": "UsuarioDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/dto/UsuarioDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "28"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/controller/UsuarioGerenciamentoController.java",
+      "name": "UsuarioGerenciamentoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/controller/UsuarioGerenciamentoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "77"
+        },
+        {
+          "metric": "ncloc",
+          "value": "64"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "25",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/UsuarioGerenciamentoSerivce.java",
+      "name": "UsuarioGerenciamentoSerivce.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/UsuarioGerenciamentoSerivce.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "26",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "68"
+        },
+        {
+          "metric": "ncloc",
+          "value": "53"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "26",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "56",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/repository/UsuarioRepository.java",
+      "name": "UsuarioRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/repository/UsuarioRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "24"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/test/java/br/com/trabif/repository/UsuarioRepositoryTests.java",
+      "name": "UsuarioRepositoryTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/br/com/trabif/repository/UsuarioRepositoryTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "43"
+        },
+        {
+          "metric": "ncloc",
+          "value": "31"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/service/UsuarioService.java",
+      "name": "UsuarioService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/service/UsuarioService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "25"
+        },
+        {
+          "metric": "lines",
+          "value": "126"
+        },
+        {
+          "metric": "ncloc",
+          "value": "102"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "15.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "486",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "47"
+        }
+      ]
+    },
+    {
+      "key": "Trabif-Sonar:src/main/java/br/com/trabif/security/WebSecurityConfig.java",
+      "name": "WebSecurityConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/br/com/trabif/security/WebSecurityConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "52"
+        },
+        {
+          "metric": "ncloc",
+          "value": "41"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5960 @@
+{
+  "totalExtracted": 98,
+  "components": [
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/auditable/model/AuditableModel.java",
+      "name": "AuditableModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/auditable/model/AuditableModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "31"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/database/schema/AuditableSchema.java",
+      "name": "AuditableSchema.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/database/schema/AuditableSchema.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "24"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "6.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "45",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/auth/controller/AuthController.java",
+      "name": "AuthController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/auth/controller/AuthController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/auth/dto/AuthRequestDto.java",
+      "name": "AuthRequestDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/auth/dto/AuthRequestDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/auth/dto/AuthResponseDto.java",
+      "name": "AuthResponseDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/auth/dto/AuthResponseDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/auth/implementation/AuthUseCase.java",
+      "name": "AuthUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/auth/implementation/AuthUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "51"
+        },
+        {
+          "metric": "ncloc",
+          "value": "42"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/web/BeanConfig.java",
+      "name": "BeanConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/web/BeanConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "19"
+        },
+        {
+          "metric": "lines",
+          "value": "236"
+        },
+        {
+          "metric": "ncloc",
+          "value": "214"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "161",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/implementation/ChangePasswordUserAccountUseCase.java",
+      "name": "ChangePasswordUserAccountUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/implementation/ChangePasswordUserAccountUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "68"
+        },
+        {
+          "metric": "ncloc",
+          "value": "55"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "44",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/implementation/DeleteInstitutionUseCase.java",
+      "name": "DeleteInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/implementation/DeleteInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "21"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/implementation/DeleteRoleUseCase.java",
+      "name": "DeleteRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/implementation/DeleteRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "19"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/implementation/DeleteUserUseCase.java",
+      "name": "DeleteUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/implementation/DeleteUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "19"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/exception/EmailSendException.java",
+      "name": "EmailSendException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/exception/EmailSendException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/test/java/com/dev/simper/service/EmailServiceTest.java",
+      "name": "EmailServiceTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/com/dev/simper/service/EmailServiceTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "71"
+        },
+        {
+          "metric": "ncloc",
+          "value": "52"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/employee/dto/EmployeeDto.java",
+      "name": "EmployeeDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/employee/dto/EmployeeDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "19"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/generic/model/GenericGateway.java",
+      "name": "GenericGateway.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/generic/model/GenericGateway.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/implementation/GetInstitutionUseCase.java",
+      "name": "GetInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/implementation/GetInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "32"
+        },
+        {
+          "metric": "ncloc",
+          "value": "24"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/implementation/GetRoleUseCase.java",
+      "name": "GetRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/implementation/GetRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "29"
+        },
+        {
+          "metric": "ncloc",
+          "value": "21"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/implementation/GetUserUseCase.java",
+      "name": "GetUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/implementation/GetUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "32"
+        },
+        {
+          "metric": "ncloc",
+          "value": "24"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/exception/GlobalExceptionHandler.java",
+      "name": "GlobalExceptionHandler.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/exception/GlobalExceptionHandler.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "45"
+        },
+        {
+          "metric": "ncloc",
+          "value": "37"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/auth/contract/IAuthUseCase.java",
+      "name": "IAuthUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/auth/contract/IAuthUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/contract/IChangePasswordUserAccountUseCase.java",
+      "name": "IChangePasswordUserAccountUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/contract/IChangePasswordUserAccountUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/contract/IDeleteInstitutionUseCase.java",
+      "name": "IDeleteInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/contract/IDeleteInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/contract/IDeleteRoleUseCase.java",
+      "name": "IDeleteRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/contract/IDeleteRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/contract/IDeleteUserUseCase.java",
+      "name": "IDeleteUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/contract/IDeleteUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/contract/IGetInstitutionUseCase.java",
+      "name": "IGetInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/contract/IGetInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/contract/IGetRoleUseCase.java",
+      "name": "IGetRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/contract/IGetRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/contract/IGetUserUseCase.java",
+      "name": "IGetUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/contract/IGetUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/dto/IInstitutionDto.java",
+      "name": "IInstitutionDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/dto/IInstitutionDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/contract/IListInstitutionUseCase.java",
+      "name": "IListInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/contract/IListInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/contract/IListRoleUseCase.java",
+      "name": "IListRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/contract/IListRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/contract/IListUserUseCase.java",
+      "name": "IListUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/contract/IListUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/contract/ILoadUserDetailsUseCase.java",
+      "name": "ILoadUserDetailsUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/contract/ILoadUserDetailsUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/institution/controller/InstitutionController.java",
+      "name": "InstitutionController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/institution/controller/InstitutionController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "77"
+        },
+        {
+          "metric": "ncloc",
+          "value": "64"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/institution/gateway/InstitutionDatabaseGateway.java",
+      "name": "InstitutionDatabaseGateway.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/institution/gateway/InstitutionDatabaseGateway.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "58"
+        },
+        {
+          "metric": "ncloc",
+          "value": "46"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/institution/dto/InstitutionDto.java",
+      "name": "InstitutionDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/institution/dto/InstitutionDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "27"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/institution/gateway/InstitutionGateway.java",
+      "name": "InstitutionGateway.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/institution/gateway/InstitutionGateway.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/institution/model/InstitutionModel.java",
+      "name": "InstitutionModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/institution/model/InstitutionModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "55"
+        },
+        {
+          "metric": "ncloc",
+          "value": "52"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/database/repository/InstitutionRepository.java",
+      "name": "InstitutionRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/database/repository/InstitutionRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/database/schema/InstitutionSchema.java",
+      "name": "InstitutionSchema.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/database/schema/InstitutionSchema.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "93"
+        },
+        {
+          "metric": "ncloc",
+          "value": "70"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/contract/IRegisterUserAccountUseCase.java",
+      "name": "IRegisterUserAccountUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/contract/IRegisterUserAccountUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/dto/IRoleDto.java",
+      "name": "IRoleDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/dto/IRoleDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/contract/ISaveInstitutionUseCase.java",
+      "name": "ISaveInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/contract/ISaveInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/contract/ISaveRoleUseCase.java",
+      "name": "ISaveRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/contract/ISaveRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/contract/ISaveUserUseCase.java",
+      "name": "ISaveUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/contract/ISaveUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/email/contract/ISendSimpleEmailUseCase.java",
+      "name": "ISendSimpleEmailUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/email/contract/ISendSimpleEmailUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/email/contract/ISendTemplateEmailUseCase.java",
+      "name": "ISendTemplateEmailUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/email/contract/ISendTemplateEmailUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/contract/ISetPasswordUserAccountUseCase.java",
+      "name": "ISetPasswordUserAccountUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/contract/ISetPasswordUserAccountUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/contract/IUpdatedUserUseCase.java",
+      "name": "IUpdatedUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/contract/IUpdatedUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/contract/IUpdateInstitutionUseCase.java",
+      "name": "IUpdateInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/contract/IUpdateInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/contract/IUpdateRoleUseCase.java",
+      "name": "IUpdateRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/contract/IUpdateRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/dto/IUserDto.java",
+      "name": "IUserDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/dto/IUserDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/dto/IUserPasswordResetDto.java",
+      "name": "IUserPasswordResetDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/dto/IUserPasswordResetDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/dto/IUserPasswordResetRequestDto.java",
+      "name": "IUserPasswordResetRequestDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/dto/IUserPasswordResetRequestDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "6"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/dto/IUserRegisterDto.java",
+      "name": "IUserRegisterDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/dto/IUserRegisterDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/dto/IUserRolesDto.java",
+      "name": "IUserRolesDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/dto/IUserRolesDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/security/JwtRequestFilter.java",
+      "name": "JwtRequestFilter.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/security/JwtRequestFilter.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "67"
+        },
+        {
+          "metric": "ncloc",
+          "value": "51"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/security/JwtTokenUtil.java",
+      "name": "JwtTokenUtil.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/security/JwtTokenUtil.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "10"
+        },
+        {
+          "metric": "lines",
+          "value": "77"
+        },
+        {
+          "metric": "ncloc",
+          "value": "59"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "35",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/implementation/ListInstitutionUseCase.java",
+      "name": "ListInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/implementation/ListInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "24"
+        },
+        {
+          "metric": "ncloc",
+          "value": "17"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/implementation/ListRoleUseCase.java",
+      "name": "ListRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/implementation/ListRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/implementation/ListUserUseCase.java",
+      "name": "ListUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/implementation/ListUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "15"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/implementation/LoadUserDetailsUseCase.java",
+      "name": "LoadUserDetailsUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/implementation/LoadUserDetailsUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "25"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/utils/ParseUtils.java",
+      "name": "ParseUtils.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/utils/ParseUtils.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "57"
+        },
+        {
+          "metric": "ncloc",
+          "value": "33"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/implementation/RegisterUserAccountUseCase.java",
+      "name": "RegisterUserAccountUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/implementation/RegisterUserAccountUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "68"
+        },
+        {
+          "metric": "ncloc",
+          "value": "55"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "17"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/exception/ResourceNotFoundException.java",
+      "name": "ResourceNotFoundException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/exception/ResourceNotFoundException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/role/controller/RoleController.java",
+      "name": "RoleController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/role/controller/RoleController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "69"
+        },
+        {
+          "metric": "ncloc",
+          "value": "56"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/role/gateway/RoleDatabaseGateway.java",
+      "name": "RoleDatabaseGateway.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/role/gateway/RoleDatabaseGateway.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "58"
+        },
+        {
+          "metric": "ncloc",
+          "value": "46"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/role/dto/RoleDto.java",
+      "name": "RoleDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/role/dto/RoleDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/role/gateway/RoleGateway.java",
+      "name": "RoleGateway.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/role/gateway/RoleGateway.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/role/model/RoleModel.java",
+      "name": "RoleModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/role/model/RoleModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "20"
+        },
+        {
+          "metric": "ncloc",
+          "value": "17"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/database/repository/RoleRepository.java",
+      "name": "RoleRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/database/repository/RoleRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/database/schema/RoleSchema.java",
+      "name": "RoleSchema.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/database/schema/RoleSchema.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "36"
+        },
+        {
+          "metric": "ncloc",
+          "value": "28"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/implementation/SaveInstitutionUseCase.java",
+      "name": "SaveInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/implementation/SaveInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "38"
+        },
+        {
+          "metric": "ncloc",
+          "value": "31"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/implementation/SaveRoleUseCase.java",
+      "name": "SaveRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/implementation/SaveRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/implementation/SaveUserUseCase.java",
+      "name": "SaveUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/implementation/SaveUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/security/SecurityConfig.java",
+      "name": "SecurityConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/security/SecurityConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "16"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "7.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/email/implementation/SendSimpleEmailUseCase.java",
+      "name": "SendSimpleEmailUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/email/implementation/SendSimpleEmailUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "19"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/email/implementation/SendTemplateEmailUseCase.java",
+      "name": "SendTemplateEmailUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/email/implementation/SendTemplateEmailUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "48"
+        },
+        {
+          "metric": "ncloc",
+          "value": "27"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/implementation/SetPasswordUserAccountUseCase.java",
+      "name": "SetPasswordUserAccountUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/implementation/SetPasswordUserAccountUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "60"
+        },
+        {
+          "metric": "ncloc",
+          "value": "47"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "13"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/SimperApplication.java",
+      "name": "SimperApplication.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/SimperApplication.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/test/java/com/dev/simper/SimperApplicationTests.java",
+      "name": "SimperApplicationTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/com/dev/simper/SimperApplicationTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "14"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/institution/implementation/UpdateInstitutionUseCase.java",
+      "name": "UpdateInstitutionUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/institution/implementation/UpdateInstitutionUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "24"
+        },
+        {
+          "metric": "ncloc",
+          "value": "18"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/role/implementation/UpdateRoleUseCase.java",
+      "name": "UpdateRoleUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/role/implementation/UpdateRoleUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/usecase/user/implementation/UpdateUserUseCase.java",
+      "name": "UpdateUserUseCase.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/usecase/user/implementation/UpdateUserUseCase.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/user/controller/UserAccountController.java",
+      "name": "UserAccountController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/user/controller/UserAccountController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "66"
+        },
+        {
+          "metric": "ncloc",
+          "value": "56"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "66",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "13"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/user/controller/UserController.java",
+      "name": "UserController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/user/controller/UserController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "70"
+        },
+        {
+          "metric": "ncloc",
+          "value": "57"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/user/gateway/UserDatabaseGateway.java",
+      "name": "UserDatabaseGateway.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/user/gateway/UserDatabaseGateway.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "lines",
+          "value": "63"
+        },
+        {
+          "metric": "ncloc",
+          "value": "51"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/user/dto/UserDto.java",
+      "name": "UserDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/user/dto/UserDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "17"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/user/gateway/UserGateway.java",
+      "name": "UserGateway.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/user/gateway/UserGateway.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/user/model/UserModel.java",
+      "name": "UserModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/user/model/UserModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "50",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "24"
+        },
+        {
+          "metric": "lines",
+          "value": "116"
+        },
+        {
+          "metric": "ncloc",
+          "value": "91"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "50",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "76",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/user/dto/UserPasswordResetDto.java",
+      "name": "UserPasswordResetDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/user/dto/UserPasswordResetDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/user/dto/UserPasswordResetRequestDto.java",
+      "name": "UserPasswordResetRequestDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/user/dto/UserPasswordResetRequestDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/user/dto/UserRegisterDto.java",
+      "name": "UserRegisterDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/user/dto/UserRegisterDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/database/repository/UserRepository.java",
+      "name": "UserRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/database/repository/UserRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/user/dto/UserRolesDto.java",
+      "name": "UserRolesDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/user/dto/UserRolesDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/entity/user/model/UserRolesModel.java",
+      "name": "UserRolesModel.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/entity/user/model/UserRolesModel.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "29"
+        },
+        {
+          "metric": "ncloc",
+          "value": "25"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/database/schema/UserRolesSchema.java",
+      "name": "UserRolesSchema.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/database/schema/UserRolesSchema.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "53"
+        },
+        {
+          "metric": "ncloc",
+          "value": "41"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/database/schema/UserSchema.java",
+      "name": "UserSchema.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/database/schema/UserSchema.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "24"
+        },
+        {
+          "metric": "lines",
+          "value": "147"
+        },
+        {
+          "metric": "ncloc",
+          "value": "112"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "57",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "key": "Simper-Sonar:src/main/java/com/dev/simper/infrastructure/configuration/security/WebSecurityConfig.java",
+      "name": "WebSecurityConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/dev/simper/infrastructure/configuration/security/WebSecurityConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "52"
+        },
+        {
+          "metric": "ncloc",
+          "value": "43"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    }
+  ]
+}

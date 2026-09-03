@@ -1,0 +1,5575 @@
+{
+  "totalExtracted": 91,
+  "components": [
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/AccountInfoDTO.java",
+      "name": "AccountInfoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/AccountInfoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "18"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/handler/ApiHandler.java",
+      "name": "ApiHandler.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/handler/ApiHandler.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "130"
+        },
+        {
+          "metric": "ncloc",
+          "value": "112"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "43",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "68",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/Application.java",
+      "name": "Application.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/Application.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "14"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/AtualizarSenhaRequestDTO.java",
+      "name": "AtualizarSenhaRequestDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/AtualizarSenhaRequestDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "14"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/controller/AutenticacaoController.java",
+      "name": "AutenticacaoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/controller/AutenticacaoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "75"
+        },
+        {
+          "metric": "ncloc",
+          "value": "67"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "63",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/Avaliacao.java",
+      "name": "Avaliacao.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/Avaliacao.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "30"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/controller/AvaliacaoController.java",
+      "name": "AvaliacaoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/controller/AvaliacaoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "69"
+        },
+        {
+          "metric": "ncloc",
+          "value": "59"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/AvaliacaoCreateDTO.java",
+      "name": "AvaliacaoCreateDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/AvaliacaoCreateDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/AvaliacaoRepository.java",
+      "name": "AvaliacaoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/AvaliacaoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/AvaliacaoResponseDTO.java",
+      "name": "AvaliacaoResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/AvaliacaoResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "40"
+        },
+        {
+          "metric": "ncloc",
+          "value": "31"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "27",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/service/AvaliacaoService.java",
+      "name": "AvaliacaoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/service/AvaliacaoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "90"
+        },
+        {
+          "metric": "ncloc",
+          "value": "69"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "19",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "27"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/test/java/com/pagil/teruel_express/service/AvaliacaoServiceTest.java",
+      "name": "AvaliacaoServiceTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/com/pagil/teruel_express/service/AvaliacaoServiceTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "118"
+        },
+        {
+          "metric": "ncloc",
+          "value": "92"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "109",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "46"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/AvaliacaoUpdateDTO.java",
+      "name": "AvaliacaoUpdateDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/AvaliacaoUpdateDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/BusinessLogicException.java",
+      "name": "BusinessLogicException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/BusinessLogicException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/Cidade.java",
+      "name": "Cidade.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/Cidade.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/controller/CidadeController.java",
+      "name": "CidadeController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/controller/CidadeController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "63"
+        },
+        {
+          "metric": "ncloc",
+          "value": "53"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "22",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/CidadeDTO.java",
+      "name": "CidadeDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/CidadeDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "18"
+        },
+        {
+          "metric": "ncloc",
+          "value": "14"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/CidadeRepository.java",
+      "name": "CidadeRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/CidadeRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "21"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/service/CidadeService.java",
+      "name": "CidadeService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/service/CidadeService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "53",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "23"
+        },
+        {
+          "metric": "lines",
+          "value": "149"
+        },
+        {
+          "metric": "ncloc",
+          "value": "116"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "53",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "63",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/test/java/com/pagil/teruel_express/service/CidadeServiceTest.java",
+      "name": "CidadeServiceTest.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/com/pagil/teruel_express/service/CidadeServiceTest.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "19"
+        },
+        {
+          "metric": "lines",
+          "value": "226"
+        },
+        {
+          "metric": "ncloc",
+          "value": "182"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "56",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "115"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/CityStateUniqueViolationException.java",
+      "name": "CityStateUniqueViolationException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/CityStateUniqueViolationException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/Codigo.java",
+      "name": "Codigo.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/Codigo.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3"
+        },
+        {
+          "metric": "lines",
+          "value": "46"
+        },
+        {
+          "metric": "ncloc",
+          "value": "36"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "58",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/controller/CodigoController.java",
+      "name": "CodigoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/controller/CodigoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "39"
+        },
+        {
+          "metric": "ncloc",
+          "value": "32"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "25",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/CodigoRepository.java",
+      "name": "CodigoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/CodigoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "12"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/config/CodigoSchedulerConfig.java",
+      "name": "CodigoSchedulerConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/config/CodigoSchedulerConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "21"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/service/CodigoService.java",
+      "name": "CodigoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/service/CodigoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "38",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "18"
+        },
+        {
+          "metric": "lines",
+          "value": "130"
+        },
+        {
+          "metric": "ncloc",
+          "value": "102"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "38",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "58",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/EmailCnpjUniqueViolationException.java",
+      "name": "EmailCnpjUniqueViolationException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/EmailCnpjUniqueViolationException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/EmailCpfUniqueViolationException.java",
+      "name": "EmailCpfUniqueViolationException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/EmailCpfUniqueViolationException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/service/EmailService.java",
+      "name": "EmailService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/service/EmailService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "48"
+        },
+        {
+          "metric": "ncloc",
+          "value": "41"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/Endereco.java",
+      "name": "Endereco.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/Endereco.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "33"
+        },
+        {
+          "metric": "ncloc",
+          "value": "24"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/EnderecoDTO.java",
+      "name": "EnderecoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/EnderecoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "34"
+        },
+        {
+          "metric": "ncloc",
+          "value": "25"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/mapper/EnderecoMapper.java",
+      "name": "EnderecoMapper.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/mapper/EnderecoMapper.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "23"
+        },
+        {
+          "metric": "ncloc",
+          "value": "17"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/EnderecoRepository.java",
+      "name": "EnderecoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/EnderecoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/service/EnderecoService.java",
+      "name": "EnderecoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/service/EnderecoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "56"
+        },
+        {
+          "metric": "ncloc",
+          "value": "45"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/handler/ErrorMessage.java",
+      "name": "ErrorMessage.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/handler/ErrorMessage.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "lines",
+          "value": "72"
+        },
+        {
+          "metric": "ncloc",
+          "value": "62"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "27"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/Estado.java",
+      "name": "Estado.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/Estado.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "21"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/controller/EstadoController.java",
+      "name": "EstadoController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/controller/EstadoController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "lines",
+          "value": "50"
+        },
+        {
+          "metric": "ncloc",
+          "value": "42"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "18",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/EstadoDTO.java",
+      "name": "EstadoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/EstadoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "10"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/EstadoRepository.java",
+      "name": "EstadoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/EstadoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "7"
+        },
+        {
+          "metric": "ncloc",
+          "value": "5"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/service/EstadoService.java",
+      "name": "EstadoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/service/EstadoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "50"
+        },
+        {
+          "metric": "ncloc",
+          "value": "38"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/HomePageDto.java",
+      "name": "HomePageDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/HomePageDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/InvalidValuesException.java",
+      "name": "InvalidValuesException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/InvalidValuesException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/jwt/JwtAuthenticationEntryPoint.java",
+      "name": "JwtAuthenticationEntryPoint.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/jwt/JwtAuthenticationEntryPoint.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "17"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/jwt/JwtAuthorizationFilter.java",
+      "name": "JwtAuthorizationFilter.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/jwt/JwtAuthorizationFilter.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "12"
+        },
+        {
+          "metric": "lines",
+          "value": "83"
+        },
+        {
+          "metric": "ncloc",
+          "value": "67"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "56",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/jwt/JwtToken.java",
+      "name": "JwtToken.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/jwt/JwtToken.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "15"
+        },
+        {
+          "metric": "ncloc",
+          "value": "11"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/jwt/JwtUserDetails.java",
+      "name": "JwtUserDetails.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/jwt/JwtUserDetails.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "31"
+        },
+        {
+          "metric": "ncloc",
+          "value": "23"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/jwt/JwtUserDetailsService.java",
+      "name": "JwtUserDetailsService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/jwt/JwtUserDetailsService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "59",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "15"
+        },
+        {
+          "metric": "lines",
+          "value": "99"
+        },
+        {
+          "metric": "ncloc",
+          "value": "91"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "59",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "83",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "45"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/jwt/JwtUtils.java",
+      "name": "JwtUtils.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/jwt/JwtUtils.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "51",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "12"
+        },
+        {
+          "metric": "lines",
+          "value": "110"
+        },
+        {
+          "metric": "ncloc",
+          "value": "95"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "4.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "51",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "132",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "27"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/LoginDto.java",
+      "name": "LoginDto.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/LoginDto.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "22"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/NotFoundException.java",
+      "name": "NotFoundException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/NotFoundException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/utils/NumberGenerator.java",
+      "name": "NumberGenerator.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/utils/NumberGenerator.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "bugs",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "code_smells",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "20"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "4.0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "10.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "29",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "3.0",
+          "bestValue": false
+        },
+        {
+          "metric": "statements",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/OrcamentoDetalhesDTO.java",
+      "name": "OrcamentoDetalhesDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/OrcamentoDetalhesDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "21"
+        },
+        {
+          "metric": "ncloc",
+          "value": "16"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/OrcamentoDTO.java",
+      "name": "OrcamentoDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/OrcamentoDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "32"
+        },
+        {
+          "metric": "ncloc",
+          "value": "25"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/Pacote.java",
+      "name": "Pacote.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/Pacote.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "41"
+        },
+        {
+          "metric": "ncloc",
+          "value": "29"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/PacoteRepository.java",
+      "name": "PacoteRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/PacoteRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "11"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PacoteRequestDTO.java",
+      "name": "PacoteRequestDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PacoteRequestDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "26"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PacoteResponseDTO.java",
+      "name": "PacoteResponseDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PacoteResponseDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PageableDTO.java",
+      "name": "PageableDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PageableDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "25"
+        },
+        {
+          "metric": "ncloc",
+          "value": "20"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/mapper/PageableMapper.java",
+      "name": "PageableMapper.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/mapper/PageableMapper.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/Pedido.java",
+      "name": "Pedido.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/Pedido.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "42"
+        },
+        {
+          "metric": "ncloc",
+          "value": "30"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_reliability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PedidoAdminDTO.java",
+      "name": "PedidoAdminDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PedidoAdminDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "19"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PedidoClienteDTO.java",
+      "name": "PedidoClienteDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PedidoClienteDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/mapper/PedidoMapper.java",
+      "name": "PedidoMapper.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/mapper/PedidoMapper.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "66",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "26"
+        },
+        {
+          "metric": "lines",
+          "value": "125"
+        },
+        {
+          "metric": "ncloc",
+          "value": "108"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "66",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "99",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "63"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/PedidoRepository.java",
+      "name": "PedidoRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/PedidoRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "20"
+        },
+        {
+          "metric": "ncloc",
+          "value": "14"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/service/PedidoService.java",
+      "name": "PedidoService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/service/PedidoService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "15"
+        },
+        {
+          "metric": "lines",
+          "value": "109"
+        },
+        {
+          "metric": "ncloc",
+          "value": "89"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "73",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "29"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/Pessoa.java",
+      "name": "Pessoa.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/Pessoa.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4"
+        },
+        {
+          "metric": "lines",
+          "value": "46"
+        },
+        {
+          "metric": "ncloc",
+          "value": "34"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/PessoaFisica.java",
+      "name": "PessoaFisica.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/PessoaFisica.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "28"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/controller/PessoaFisicaController.java",
+      "name": "PessoaFisicaController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/controller/PessoaFisicaController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "66"
+        },
+        {
+          "metric": "ncloc",
+          "value": "56"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PessoaFisicaCreateDTO.java",
+      "name": "PessoaFisicaCreateDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PessoaFisicaCreateDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "37"
+        },
+        {
+          "metric": "ncloc",
+          "value": "29"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/PessoaFisicaRepository.java",
+      "name": "PessoaFisicaRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/PessoaFisicaRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "18"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/service/PessoaFisicaService.java",
+      "name": "PessoaFisicaService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/service/PessoaFisicaService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "18"
+        },
+        {
+          "metric": "lines",
+          "value": "113"
+        },
+        {
+          "metric": "ncloc",
+          "value": "94"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "41",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "39"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/PessoaJuridica.java",
+      "name": "PessoaJuridica.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/PessoaJuridica.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "2"
+        },
+        {
+          "metric": "lines",
+          "value": "29"
+        },
+        {
+          "metric": "ncloc",
+          "value": "22"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/controller/PessoaJuridicaController.java",
+      "name": "PessoaJuridicaController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/controller/PessoaJuridicaController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "6"
+        },
+        {
+          "metric": "lines",
+          "value": "67"
+        },
+        {
+          "metric": "ncloc",
+          "value": "57"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PessoaJuridicaCreateDTO.java",
+      "name": "PessoaJuridicaCreateDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PessoaJuridicaCreateDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "38"
+        },
+        {
+          "metric": "ncloc",
+          "value": "29"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/PessoaJuridicaRepository.java",
+      "name": "PessoaJuridicaRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/PessoaJuridicaRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "18"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/service/PessoaJuridicaService.java",
+      "name": "PessoaJuridicaService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/service/PessoaJuridicaService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "7",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "18"
+        },
+        {
+          "metric": "lines",
+          "value": "116"
+        },
+        {
+          "metric": "ncloc",
+          "value": "96"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "42",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "51",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "41"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PessoaJuridicaUpdateDTO.java",
+      "name": "PessoaJuridicaUpdateDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PessoaJuridicaUpdateDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "17"
+        },
+        {
+          "metric": "ncloc",
+          "value": "12"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/repository/PessoaRepository.java",
+      "name": "PessoaRepository.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/repository/PessoaRepository.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "9"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PessoaSenhaDTO.java",
+      "name": "PessoaSenhaDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PessoaSenhaDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/PessoaUpdateDTO.java",
+      "name": "PessoaUpdateDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/PessoaUpdateDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "13"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/Role.java",
+      "name": "Role.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/Role.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "5"
+        },
+        {
+          "metric": "ncloc",
+          "value": "4"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.7",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/RouteNotAvailableException.java",
+      "name": "RouteNotAvailableException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/RouteNotAvailableException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "2.2",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/dto/SenhaUpdateDTO.java",
+      "name": "SenhaUpdateDTO.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/dto/SenhaUpdateDTO.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "18"
+        },
+        {
+          "metric": "ncloc",
+          "value": "13"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.5",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/controller/SolicitacoesController.java",
+      "name": "SolicitacoesController.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/controller/SolicitacoesController.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "75"
+        },
+        {
+          "metric": "ncloc",
+          "value": "64"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.1",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/config/SpringSecurityConfig.java",
+      "name": "SpringSecurityConfig.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/config/SpringSecurityConfig.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "lines",
+          "value": "91"
+        },
+        {
+          "metric": "ncloc",
+          "value": "78"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.4",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/StatusPedido.java",
+      "name": "StatusPedido.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/StatusPedido.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/StatusRota.java",
+      "name": "StatusRota.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/StatusRota.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "8"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.8",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/test/java/com/pagil/teruel_express/TeruelExpressBackendApplicationTests.java",
+      "name": "TeruelExpressBackendApplicationTests.java",
+      "qualifier": "FIL",
+      "path": "src/test/java/com/pagil/teruel_express/TeruelExpressBackendApplicationTests.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "14"
+        },
+        {
+          "metric": "ncloc",
+          "value": "9"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "3.3",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/model/entity/TipoPacote.java",
+      "name": "TipoPacote.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/model/entity/TipoPacote.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0"
+        },
+        {
+          "metric": "lines",
+          "value": "8"
+        },
+        {
+          "metric": "ncloc",
+          "value": "6"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "0.6",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/jwt/UserContextService.java",
+      "name": "UserContextService.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/jwt/UserContextService.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "7"
+        },
+        {
+          "metric": "lines",
+          "value": "46"
+        },
+        {
+          "metric": "ncloc",
+          "value": "36"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "5.0",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "16",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "54",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "13"
+        }
+      ]
+    },
+    {
+      "key": "Dlqnts-Sonar:src/main/java/com/pagil/teruel_express/exception/UsernameTypeException.java",
+      "name": "UsernameTypeException.java",
+      "qualifier": "FIL",
+      "path": "src/main/java/com/pagil/teruel_express/exception/UsernameTypeException.java",
+      "language": "java",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1"
+        },
+        {
+          "metric": "lines",
+          "value": "10"
+        },
+        {
+          "metric": "ncloc",
+          "value": "7"
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "software_quality_maintainability_debt_ratio",
+          "value": "1.9",
+          "bestValue": false
+        },
+        {
+          "metric": "software_quality_maintainability_issues",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_index",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "sqale_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "statements",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

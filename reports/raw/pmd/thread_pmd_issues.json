@@ -1,0 +1,4631 @@
+{
+  "formatVersion": 0,
+  "pmdVersion": "7.26.0",
+  "timestamp": "2026-08-23T18:28:36.257-03:00",
+  "files": [
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/StilofitApplication.java",
+      "violations": [
+        {
+          "beginline": 8,
+          "begincolumn": 35,
+          "endline": 8,
+          "endcolumn": 39,
+          "description": "Parameter \u0027args\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/config/CorsConfig.java",
+      "violations": [
+        {
+          "beginline": 15,
+          "begincolumn": 55,
+          "endline": 15,
+          "endcolumn": 63,
+          "description": "Parameter \u0027registry\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/config/SecurityConfig.java",
+      "violations": [
+        {
+          "beginline": 14,
+          "begincolumn": 66,
+          "endline": 14,
+          "endcolumn": 70,
+          "description": "Parameter \u0027http\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 72,
+          "endline": 14,
+          "endcolumn": 88,
+          "description": "A method/constructor should not explicitly throw java.lang.Exception",
+          "rule": "SignatureDeclareThrowsException",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#signaturedeclarethrowsexception"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/controllers/AgreementController.java",
+      "violations": [
+        {
+          "beginline": 41,
+          "begincolumn": 123,
+          "endline": 41,
+          "endcolumn": 141,
+          "description": "The String literal \"application/json\" appears 17 times in this file; the first occurrence is on line 41",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 43,
+          "begincolumn": 37,
+          "endline": 43,
+          "endcolumn": 42,
+          "description": "The String literal \"500\" appears 4 times in this file; the first occurrence is on line 43",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 43,
+          "begincolumn": 58,
+          "endline": 43,
+          "endcolumn": 81,
+          "description": "The String literal \"Internal server error\" appears 4 times in this file; the first occurrence is on line 43",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 96,
+          "endline": 46,
+          "endcolumn": 115,
+          "description": "Avoid excessively long variable names like agreementRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 96,
+          "endline": 46,
+          "endcolumn": 115,
+          "description": "Parameter \u0027agreementRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 19,
+          "endline": 47,
+          "endcolumn": 28,
+          "description": "Local variable \u0027agreement\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 30,
+          "endline": 48,
+          "endcolumn": 47,
+          "description": "Local variable \u0027agreementResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 53,
+          "begincolumn": 37,
+          "endline": 53,
+          "endcolumn": 42,
+          "description": "The String literal \"200\" appears 4 times in this file; the first occurrence is on line 53",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 54,
+          "begincolumn": 37,
+          "endline": 54,
+          "endcolumn": 42,
+          "description": "The String literal \"404\" appears 4 times in this file; the first occurrence is on line 54",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 56,
+          "begincolumn": 77,
+          "endline": 56,
+          "endcolumn": 79,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 56,
+          "begincolumn": 77,
+          "endline": 56,
+          "endcolumn": 79,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 57,
+          "begincolumn": 19,
+          "endline": 57,
+          "endcolumn": 28,
+          "description": "Local variable \u0027agreement\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 30,
+          "endline": 58,
+          "endcolumn": 47,
+          "description": "Local variable \u0027agreementResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 114,
+          "endline": 68,
+          "endcolumn": 132,
+          "description": "Access to field `ASC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 143,
+          "endline": 68,
+          "endcolumn": 151,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 69,
+          "begincolumn": 25,
+          "endline": 69,
+          "endcolumn": 35,
+          "description": "Local variable \u0027agreements\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 32,
+          "endline": 70,
+          "endcolumn": 50,
+          "description": "Avoid excessively long variable names like agreementResponses",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 32,
+          "endline": 70,
+          "endcolumn": 50,
+          "description": "Local variable \u0027agreementResponses\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 80,
+          "begincolumn": 117,
+          "endline": 80,
+          "endcolumn": 135,
+          "description": "Access to field `ASC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 80,
+          "begincolumn": 146,
+          "endline": 80,
+          "endcolumn": 154,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 80,
+          "begincolumn": 229,
+          "endline": 80,
+          "endcolumn": 233,
+          "description": "Parameter \u0027name\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 25,
+          "endline": 81,
+          "endcolumn": 35,
+          "description": "Local variable \u0027agreements\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 82,
+          "begincolumn": 32,
+          "endline": 82,
+          "endcolumn": 50,
+          "description": "Avoid excessively long variable names like agreementResponses",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 82,
+          "begincolumn": 32,
+          "endline": 82,
+          "endcolumn": 50,
+          "description": "Local variable \u0027agreementResponses\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 94,
+          "begincolumn": 75,
+          "endline": 94,
+          "endcolumn": 77,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 94,
+          "begincolumn": 75,
+          "endline": 94,
+          "endcolumn": 77,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 94,
+          "begincolumn": 112,
+          "endline": 94,
+          "endcolumn": 131,
+          "description": "Avoid excessively long variable names like agreementRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 94,
+          "begincolumn": 112,
+          "endline": 94,
+          "endcolumn": 131,
+          "description": "Parameter \u0027agreementRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 95,
+          "begincolumn": 19,
+          "endline": 95,
+          "endcolumn": 35,
+          "description": "Local variable \u0027updatedAgreement\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 96,
+          "begincolumn": 30,
+          "endline": 96,
+          "endcolumn": 47,
+          "description": "Local variable \u0027agreementResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/controllers/ClientController.java",
+      "violations": [
+        {
+          "beginline": 40,
+          "begincolumn": 120,
+          "endline": 40,
+          "endcolumn": 138,
+          "description": "The String literal \"application/json\" appears 14 times in this file; the first occurrence is on line 40",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 45,
+          "begincolumn": 90,
+          "endline": 45,
+          "endcolumn": 106,
+          "description": "Parameter \u0027clientRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 16,
+          "endline": 46,
+          "endcolumn": 22,
+          "description": "Local variable \u0027client\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 27,
+          "endline": 47,
+          "endcolumn": 41,
+          "description": "Local variable \u0027clientResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 55,
+          "begincolumn": 83,
+          "endline": 55,
+          "endcolumn": 85,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 55,
+          "begincolumn": 83,
+          "endline": 55,
+          "endcolumn": 85,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 56,
+          "begincolumn": 16,
+          "endline": 56,
+          "endcolumn": 22,
+          "description": "Local variable \u0027client\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 57,
+          "begincolumn": 27,
+          "endline": 57,
+          "endcolumn": 41,
+          "description": "Local variable \u0027clientResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 67,
+          "begincolumn": 120,
+          "endline": 67,
+          "endcolumn": 138,
+          "description": "Access to field `ASC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 67,
+          "begincolumn": 149,
+          "endline": 67,
+          "endcolumn": 157,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 22,
+          "endline": 68,
+          "endcolumn": 29,
+          "description": "Local variable \u0027clients\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 69,
+          "begincolumn": 29,
+          "endline": 69,
+          "endcolumn": 44,
+          "description": "Local variable \u0027clientResponses\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 81,
+          "endline": 81,
+          "endcolumn": 83,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 81,
+          "endline": 81,
+          "endcolumn": 83,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 115,
+          "endline": 81,
+          "endcolumn": 131,
+          "description": "Parameter \u0027clientRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 82,
+          "begincolumn": 16,
+          "endline": 82,
+          "endcolumn": 29,
+          "description": "Local variable \u0027updatedClient\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 83,
+          "begincolumn": 27,
+          "endline": 83,
+          "endcolumn": 41,
+          "description": "Local variable \u0027clientResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/controllers/ContractController.java",
+      "violations": [
+        {
+          "beginline": 36,
+          "begincolumn": 94,
+          "endline": 36,
+          "endcolumn": 97,
+          "description": "Parameter \u0027dto\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 41,
+          "begincolumn": 122,
+          "endline": 41,
+          "endcolumn": 140,
+          "description": "Access to field `ASC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 41,
+          "begincolumn": 151,
+          "endline": 41,
+          "endcolumn": 159,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 85,
+          "endline": 46,
+          "endcolumn": 87,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 85,
+          "endline": 46,
+          "endcolumn": 87,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 51,
+          "begincolumn": 116,
+          "endline": 51,
+          "endcolumn": 134,
+          "description": "Access to field `ASC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 51,
+          "begincolumn": 145,
+          "endline": 51,
+          "endcolumn": 153,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 51,
+          "begincolumn": 228,
+          "endline": 51,
+          "endcolumn": 232,
+          "description": "Parameter \u0027name\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 52,
+          "begincolumn": 24,
+          "endline": 52,
+          "endcolumn": 33,
+          "description": "Local variable \u0027contracts\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 53,
+          "begincolumn": 31,
+          "endline": 53,
+          "endcolumn": 48,
+          "description": "Local variable \u0027contractResponses\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 83,
+          "endline": 58,
+          "endcolumn": 85,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 83,
+          "endline": 58,
+          "endcolumn": 85,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 126,
+          "endline": 58,
+          "endcolumn": 129,
+          "description": "Parameter \u0027dto\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 63,
+          "begincolumn": 68,
+          "endline": 63,
+          "endcolumn": 70,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 63,
+          "begincolumn": 68,
+          "endline": 63,
+          "endcolumn": 70,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/controllers/EmployeeController.java",
+      "violations": [
+        {
+          "beginline": 40,
+          "begincolumn": 122,
+          "endline": 40,
+          "endcolumn": 140,
+          "description": "The String literal \"application/json\" appears 14 times in this file; the first occurrence is on line 40",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 45,
+          "begincolumn": 94,
+          "endline": 45,
+          "endcolumn": 112,
+          "description": "Avoid excessively long variable names like employeeRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 45,
+          "begincolumn": 94,
+          "endline": 45,
+          "endcolumn": 112,
+          "description": "Parameter \u0027employeeRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 18,
+          "endline": 46,
+          "endcolumn": 26,
+          "description": "Local variable \u0027employee\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 29,
+          "endline": 47,
+          "endcolumn": 45,
+          "description": "Local variable \u0027employeeResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 55,
+          "begincolumn": 85,
+          "endline": 55,
+          "endcolumn": 87,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 55,
+          "begincolumn": 85,
+          "endline": 55,
+          "endcolumn": 87,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 56,
+          "begincolumn": 18,
+          "endline": 56,
+          "endcolumn": 26,
+          "description": "Local variable \u0027employee\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 57,
+          "begincolumn": 29,
+          "endline": 57,
+          "endcolumn": 45,
+          "description": "Local variable \u0027employeeResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 67,
+          "begincolumn": 122,
+          "endline": 67,
+          "endcolumn": 140,
+          "description": "Access to field `ASC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 67,
+          "begincolumn": 151,
+          "endline": 67,
+          "endcolumn": 159,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 24,
+          "endline": 68,
+          "endcolumn": 33,
+          "description": "Local variable \u0027employees\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 69,
+          "begincolumn": 31,
+          "endline": 69,
+          "endcolumn": 48,
+          "description": "Local variable \u0027employeeResponses\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 83,
+          "endline": 81,
+          "endcolumn": 85,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 83,
+          "endline": 81,
+          "endcolumn": 85,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 119,
+          "endline": 81,
+          "endcolumn": 137,
+          "description": "Avoid excessively long variable names like employeeRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 119,
+          "endline": 81,
+          "endcolumn": 137,
+          "description": "Parameter \u0027employeeRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 82,
+          "begincolumn": 18,
+          "endline": 82,
+          "endcolumn": 33,
+          "description": "Local variable \u0027updatedEmployee\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 83,
+          "begincolumn": 29,
+          "endline": 83,
+          "endcolumn": 45,
+          "description": "Local variable \u0027employeeResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/controllers/PromotionController.java",
+      "violations": [
+        {
+          "beginline": 41,
+          "begincolumn": 123,
+          "endline": 41,
+          "endcolumn": 141,
+          "description": "The String literal \"application/json\" appears 17 times in this file; the first occurrence is on line 41",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 43,
+          "begincolumn": 37,
+          "endline": 43,
+          "endcolumn": 42,
+          "description": "The String literal \"500\" appears 4 times in this file; the first occurrence is on line 43",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 43,
+          "begincolumn": 58,
+          "endline": 43,
+          "endcolumn": 81,
+          "description": "The String literal \"Internal server error\" appears 4 times in this file; the first occurrence is on line 43",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 96,
+          "endline": 46,
+          "endcolumn": 115,
+          "description": "Avoid excessively long variable names like promotionRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 96,
+          "endline": 46,
+          "endcolumn": 115,
+          "description": "Parameter \u0027promotionRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 19,
+          "endline": 47,
+          "endcolumn": 28,
+          "description": "Local variable \u0027promotion\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 30,
+          "endline": 48,
+          "endcolumn": 47,
+          "description": "Local variable \u0027promotionResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 53,
+          "begincolumn": 37,
+          "endline": 53,
+          "endcolumn": 42,
+          "description": "The String literal \"200\" appears 4 times in this file; the first occurrence is on line 53",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 54,
+          "begincolumn": 37,
+          "endline": 54,
+          "endcolumn": 42,
+          "description": "The String literal \"404\" appears 4 times in this file; the first occurrence is on line 54",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 56,
+          "begincolumn": 86,
+          "endline": 56,
+          "endcolumn": 88,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 56,
+          "begincolumn": 86,
+          "endline": 56,
+          "endcolumn": 88,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 57,
+          "begincolumn": 19,
+          "endline": 57,
+          "endcolumn": 28,
+          "description": "Local variable \u0027promotion\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 30,
+          "endline": 58,
+          "endcolumn": 47,
+          "description": "Local variable \u0027promotionResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 123,
+          "endline": 68,
+          "endcolumn": 141,
+          "description": "Access to field `ASC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 152,
+          "endline": 68,
+          "endcolumn": 160,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 69,
+          "begincolumn": 25,
+          "endline": 69,
+          "endcolumn": 35,
+          "description": "Local variable \u0027promotions\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 32,
+          "endline": 70,
+          "endcolumn": 50,
+          "description": "Avoid excessively long variable names like promotionResponses",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 32,
+          "endline": 70,
+          "endcolumn": 50,
+          "description": "Local variable \u0027promotionResponses\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 80,
+          "begincolumn": 117,
+          "endline": 80,
+          "endcolumn": 135,
+          "description": "Access to field `ASC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 80,
+          "begincolumn": 146,
+          "endline": 80,
+          "endcolumn": 154,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 80,
+          "begincolumn": 229,
+          "endline": 80,
+          "endcolumn": 233,
+          "description": "Parameter \u0027name\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 25,
+          "endline": 81,
+          "endcolumn": 35,
+          "description": "Local variable \u0027promotions\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 82,
+          "begincolumn": 32,
+          "endline": 82,
+          "endcolumn": 50,
+          "description": "Avoid excessively long variable names like promotionResponses",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 82,
+          "begincolumn": 32,
+          "endline": 82,
+          "endcolumn": 50,
+          "description": "Local variable \u0027promotionResponses\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 94,
+          "begincolumn": 84,
+          "endline": 94,
+          "endcolumn": 86,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 94,
+          "begincolumn": 84,
+          "endline": 94,
+          "endcolumn": 86,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 94,
+          "begincolumn": 121,
+          "endline": 94,
+          "endcolumn": 140,
+          "description": "Avoid excessively long variable names like promotionRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 94,
+          "begincolumn": 121,
+          "endline": 94,
+          "endcolumn": 140,
+          "description": "Parameter \u0027promotionRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 95,
+          "begincolumn": 19,
+          "endline": 95,
+          "endcolumn": 35,
+          "description": "Local variable \u0027updatedPromotion\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 96,
+          "begincolumn": 30,
+          "endline": 96,
+          "endcolumn": 47,
+          "description": "Local variable \u0027promotionResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/controllers/SaleController.java",
+      "violations": [
+        {
+          "beginline": 40,
+          "begincolumn": 118,
+          "endline": 40,
+          "endcolumn": 136,
+          "description": "The String literal \"application/json\" appears 17 times in this file; the first occurrence is on line 40",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 42,
+          "begincolumn": 37,
+          "endline": 42,
+          "endcolumn": 42,
+          "description": "The String literal \"500\" appears 4 times in this file; the first occurrence is on line 42",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 42,
+          "begincolumn": 58,
+          "endline": 42,
+          "endcolumn": 81,
+          "description": "The String literal \"Internal server error\" appears 4 times in this file; the first occurrence is on line 42",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 45,
+          "begincolumn": 86,
+          "endline": 45,
+          "endcolumn": 100,
+          "description": "Parameter \u0027saleRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 14,
+          "endline": 46,
+          "endcolumn": 18,
+          "description": "Local variable \u0027sale\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 25,
+          "endline": 47,
+          "endcolumn": 37,
+          "description": "Local variable \u0027saleResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 52,
+          "begincolumn": 37,
+          "endline": 52,
+          "endcolumn": 42,
+          "description": "The String literal \"200\" appears 4 times in this file; the first occurrence is on line 52",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 53,
+          "begincolumn": 37,
+          "endline": 53,
+          "endcolumn": 42,
+          "description": "The String literal \"404\" appears 4 times in this file; the first occurrence is on line 53",
+          "rule": "AvoidDuplicateLiterals",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#avoidduplicateliterals"
+        },
+        {
+          "beginline": 55,
+          "begincolumn": 81,
+          "endline": 55,
+          "endcolumn": 83,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 55,
+          "begincolumn": 81,
+          "endline": 55,
+          "endcolumn": 83,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 56,
+          "begincolumn": 14,
+          "endline": 56,
+          "endcolumn": 18,
+          "description": "Local variable \u0027sale\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 57,
+          "begincolumn": 25,
+          "endline": 57,
+          "endcolumn": 37,
+          "description": "Local variable \u0027saleResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 67,
+          "begincolumn": 123,
+          "endline": 67,
+          "endcolumn": 142,
+          "description": "Access to field `DESC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 67,
+          "begincolumn": 153,
+          "endline": 67,
+          "endcolumn": 161,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 20,
+          "endline": 68,
+          "endcolumn": 25,
+          "description": "Local variable \u0027sales\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 69,
+          "begincolumn": 27,
+          "endline": 69,
+          "endcolumn": 40,
+          "description": "Local variable \u0027saleResponses\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 79,
+          "begincolumn": 87,
+          "endline": 79,
+          "endcolumn": 89,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 79,
+          "begincolumn": 87,
+          "endline": 79,
+          "endcolumn": 89,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 79,
+          "begincolumn": 160,
+          "endline": 79,
+          "endcolumn": 179,
+          "description": "Access to field `DESC` on foreign value `Sort.Direction` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 79,
+          "begincolumn": 190,
+          "endline": 79,
+          "endcolumn": 198,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 80,
+          "begincolumn": 20,
+          "endline": 80,
+          "endcolumn": 25,
+          "description": "Local variable \u0027sales\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 81,
+          "begincolumn": 27,
+          "endline": 81,
+          "endcolumn": 40,
+          "description": "Local variable \u0027saleResponses\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 93,
+          "begincolumn": 79,
+          "endline": 93,
+          "endcolumn": 81,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 93,
+          "begincolumn": 79,
+          "endline": 93,
+          "endcolumn": 81,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 93,
+          "begincolumn": 118,
+          "endline": 93,
+          "endcolumn": 132,
+          "description": "Parameter \u0027saleRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 94,
+          "begincolumn": 14,
+          "endline": 94,
+          "endcolumn": 25,
+          "description": "Local variable \u0027updatedSale\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 95,
+          "begincolumn": 25,
+          "endline": 95,
+          "endcolumn": 37,
+          "description": "Local variable \u0027saleResponse\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/ClientRequestDTO.java",
+      "violations": [
+        {
+          "beginline": 8,
+          "begincolumn": 1,
+          "endline": 8,
+          "endcolumn": 48,
+          "description": "Unused import \u0027com.ifpr.thread.stilofit.models.enums.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 17,
+          "begincolumn": 14,
+          "endline": 17,
+          "endcolumn": 30,
+          "description": "Too many fields",
+          "rule": "TooManyFields",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#toomanyfields"
+        },
+        {
+          "beginline": 31,
+          "begincolumn": 20,
+          "endline": 31,
+          "endcolumn": 22,
+          "description": "Avoid variables with short names like rg",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 34,
+          "begincolumn": 23,
+          "endline": 34,
+          "endcolumn": 41,
+          "description": "Avoid excessively long variable names like medicalExamDueDate",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 35,
+          "begincolumn": 29,
+          "endline": 35,
+          "endcolumn": 48,
+          "description": "Access to field `SEM_CONTRATO` on foreign value `Status` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/ClientResponseDTO.java",
+      "violations": [
+        {
+          "beginline": 5,
+          "begincolumn": 1,
+          "endline": 5,
+          "endcolumn": 48,
+          "description": "Unused import \u0027com.ifpr.thread.stilofit.models.enums.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 14,
+          "endline": 9,
+          "endcolumn": 31,
+          "description": "Too many fields",
+          "rule": "TooManyFields",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#toomanyfields"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 18,
+          "endline": 10,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 17,
+          "begincolumn": 20,
+          "endline": 17,
+          "endcolumn": 22,
+          "description": "Avoid variables with short names like rg",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 20,
+          "begincolumn": 23,
+          "endline": 20,
+          "endcolumn": 41,
+          "description": "Avoid excessively long variable names like medicalExamDueDate",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/ContractResponseDTO.java",
+      "violations": [
+        {
+          "beginline": 13,
+          "begincolumn": 18,
+          "endline": 13,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/DiscountResponseDTO.java",
+      "violations": [
+        {
+          "beginline": 12,
+          "begincolumn": 18,
+          "endline": 12,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/EmployeeRequestDTO.java",
+      "violations": [
+        {
+          "beginline": 23,
+          "begincolumn": 14,
+          "endline": 23,
+          "endcolumn": 32,
+          "description": "Too many fields",
+          "rule": "TooManyFields",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#toomanyfields"
+        },
+        {
+          "beginline": 39,
+          "begincolumn": 20,
+          "endline": 39,
+          "endcolumn": 22,
+          "description": "Avoid variables with short names like rg",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 20,
+          "endline": 40,
+          "endcolumn": 40,
+          "description": "Avoid excessively long variable names like professionalRegister",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/EmployeeResponseDTO.java",
+      "violations": [
+        {
+          "beginline": 15,
+          "begincolumn": 14,
+          "endline": 15,
+          "endcolumn": 33,
+          "description": "Too many fields",
+          "rule": "TooManyFields",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#toomanyfields"
+        },
+        {
+          "beginline": 16,
+          "begincolumn": 18,
+          "endline": 16,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 23,
+          "begincolumn": 20,
+          "endline": 23,
+          "endcolumn": 22,
+          "description": "Avoid variables with short names like rg",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 24,
+          "begincolumn": 20,
+          "endline": 24,
+          "endcolumn": 40,
+          "description": "Avoid excessively long variable names like professionalRegister",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/SaleResponseDTO.java",
+      "violations": [
+        {
+          "beginline": 14,
+          "begincolumn": 18,
+          "endline": 14,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/list/ClientListDTO.java",
+      "violations": [
+        {
+          "beginline": 8,
+          "begincolumn": 18,
+          "endline": 8,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/list/ContractListDTO.java",
+      "violations": [
+        {
+          "beginline": 9,
+          "begincolumn": 18,
+          "endline": 9,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/list/DiscountListDTO.java",
+      "violations": [
+        {
+          "beginline": 9,
+          "begincolumn": 23,
+          "endline": 9,
+          "endcolumn": 38,
+          "description": "No abstract method which means that the keyword is most likely used to prevent instantiation. Use a private or protected constructor instead.",
+          "rule": "AbstractClassWithoutAnyMethod",
+          "ruleset": "Design",
+          "priority": 1,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#abstractclasswithoutanymethod"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 23,
+          "endline": 9,
+          "endcolumn": 38,
+          "description": "This abstract class does not have any abstract methods",
+          "rule": "AbstractClassWithoutAbstractMethod",
+          "ruleset": "Best Practices",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_bestpractices.html#abstractclasswithoutabstractmethod"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 18,
+          "endline": 10,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/list/EmployeeListDTO.java",
+      "violations": [
+        {
+          "beginline": 11,
+          "begincolumn": 18,
+          "endline": 11,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/list/SaleListDTO.java",
+      "violations": [
+        {
+          "beginline": 10,
+          "begincolumn": 18,
+          "endline": 10,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/mapper/AgreementMapper.java",
+      "violations": [
+        {
+          "beginline": 7,
+          "begincolumn": 14,
+          "endline": 7,
+          "endcolumn": 29,
+          "description": "All members are static. Consider adding a private no-args constructor to prevent instantiation.",
+          "rule": "UseUtilityClass",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#useutilityclass"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 61,
+          "endline": 9,
+          "endcolumn": 70,
+          "description": "Parameter \u0027agreement\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 30,
+          "endline": 10,
+          "endcolumn": 33,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 22,
+          "begincolumn": 53,
+          "endline": 22,
+          "endcolumn": 62,
+          "description": "Parameter \u0027agreement\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 23,
+          "begincolumn": 26,
+          "endline": 23,
+          "endcolumn": 29,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/mapper/ClientMapper.java",
+      "violations": [
+        {
+          "beginline": 7,
+          "begincolumn": 14,
+          "endline": 7,
+          "endcolumn": 26,
+          "description": "All members are static. Consider adding a private no-args constructor to prevent instantiation.",
+          "rule": "UseUtilityClass",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#useutilityclass"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 55,
+          "endline": 9,
+          "endcolumn": 61,
+          "description": "Parameter \u0027client\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 27,
+          "endline": 10,
+          "endcolumn": 30,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 42,
+          "begincolumn": 47,
+          "endline": 42,
+          "endcolumn": 53,
+          "description": "Parameter \u0027client\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 43,
+          "begincolumn": 23,
+          "endline": 43,
+          "endcolumn": 26,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/mapper/ContractMapper.java",
+      "violations": [
+        {
+          "beginline": 13,
+          "begincolumn": 14,
+          "endline": 13,
+          "endcolumn": 28,
+          "description": "All members are static. Consider adding a private no-args constructor to prevent instantiation.",
+          "rule": "UseUtilityClass",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#useutilityclass"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 56,
+          "endline": 14,
+          "endcolumn": 59,
+          "description": "Parameter \u0027dto\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 15,
+          "begincolumn": 18,
+          "endline": 15,
+          "endcolumn": 26,
+          "description": "Local variable \u0027contract\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 54,
+          "endline": 32,
+          "endcolumn": 62,
+          "description": "Parameter \u0027contract\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 33,
+          "begincolumn": 29,
+          "endline": 33,
+          "endcolumn": 32,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 51,
+          "begincolumn": 51,
+          "endline": 51,
+          "endcolumn": 59,
+          "description": "Parameter \u0027contract\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 52,
+          "begincolumn": 25,
+          "endline": 52,
+          "endcolumn": 28,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/mapper/EmployeeMapper.java",
+      "violations": [
+        {
+          "beginline": 8,
+          "begincolumn": 14,
+          "endline": 8,
+          "endcolumn": 28,
+          "description": "All members are static. Consider adding a private no-args constructor to prevent instantiation.",
+          "rule": "UseUtilityClass",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#useutilityclass"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 62,
+          "endline": 9,
+          "endcolumn": 70,
+          "description": "Parameter \u0027employee\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 29,
+          "endline": 10,
+          "endcolumn": 32,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 38,
+          "begincolumn": 51,
+          "endline": 38,
+          "endcolumn": 59,
+          "description": "Parameter \u0027employee\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 39,
+          "begincolumn": 25,
+          "endline": 39,
+          "endcolumn": 28,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/mapper/PromotionMapper.java",
+      "violations": [
+        {
+          "beginline": 7,
+          "begincolumn": 14,
+          "endline": 7,
+          "endcolumn": 29,
+          "description": "All members are static. Consider adding a private no-args constructor to prevent instantiation.",
+          "rule": "UseUtilityClass",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#useutilityclass"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 61,
+          "endline": 9,
+          "endcolumn": 70,
+          "description": "Parameter \u0027promotion\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 30,
+          "endline": 10,
+          "endcolumn": 33,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 20,
+          "begincolumn": 53,
+          "endline": 20,
+          "endcolumn": 62,
+          "description": "Parameter \u0027promotion\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 26,
+          "endline": 21,
+          "endcolumn": 29,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/dto/mapper/SaleMapper.java",
+      "violations": [
+        {
+          "beginline": 7,
+          "begincolumn": 14,
+          "endline": 7,
+          "endcolumn": 24,
+          "description": "All members are static. Consider adding a private no-args constructor to prevent instantiation.",
+          "rule": "UseUtilityClass",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#useutilityclass"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 51,
+          "endline": 9,
+          "endcolumn": 55,
+          "description": "Parameter \u0027sale\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 25,
+          "endline": 10,
+          "endcolumn": 28,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 20,
+          "begincolumn": 43,
+          "endline": 20,
+          "endcolumn": 47,
+          "description": "Parameter \u0027sale\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 21,
+          "endline": 21,
+          "endcolumn": 24,
+          "description": "Local variable \u0027dto\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/exceptions/ApiExceptionHandler.java",
+      "violations": [
+        {
+          "beginline": 18,
+          "begincolumn": 57,
+          "endline": 18,
+          "endcolumn": 59,
+          "description": "Avoid variables with short names like ex",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 18,
+          "begincolumn": 57,
+          "endline": 18,
+          "endcolumn": 59,
+          "description": "Parameter \u0027ex\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 19,
+          "begincolumn": 44,
+          "endline": 19,
+          "endcolumn": 51,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 24,
+          "endline": 21,
+          "endcolumn": 31,
+          "description": "Local variable \u0027message\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 30,
+          "endline": 28,
+          "endcolumn": 35,
+          "description": "Local variable \u0027error\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 34,
+          "begincolumn": 55,
+          "endline": 34,
+          "endcolumn": 57,
+          "description": "Avoid variables with short names like ex",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 34,
+          "begincolumn": 55,
+          "endline": 34,
+          "endcolumn": 57,
+          "description": "Parameter \u0027ex\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 35,
+          "begincolumn": 44,
+          "endline": 35,
+          "endcolumn": 51,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 38,
+          "begincolumn": 30,
+          "endline": 38,
+          "endcolumn": 35,
+          "description": "Local variable \u0027error\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 68,
+          "endline": 47,
+          "endcolumn": 70,
+          "description": "Avoid variables with short names like ex",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 68,
+          "endline": 47,
+          "endcolumn": 70,
+          "description": "Parameter \u0027ex\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 44,
+          "endline": 48,
+          "endcolumn": 51,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 51,
+          "begincolumn": 30,
+          "endline": 51,
+          "endcolumn": 35,
+          "description": "Local variable \u0027error\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 60,
+          "begincolumn": 43,
+          "endline": 60,
+          "endcolumn": 45,
+          "description": "Avoid variables with short names like ex",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 60,
+          "begincolumn": 43,
+          "endline": 60,
+          "endcolumn": 45,
+          "description": "Parameter \u0027ex\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 61,
+          "begincolumn": 44,
+          "endline": 61,
+          "endcolumn": 51,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 64,
+          "begincolumn": 30,
+          "endline": 64,
+          "endcolumn": 35,
+          "description": "Local variable \u0027error\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 73,
+          "begincolumn": 43,
+          "endline": 73,
+          "endcolumn": 45,
+          "description": "Avoid variables with short names like ex",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 73,
+          "begincolumn": 43,
+          "endline": 73,
+          "endcolumn": 45,
+          "description": "Parameter \u0027ex\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 74,
+          "begincolumn": 44,
+          "endline": 74,
+          "endcolumn": 51,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 77,
+          "begincolumn": 30,
+          "endline": 77,
+          "endcolumn": 35,
+          "description": "Local variable \u0027error\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/exceptions/ContractNameAlreadyExistsException.java",
+      "violations": [
+        {
+          "beginline": 3,
+          "begincolumn": 14,
+          "endline": 3,
+          "endcolumn": 48,
+          "description": "Classes implementing Serializable should set a serialVersionUID",
+          "rule": "MissingSerialVersionUID",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#missingserialversionuid"
+        },
+        {
+          "beginline": 4,
+          "begincolumn": 54,
+          "endline": 4,
+          "endcolumn": 61,
+          "description": "Parameter \u0027message\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/exceptions/CpfAlreadyRegisteredException.java",
+      "violations": [
+        {
+          "beginline": 7,
+          "begincolumn": 14,
+          "endline": 7,
+          "endcolumn": 43,
+          "description": "Classes implementing Serializable should set a serialVersionUID",
+          "rule": "MissingSerialVersionUID",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#missingserialversionuid"
+        },
+        {
+          "beginline": 8,
+          "begincolumn": 49,
+          "endline": 8,
+          "endcolumn": 56,
+          "description": "Parameter \u0027message\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/exceptions/ErrorMessage.java",
+      "violations": [
+        {
+          "beginline": 26,
+          "begincolumn": 18,
+          "endline": 26,
+          "endcolumn": 46,
+          "description": "Access to field `NON_NULL` on foreign value `JsonInclude.Include` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 44,
+          "endline": 32,
+          "endcolumn": 51,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 64,
+          "endline": 32,
+          "endcolumn": 70,
+          "description": "Parameter \u0027status\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 79,
+          "endline": 32,
+          "endcolumn": 86,
+          "description": "Parameter \u0027message\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 44,
+          "endline": 40,
+          "endcolumn": 51,
+          "description": "Parameter \u0027request\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 64,
+          "endline": 40,
+          "endcolumn": 70,
+          "description": "Parameter \u0027status\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 79,
+          "endline": 40,
+          "endcolumn": 86,
+          "description": "Parameter \u0027message\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 102,
+          "endline": 40,
+          "endcolumn": 108,
+          "description": "Parameter \u0027result\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 124,
+          "endline": 40,
+          "endcolumn": 137,
+          "description": "Parameter \u0027messageSource\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 42,
+          "endline": 49,
+          "endcolumn": 48,
+          "description": "Parameter \u0027result\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 64,
+          "endline": 49,
+          "endcolumn": 77,
+          "description": "Parameter \u0027messageSource\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 95,
+          "endline": 49,
+          "endcolumn": 101,
+          "description": "Parameter \u0027locale\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 51,
+          "begincolumn": 25,
+          "endline": 51,
+          "endcolumn": 35,
+          "description": "Local variable \u0027fieldError\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 52,
+          "begincolumn": 20,
+          "endline": 52,
+          "endcolumn": 27,
+          "description": "Local variable \u0027message\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/exceptions/NotBlankException.java",
+      "violations": [
+        {
+          "beginline": 3,
+          "begincolumn": 14,
+          "endline": 3,
+          "endcolumn": 31,
+          "description": "Classes implementing Serializable should set a serialVersionUID",
+          "rule": "MissingSerialVersionUID",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#missingserialversionuid"
+        },
+        {
+          "beginline": 4,
+          "begincolumn": 37,
+          "endline": 4,
+          "endcolumn": 44,
+          "description": "Parameter \u0027message\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/exceptions/NotFoundException.java",
+      "violations": [
+        {
+          "beginline": 3,
+          "begincolumn": 14,
+          "endline": 3,
+          "endcolumn": 31,
+          "description": "Classes implementing Serializable should set a serialVersionUID",
+          "rule": "MissingSerialVersionUID",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#missingserialversionuid"
+        },
+        {
+          "beginline": 4,
+          "begincolumn": 37,
+          "endline": 4,
+          "endcolumn": 44,
+          "description": "Parameter \u0027message\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/exceptions/ProfessionalRegisterAlreadyExistsException.java",
+      "violations": [
+        {
+          "beginline": 7,
+          "begincolumn": 14,
+          "endline": 7,
+          "endcolumn": 56,
+          "description": "Classes implementing Serializable should set a serialVersionUID",
+          "rule": "MissingSerialVersionUID",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#missingserialversionuid"
+        },
+        {
+          "beginline": 8,
+          "begincolumn": 62,
+          "endline": 8,
+          "endcolumn": 69,
+          "description": "Parameter \u0027message\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/Agreement.java",
+      "violations": [
+        {
+          "beginline": 26,
+          "begincolumn": 18,
+          "endline": 26,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/Client.java",
+      "violations": [
+        {
+          "beginline": 30,
+          "begincolumn": 14,
+          "endline": 30,
+          "endcolumn": 20,
+          "description": "Too many fields",
+          "rule": "TooManyFields",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#toomanyfields"
+        },
+        {
+          "beginline": 33,
+          "begincolumn": 18,
+          "endline": 33,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 61,
+          "begincolumn": 20,
+          "endline": 61,
+          "endcolumn": 22,
+          "description": "Avoid variables with short names like rg",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 69,
+          "begincolumn": 23,
+          "endline": 69,
+          "endcolumn": 41,
+          "description": "Avoid excessively long variable names like medicalExamDueDate",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/Contract.java",
+      "violations": [
+        {
+          "beginline": 5,
+          "begincolumn": 1,
+          "endline": 5,
+          "endcolumn": 30,
+          "description": "Unused import \u0027jakarta.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 8,
+          "begincolumn": 1,
+          "endline": 8,
+          "endcolumn": 17,
+          "description": "Unused import \u0027lombok.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 20,
+          "begincolumn": 32,
+          "endline": 20,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 22,
+          "begincolumn": 18,
+          "endline": 22,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 30,
+          "begincolumn": 17,
+          "endline": 30,
+          "endcolumn": 32,
+          "description": "Access to field `STRING` on foreign value `EnumType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 57,
+          "begincolumn": 17,
+          "endline": 57,
+          "endcolumn": 32,
+          "description": "Access to field `STRING` on foreign value `EnumType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 74,
+          "begincolumn": 25,
+          "endline": 74,
+          "endcolumn": 40,
+          "description": "Access to field `ALL` on foreign value `CascadeType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/Discount.java",
+      "violations": [
+        {
+          "beginline": 18,
+          "begincolumn": 23,
+          "endline": 18,
+          "endcolumn": 31,
+          "description": "No abstract method which means that the keyword is most likely used to prevent instantiation. Use a private or protected constructor instead.",
+          "rule": "AbstractClassWithoutAnyMethod",
+          "ruleset": "Design",
+          "priority": 1,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#abstractclasswithoutanymethod"
+        },
+        {
+          "beginline": 18,
+          "begincolumn": 23,
+          "endline": 18,
+          "endcolumn": 31,
+          "description": "This abstract class does not have any abstract methods",
+          "rule": "AbstractClassWithoutAbstractMethod",
+          "ruleset": "Best Practices",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_bestpractices.html#abstractclasswithoutabstractmethod"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/Employee.java",
+      "violations": [
+        {
+          "beginline": 32,
+          "begincolumn": 14,
+          "endline": 32,
+          "endcolumn": 22,
+          "description": "Too many fields",
+          "rule": "TooManyFields",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#toomanyfields"
+        },
+        {
+          "beginline": 35,
+          "begincolumn": 18,
+          "endline": 35,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 20,
+          "endline": 68,
+          "endcolumn": 22,
+          "description": "Avoid variables with short names like rg",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 72,
+          "begincolumn": 20,
+          "endline": 72,
+          "endcolumn": 40,
+          "description": "Avoid excessively long variable names like professionalRegister",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/Promotion.java",
+      "violations": [
+        {
+          "beginline": 19,
+          "begincolumn": 18,
+          "endline": 19,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/Sale.java",
+      "violations": [
+        {
+          "beginline": 24,
+          "begincolumn": 14,
+          "endline": 24,
+          "endcolumn": 18,
+          "description": "Avoid short class names like Sale",
+          "rule": "ShortClassName",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortclassname"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 18,
+          "endline": 28,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 54,
+          "begincolumn": 23,
+          "endline": 54,
+          "endcolumn": 26,
+          "description": "Local variable \u0027now\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/WeekDays.java",
+      "violations": [
+        {
+          "beginline": 3,
+          "begincolumn": 1,
+          "endline": 3,
+          "endcolumn": 30,
+          "description": "Unused import \u0027jakarta.persistence.*\u0027",
+          "rule": "UnnecessaryImport",
+          "ruleset": "Code Style",
+          "priority": 4,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 11,
+          "begincolumn": 14,
+          "endline": 11,
+          "endcolumn": 22,
+          "description": "Classes implementing Serializable should set a serialVersionUID",
+          "rule": "MissingSerialVersionUID",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#missingserialversionuid"
+        },
+        {
+          "beginline": 13,
+          "begincolumn": 32,
+          "endline": 13,
+          "endcolumn": 55,
+          "description": "Access to field `IDENTITY` on foreign value `GenerationType` (degree 1)",
+          "rule": "LawOfDemeter",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 18,
+          "endline": 14,
+          "endcolumn": 20,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/enums/MaritalStatus.java",
+      "violations": [
+        {
+          "beginline": 7,
+          "begincolumn": 5,
+          "endline": 7,
+          "endcolumn": 10,
+          "description": "The enum constant name \u0027VIÚVO\u0027 doesn\u0027t match \u0027[A-Z][A-Z_0-9]*\u0027",
+          "rule": "FieldNamingConventions",
+          "ruleset": "Code Style",
+          "priority": 1,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#fieldnamingconventions"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/models/enums/Status.java",
+      "violations": [
+        {
+          "beginline": 7,
+          "begincolumn": 5,
+          "endline": 7,
+          "endcolumn": 16,
+          "description": "The enum constant name \u0027EM_AUSÊNCIA\u0027 doesn\u0027t match \u0027[A-Z][A-Z_0-9]*\u0027",
+          "rule": "FieldNamingConventions",
+          "ruleset": "Code Style",
+          "priority": 1,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#fieldnamingconventions"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/repositories/EmployeeRepository.java",
+      "violations": [
+        {
+          "beginline": 14,
+          "begincolumn": 49,
+          "endline": 14,
+          "endcolumn": 69,
+          "description": "Avoid excessively long variable names like professionalRegister",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/repositories/SaleRepository.java",
+      "violations": [
+        {
+          "beginline": 12,
+          "begincolumn": 18,
+          "endline": 12,
+          "endcolumn": 32,
+          "description": "Annotate this interface with @FunctionalInterface or with @SuppressWarnings(\"PMD.ImplicitFunctionalInterface\") to clarify your intent.",
+          "rule": "ImplicitFunctionalInterface",
+          "ruleset": "Best Practices",
+          "priority": 2,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_bestpractices.html#implicitfunctionalinterface"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/services/AgreementService.java",
+      "violations": [
+        {
+          "beginline": 18,
+          "begincolumn": 39,
+          "endline": 18,
+          "endcolumn": 58,
+          "description": "Avoid excessively long variable names like agreementRepository",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 20,
+          "begincolumn": 49,
+          "endline": 20,
+          "endcolumn": 68,
+          "description": "Avoid excessively long variable names like agreementRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 20,
+          "begincolumn": 49,
+          "endline": 20,
+          "endcolumn": 68,
+          "description": "Parameter \u0027agreementRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 19,
+          "endline": 21,
+          "endcolumn": 28,
+          "description": "Local variable \u0027agreement\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 31,
+          "begincolumn": 19,
+          "endline": 31,
+          "endcolumn": 32,
+          "description": "Consider simply using the value vs. storing it in local variable \u0027agreementSave\u0027.",
+          "rule": "VariableCanBeInlined",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#variablecanbeinlined"
+        },
+        {
+          "beginline": 31,
+          "begincolumn": 19,
+          "endline": 31,
+          "endcolumn": 32,
+          "description": "Local variable \u0027agreementSave\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 35,
+          "begincolumn": 36,
+          "endline": 35,
+          "endcolumn": 38,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 35,
+          "begincolumn": 36,
+          "endline": 35,
+          "endcolumn": 38,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 45,
+          "endline": 40,
+          "endcolumn": 53,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 44,
+          "begincolumn": 48,
+          "endline": 44,
+          "endcolumn": 56,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 44,
+          "begincolumn": 65,
+          "endline": 44,
+          "endcolumn": 69,
+          "description": "Parameter \u0027name\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 34,
+          "endline": 48,
+          "endcolumn": 36,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 34,
+          "endline": 48,
+          "endcolumn": 36,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 58,
+          "endline": 48,
+          "endcolumn": 77,
+          "description": "Avoid excessively long variable names like agreementRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 58,
+          "endline": 48,
+          "endcolumn": 77,
+          "description": "Parameter \u0027agreementRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 19,
+          "endline": 49,
+          "endcolumn": 33,
+          "description": "Local variable \u0027existAgreement\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 19,
+          "endline": 58,
+          "endcolumn": 34,
+          "description": "Consider simply using the value vs. storing it in local variable \u0027updateAgreement\u0027.",
+          "rule": "VariableCanBeInlined",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#variablecanbeinlined"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 19,
+          "endline": 58,
+          "endcolumn": 34,
+          "description": "Local variable \u0027updateAgreement\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/services/ClientService.java",
+      "violations": [
+        {
+          "beginline": 19,
+          "begincolumn": 14,
+          "endline": 19,
+          "endcolumn": 27,
+          "description": "The class \u0027ClientService\u0027 has a total cyclomatic complexity of 14 (highest 8).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 22,
+          "begincolumn": 43,
+          "endline": 22,
+          "endcolumn": 59,
+          "description": "Parameter \u0027clientRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 29,
+          "begincolumn": 16,
+          "endline": 29,
+          "endcolumn": 22,
+          "description": "Local variable \u0027client\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 16,
+          "endline": 58,
+          "endcolumn": 26,
+          "description": "Consider simply using the value vs. storing it in local variable \u0027clientSave\u0027.",
+          "rule": "VariableCanBeInlined",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#variablecanbeinlined"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 16,
+          "endline": 58,
+          "endcolumn": 26,
+          "description": "Local variable \u0027clientSave\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 62,
+          "begincolumn": 42,
+          "endline": 62,
+          "endcolumn": 44,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 62,
+          "begincolumn": 42,
+          "endline": 62,
+          "endcolumn": 44,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 67,
+          "begincolumn": 51,
+          "endline": 67,
+          "endcolumn": 59,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 71,
+          "begincolumn": 40,
+          "endline": 71,
+          "endcolumn": 42,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 71,
+          "begincolumn": 40,
+          "endline": 71,
+          "endcolumn": 42,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 71,
+          "begincolumn": 61,
+          "endline": 71,
+          "endcolumn": 77,
+          "description": "Parameter \u0027clientRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 74,
+          "begincolumn": 16,
+          "endline": 74,
+          "endcolumn": 27,
+          "description": "Local variable \u0027existClient\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 104,
+          "begincolumn": 16,
+          "endline": 104,
+          "endcolumn": 28,
+          "description": "Consider simply using the value vs. storing it in local variable \u0027updateClient\u0027.",
+          "rule": "VariableCanBeInlined",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#variablecanbeinlined"
+        },
+        {
+          "beginline": 104,
+          "begincolumn": 16,
+          "endline": 104,
+          "endcolumn": 28,
+          "description": "Local variable \u0027updateClient\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 108,
+          "begincolumn": 56,
+          "endline": 108,
+          "endcolumn": 72,
+          "description": "Parameter \u0027clientRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/services/ContractService.java",
+      "violations": [
+        {
+          "beginline": 22,
+          "begincolumn": 14,
+          "endline": 22,
+          "endcolumn": 29,
+          "description": "The class \u0027ContractService\u0027 has a total cyclomatic complexity of 14 (highest 4).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 25,
+          "begincolumn": 58,
+          "endline": 25,
+          "endcolumn": 61,
+          "description": "Parameter \u0027dto\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 35,
+          "begincolumn": 60,
+          "endline": 35,
+          "endcolumn": 68,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 36,
+          "begincolumn": 24,
+          "endline": 36,
+          "endcolumn": 33,
+          "description": "Local variable \u0027contracts\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 55,
+          "endline": 40,
+          "endcolumn": 57,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 55,
+          "endline": 40,
+          "endcolumn": 57,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 41,
+          "begincolumn": 18,
+          "endline": 41,
+          "endcolumn": 26,
+          "description": "Local variable \u0027contract\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 53,
+          "endline": 46,
+          "endcolumn": 55,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 53,
+          "endline": 46,
+          "endcolumn": 55,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 76,
+          "endline": 46,
+          "endcolumn": 79,
+          "description": "Parameter \u0027dto\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 18,
+          "endline": 47,
+          "endcolumn": 26,
+          "description": "Local variable \u0027contract\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 60,
+          "begincolumn": 38,
+          "endline": 60,
+          "endcolumn": 40,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 60,
+          "begincolumn": 38,
+          "endline": 60,
+          "endcolumn": 40,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 68,
+          "begincolumn": 54,
+          "endline": 68,
+          "endcolumn": 62,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 72,
+          "begincolumn": 47,
+          "endline": 72,
+          "endcolumn": 55,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 72,
+          "begincolumn": 64,
+          "endline": 72,
+          "endcolumn": 68,
+          "description": "Parameter \u0027name\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/services/EmployeeService.java",
+      "violations": [
+        {
+          "beginline": 22,
+          "begincolumn": 38,
+          "endline": 22,
+          "endcolumn": 56,
+          "description": "Avoid excessively long variable names like employeeRepository",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 25,
+          "begincolumn": 47,
+          "endline": 25,
+          "endcolumn": 65,
+          "description": "Avoid excessively long variable names like employeeRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 25,
+          "begincolumn": 47,
+          "endline": 25,
+          "endcolumn": 65,
+          "description": "Parameter \u0027employeeRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 33,
+          "begincolumn": 18,
+          "endline": 33,
+          "endcolumn": 26,
+          "description": "Local variable \u0027employee\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 61,
+          "begincolumn": 44,
+          "endline": 61,
+          "endcolumn": 46,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 61,
+          "begincolumn": 44,
+          "endline": 61,
+          "endcolumn": 46,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 66,
+          "begincolumn": 53,
+          "endline": 66,
+          "endcolumn": 61,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 42,
+          "endline": 70,
+          "endcolumn": 44,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 42,
+          "endline": 70,
+          "endcolumn": 44,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 65,
+          "endline": 70,
+          "endcolumn": 83,
+          "description": "Avoid excessively long variable names like employeeRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 65,
+          "endline": 70,
+          "endcolumn": 83,
+          "description": "Parameter \u0027employeeRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 71,
+          "begincolumn": 18,
+          "endline": 71,
+          "endcolumn": 31,
+          "description": "Local variable \u0027existEmployee\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/services/PromotionService.java",
+      "violations": [
+        {
+          "beginline": 19,
+          "begincolumn": 39,
+          "endline": 19,
+          "endcolumn": 58,
+          "description": "Avoid excessively long variable names like promotionRepository",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 49,
+          "endline": 21,
+          "endcolumn": 68,
+          "description": "Avoid excessively long variable names like promotionRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 49,
+          "endline": 21,
+          "endcolumn": 68,
+          "description": "Parameter \u0027promotionRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 22,
+          "begincolumn": 19,
+          "endline": 22,
+          "endcolumn": 28,
+          "description": "Local variable \u0027promotion\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 19,
+          "endline": 28,
+          "endcolumn": 32,
+          "description": "Consider simply using the value vs. storing it in local variable \u0027promotionSave\u0027.",
+          "rule": "VariableCanBeInlined",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#variablecanbeinlined"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 19,
+          "endline": 28,
+          "endcolumn": 32,
+          "description": "Local variable \u0027promotionSave\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 45,
+          "endline": 32,
+          "endcolumn": 47,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 32,
+          "begincolumn": 45,
+          "endline": 32,
+          "endcolumn": 47,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 37,
+          "begincolumn": 54,
+          "endline": 37,
+          "endcolumn": 62,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 41,
+          "begincolumn": 48,
+          "endline": 41,
+          "endcolumn": 56,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 41,
+          "begincolumn": 65,
+          "endline": 41,
+          "endcolumn": 69,
+          "description": "Parameter \u0027name\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 45,
+          "begincolumn": 43,
+          "endline": 45,
+          "endcolumn": 45,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 45,
+          "begincolumn": 43,
+          "endline": 45,
+          "endcolumn": 45,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 45,
+          "begincolumn": 67,
+          "endline": 45,
+          "endcolumn": 86,
+          "description": "Avoid excessively long variable names like promotionRequestDTO",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 45,
+          "begincolumn": 67,
+          "endline": 45,
+          "endcolumn": 86,
+          "description": "Parameter \u0027promotionRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 19,
+          "endline": 46,
+          "endcolumn": 33,
+          "description": "Local variable \u0027existPromotion\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 54,
+          "begincolumn": 19,
+          "endline": 54,
+          "endcolumn": 34,
+          "description": "Consider simply using the value vs. storing it in local variable \u0027updatePromotion\u0027.",
+          "rule": "VariableCanBeInlined",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#variablecanbeinlined"
+        },
+        {
+          "beginline": 54,
+          "begincolumn": 19,
+          "endline": 54,
+          "endcolumn": 34,
+          "description": "Local variable \u0027updatePromotion\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/services/SaleService.java",
+      "violations": [
+        {
+          "beginline": 22,
+          "begincolumn": 14,
+          "endline": 22,
+          "endcolumn": 25,
+          "description": "The class \u0027SaleService\u0027 has a total cyclomatic complexity of 13 (highest 8).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 26,
+          "begincolumn": 38,
+          "endline": 26,
+          "endcolumn": 56,
+          "description": "Avoid excessively long variable names like contractRepository",
+          "rule": "LongVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 39,
+          "endline": 28,
+          "endcolumn": 53,
+          "description": "Parameter \u0027saleRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 31,
+          "begincolumn": 16,
+          "endline": 31,
+          "endcolumn": 22,
+          "description": "Local variable \u0027client\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 33,
+          "begincolumn": 18,
+          "endline": 33,
+          "endcolumn": 26,
+          "description": "Local variable \u0027contract\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 36,
+          "begincolumn": 14,
+          "endline": 36,
+          "endcolumn": 18,
+          "description": "Local variable \u0027sale\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 14,
+          "endline": 40,
+          "endcolumn": 22,
+          "description": "Consider simply using the value vs. storing it in local variable \u0027saleSave\u0027.",
+          "rule": "VariableCanBeInlined",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#variablecanbeinlined"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 14,
+          "endline": 40,
+          "endcolumn": 22,
+          "description": "Local variable \u0027saleSave\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 44,
+          "begincolumn": 40,
+          "endline": 44,
+          "endcolumn": 42,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 44,
+          "begincolumn": 40,
+          "endline": 44,
+          "endcolumn": 42,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 49,
+          "endline": 49,
+          "endcolumn": 57,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 53,
+          "begincolumn": 50,
+          "endline": 53,
+          "endcolumn": 58,
+          "description": "Parameter \u0027clientId\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 53,
+          "begincolumn": 78,
+          "endline": 53,
+          "endcolumn": 86,
+          "description": "Parameter \u0027pageable\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 54,
+          "begincolumn": 16,
+          "endline": 54,
+          "endcolumn": 22,
+          "description": "Local variable \u0027client\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 60,
+          "begincolumn": 38,
+          "endline": 60,
+          "endcolumn": 40,
+          "description": "Avoid variables with short names like id",
+          "rule": "ShortVariable",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortvariable"
+        },
+        {
+          "beginline": 60,
+          "begincolumn": 38,
+          "endline": 60,
+          "endcolumn": 40,
+          "description": "Parameter \u0027id\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 60,
+          "begincolumn": 57,
+          "endline": 60,
+          "endcolumn": 71,
+          "description": "Parameter \u0027saleRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 62,
+          "begincolumn": 16,
+          "endline": 62,
+          "endcolumn": 22,
+          "description": "Local variable \u0027client\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 64,
+          "begincolumn": 18,
+          "endline": 64,
+          "endcolumn": 26,
+          "description": "Local variable \u0027contract\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 66,
+          "begincolumn": 14,
+          "endline": 66,
+          "endcolumn": 23,
+          "description": "Local variable \u0027existSale\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 72,
+          "begincolumn": 14,
+          "endline": 72,
+          "endcolumn": 24,
+          "description": "Consider simply using the value vs. storing it in local variable \u0027updateSale\u0027.",
+          "rule": "VariableCanBeInlined",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#variablecanbeinlined"
+        },
+        {
+          "beginline": 72,
+          "begincolumn": 14,
+          "endline": 72,
+          "endcolumn": 24,
+          "description": "Local variable \u0027updateSale\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 76,
+          "begincolumn": 52,
+          "endline": 76,
+          "endcolumn": 66,
+          "description": "Parameter \u0027saleRequestDTO\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/com/ifpr/thread/stilofit/utils/WeekDaysUtils.java",
+      "violations": [
+        {
+          "beginline": 8,
+          "begincolumn": 14,
+          "endline": 8,
+          "endcolumn": 27,
+          "description": "All members are static. Consider adding a private no-args constructor to prevent instantiation.",
+          "rule": "UseUtilityClass",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#useutilityclass"
+        },
+        {
+          "beginline": 8,
+          "begincolumn": 14,
+          "endline": 8,
+          "endcolumn": 27,
+          "description": "The class \u0027WeekDaysUtils\u0027 has a total cyclomatic complexity of 19 (highest 10).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 28,
+          "endline": 9,
+          "endcolumn": 48,
+          "description": "The method \u0027mapWeekDaysFromArray(List\u003cString\u003e)\u0027 has a cyclomatic complexity of 10.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 9,
+          "begincolumn": 62,
+          "endline": 9,
+          "endcolumn": 70,
+          "description": "Parameter \u0027weekdays\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 10,
+          "begincolumn": 18,
+          "endline": 10,
+          "endcolumn": 26,
+          "description": "Local variable \u0027weekDays\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 12,
+          "begincolumn": 25,
+          "endline": 12,
+          "endcolumn": 28,
+          "description": "Local variable \u0027day\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 13,
+          "begincolumn": 17,
+          "endline": 13,
+          "endcolumn": 23,
+          "description": "Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)",
+          "rule": "NonExhaustiveSwitch",
+          "ruleset": "Best Practices",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_bestpractices.html#nonexhaustiveswitch"
+        },
+        {
+          "beginline": 13,
+          "begincolumn": 25,
+          "endline": 13,
+          "endcolumn": 42,
+          "description": "When doing a String.toLowerCase()/toUpperCase() call, use a Locale",
+          "rule": "UseLocaleWithCaseConversions",
+          "ruleset": "Error Prone",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#uselocalewithcaseconversions"
+        },
+        {
+          "beginline": 34,
+          "begincolumn": 56,
+          "endline": 34,
+          "endcolumn": 64,
+          "description": "Parameter \u0027weekDays\u0027 is not assigned and could be declared final",
+          "rule": "MethodArgumentCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 35,
+          "begincolumn": 31,
+          "endline": 35,
+          "endcolumn": 52,
+          "description": "This statement should have braces",
+          "rule": "ControlStatementBraces",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#controlstatementbraces"
+        },
+        {
+          "beginline": 36,
+          "begincolumn": 22,
+          "endline": 36,
+          "endcolumn": 26,
+          "description": "Local variable \u0027days\u0027 could be declared final",
+          "rule": "LocalVariableCouldBeFinal",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 37,
+          "begincolumn": 34,
+          "endline": 37,
+          "endcolumn": 53,
+          "description": "This statement should have braces",
+          "rule": "ControlStatementBraces",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#controlstatementbraces"
+        },
+        {
+          "beginline": 38,
+          "begincolumn": 35,
+          "endline": 38,
+          "endcolumn": 55,
+          "description": "This statement should have braces",
+          "rule": "ControlStatementBraces",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#controlstatementbraces"
+        },
+        {
+          "beginline": 39,
+          "begincolumn": 37,
+          "endline": 39,
+          "endcolumn": 59,
+          "description": "This statement should have braces",
+          "rule": "ControlStatementBraces",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#controlstatementbraces"
+        },
+        {
+          "beginline": 40,
+          "begincolumn": 36,
+          "endline": 40,
+          "endcolumn": 57,
+          "description": "This statement should have braces",
+          "rule": "ControlStatementBraces",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#controlstatementbraces"
+        },
+        {
+          "beginline": 41,
+          "begincolumn": 34,
+          "endline": 41,
+          "endcolumn": 53,
+          "description": "This statement should have braces",
+          "rule": "ControlStatementBraces",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#controlstatementbraces"
+        },
+        {
+          "beginline": 42,
+          "begincolumn": 36,
+          "endline": 42,
+          "endcolumn": 57,
+          "description": "This statement should have braces",
+          "rule": "ControlStatementBraces",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#controlstatementbraces"
+        },
+        {
+          "beginline": 43,
+          "begincolumn": 34,
+          "endline": 43,
+          "endcolumn": 53,
+          "description": "This statement should have braces",
+          "rule": "ControlStatementBraces",
+          "ruleset": "Code Style",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#controlstatementbraces"
+        }
+      ]
+    }
+  ],
+  "suppressedViolations": [],
+  "processingErrors": [],
+  "configurationErrors": []
+}
