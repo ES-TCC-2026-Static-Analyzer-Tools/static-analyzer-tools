@@ -1,11 +1,33 @@
 {
   "formatVersion": 0,
   "pmdVersion": "7.26.0",
-  "timestamp": "2026-08-23T18:26:43.182-03:00",
+  "timestamp": "2026-09-13T18:40:15.587-03:00",
   "files": [
     {
       "filename": "./src/main/java/org/therapazes/luisaoproject/LuisaoprojectApplication.java",
       "violations": [
+        {
+          "beginline": 9,
+          "begincolumn": 14,
+          "endline": 9,
+          "endcolumn": 38,
+          "description": "The class \u0027LuisaoprojectApplication\u0027 has a total cyclomatic complexity of 1 (highest 1).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 11,
+          "begincolumn": 24,
+          "endline": 11,
+          "endcolumn": 28,
+          "description": "The method \u0027main(String[])\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
         {
           "beginline": 11,
           "begincolumn": 38,
@@ -22,6 +44,17 @@
     {
       "filename": "./src/main/java/org/therapazes/luisaoproject/config/GlobalExceptionHandler.java",
       "violations": [
+        {
+          "beginline": 21,
+          "begincolumn": 14,
+          "endline": 21,
+          "endcolumn": 36,
+          "description": "The class \u0027GlobalExceptionHandler\u0027 has a total cyclomatic complexity of 6 (highest 1).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
         {
           "beginline": 24,
           "begincolumn": 20,
@@ -43,6 +76,17 @@
           "ruleset": "Best Practices",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_bestpractices.html#unusedprivatemethod"
+        },
+        {
+          "beginline": 25,
+          "begincolumn": 33,
+          "endline": 25,
+          "endcolumn": 42,
+          "description": "The method \u0027handleAll(RuntimeException, HttpServletRequest)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 25,
@@ -101,6 +145,17 @@
         },
         {
           "beginline": 32,
+          "begincolumn": 33,
+          "endline": 32,
+          "endcolumn": 47,
+          "description": "The method \u0027handleNotFound(RuntimeException, HttpServletRequest)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 32,
           "begincolumn": 65,
           "endline": 32,
           "endcolumn": 66,
@@ -156,6 +211,17 @@
         },
         {
           "beginline": 39,
+          "begincolumn": 33,
+          "endline": 39,
+          "endcolumn": 61,
+          "description": "The method \u0027handleDataIntegrityViolation(DataIntegrityViolationException, HttpServletRequest)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 39,
           "begincolumn": 94,
           "endline": 39,
           "endcolumn": 95,
@@ -186,6 +252,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 32,
+          "endline": 46,
+          "endcolumn": 59,
+          "description": "The method \u0027handleQueryTimeoutException(QueryTimeoutException, HttpServletRequest)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 46,
@@ -222,6 +299,17 @@
         },
         {
           "beginline": 53,
+          "begincolumn": 32,
+          "endline": 53,
+          "endcolumn": 58,
+          "description": "The method \u0027handlePersistenceException(PersistenceException, HttpServletRequest)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 53,
           "begincolumn": 80,
           "endline": 53,
           "endcolumn": 81,
@@ -252,6 +340,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 57,
+          "begincolumn": 33,
+          "endline": 57,
+          "endcolumn": 51,
+          "description": "The method \u0027createErrorMessage(HttpStatus, Exception, HttpServletRequest)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 57,
@@ -333,8 +432,46 @@
       ]
     },
     {
+      "filename": "./src/main/java/org/therapazes/luisaoproject/config/OpenApiConfig.java",
+      "violations": [
+        {
+          "beginline": 11,
+          "begincolumn": 14,
+          "endline": 11,
+          "endcolumn": 27,
+          "description": "The class \u0027OpenApiConfig\u0027 has a total cyclomatic complexity of 1 (highest 1).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 14,
+          "begincolumn": 20,
+          "endline": 14,
+          "endcolumn": 33,
+          "description": "The method \u0027customOpenAPI()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        }
+      ]
+    },
+    {
       "filename": "./src/main/java/org/therapazes/luisaoproject/config/auth/JwtAuthenticationFilter.java",
       "violations": [
+        {
+          "beginline": 21,
+          "begincolumn": 14,
+          "endline": 21,
+          "endcolumn": 37,
+          "description": "The class \u0027JwtAuthenticationFilter\u0027 has a total cyclomatic complexity of 6 (highest 6).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
         {
           "beginline": 24,
           "begincolumn": 38,
@@ -345,6 +482,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 27,
+          "begincolumn": 20,
+          "endline": 27,
+          "endcolumn": 36,
+          "description": "The method \u0027doFilterInternal(HttpServletRequest, HttpServletResponse, FilterChain)\u0027 has a cyclomatic complexity of 6.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 28,
@@ -429,6 +577,28 @@
       "filename": "./src/main/java/org/therapazes/luisaoproject/config/auth/JwtUtil.java",
       "violations": [
         {
+          "beginline": 19,
+          "begincolumn": 14,
+          "endline": 19,
+          "endcolumn": 21,
+          "description": "The class \u0027JwtUtil\u0027 has a total cyclomatic complexity of 9 (highest 1).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 24,
+          "begincolumn": 19,
+          "endline": 24,
+          "endcolumn": 34,
+          "description": "The method \u0027extractUsername(String)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 24,
           "begincolumn": 42,
           "endline": 24,
@@ -438,6 +608,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 18,
+          "endline": 28,
+          "endcolumn": 30,
+          "description": "The method \u0027extractClaim(String, Function\u003cClaims, T\u003e)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 28,
@@ -463,6 +644,17 @@
         },
         {
           "beginline": 33,
+          "begincolumn": 20,
+          "endline": 33,
+          "endcolumn": 36,
+          "description": "The method \u0027extractAllClaims(String)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 33,
           "begincolumn": 44,
           "endline": 33,
           "endcolumn": 49,
@@ -474,6 +666,17 @@
         },
         {
           "beginline": 42,
+          "begincolumn": 19,
+          "endline": 42,
+          "endcolumn": 32,
+          "description": "The method \u0027generateToken(UserDetails)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 42,
           "begincolumn": 45,
           "endline": 42,
           "endcolumn": 56,
@@ -482,6 +685,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 19,
+          "endline": 46,
+          "endcolumn": 32,
+          "description": "The method \u0027generateToken(Map\u003cString, Object\u003e, UserDetails)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 46,
@@ -529,6 +743,17 @@
         },
         {
           "beginline": 58,
+          "begincolumn": 20,
+          "endline": 58,
+          "endcolumn": 32,
+          "description": "The method \u0027isTokenValid(String, UserDetails)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 58,
           "begincolumn": 40,
           "endline": 58,
           "endcolumn": 45,
@@ -562,6 +787,17 @@
         },
         {
           "beginline": 63,
+          "begincolumn": 21,
+          "endline": 63,
+          "endcolumn": 35,
+          "description": "The method \u0027isTokenExpired(String)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 63,
           "begincolumn": 43,
           "endline": 63,
           "endcolumn": 48,
@@ -584,6 +820,17 @@
         },
         {
           "beginline": 67,
+          "begincolumn": 18,
+          "endline": 67,
+          "endcolumn": 35,
+          "description": "The method \u0027extractExpiration(String)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 67,
           "begincolumn": 43,
           "endline": 67,
           "endcolumn": 48,
@@ -592,6 +839,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 71,
+          "begincolumn": 17,
+          "endline": 71,
+          "endcolumn": 29,
+          "description": "The method \u0027getSignInKey()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 72,
@@ -610,6 +868,17 @@
       "filename": "./src/main/java/org/therapazes/luisaoproject/config/auth/SecurityConfig.java",
       "violations": [
         {
+          "beginline": 22,
+          "begincolumn": 14,
+          "endline": 22,
+          "endcolumn": 28,
+          "description": "The class \u0027SecurityConfig\u0027 has a total cyclomatic complexity of 2 (highest 1).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 25,
           "begincolumn": 42,
           "endline": 25,
@@ -619,6 +888,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 32,
+          "endline": 28,
+          "endcolumn": 43,
+          "description": "The method \u0027filterChain(HttpSecurity)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 28,
@@ -641,6 +921,17 @@
           "ruleset": "Design",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#signaturedeclarethrowsexception"
+        },
+        {
+          "beginline": 43,
+          "begincolumn": 36,
+          "endline": 43,
+          "endcolumn": 59,
+          "description": "The method \u0027corsConfigurationSource()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 44,
@@ -670,6 +961,50 @@
       "filename": "./src/main/java/org/therapazes/luisaoproject/config/auth/UserAuthConfig.java",
       "violations": [
         {
+          "beginline": 19,
+          "begincolumn": 14,
+          "endline": 19,
+          "endcolumn": 28,
+          "description": "The class \u0027UserAuthConfig\u0027 has a total cyclomatic complexity of 4 (highest 1).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 24,
+          "begincolumn": 31,
+          "endline": 24,
+          "endcolumn": 49,
+          "description": "The method \u0027userDetailsService()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 25,
+          "begincolumn": 20,
+          "endline": 25,
+          "endcolumn": 38,
+          "description": "The class \u0027\u0027 has a total cyclomatic complexity of 1 (highest 1).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 27,
+          "begincolumn": 32,
+          "endline": 27,
+          "endcolumn": 50,
+          "description": "The method \u0027loadUserByUsername(String)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 27,
           "begincolumn": 58,
           "endline": 27,
@@ -681,6 +1016,17 @@
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
         },
         {
+          "beginline": 34,
+          "begincolumn": 35,
+          "endline": 34,
+          "endcolumn": 56,
+          "description": "The method \u0027autheticationProvider()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 35,
           "begincolumn": 35,
           "endline": 35,
@@ -690,6 +1036,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 42,
+          "begincolumn": 34,
+          "endline": 42,
+          "endcolumn": 55,
+          "description": "The method \u0027authenticationManager(AuthenticationConfiguration)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 42,
@@ -712,6 +1069,17 @@
           "ruleset": "Design",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#signaturedeclarethrowsexception"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 28,
+          "endline": 47,
+          "endcolumn": 43,
+          "description": "The method \u0027passwordEncoder()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         }
       ]
     },
@@ -728,6 +1096,17 @@
           "ruleset": "Code Style",
           "priority": 4,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
+        },
+        {
+          "beginline": 18,
+          "begincolumn": 14,
+          "endline": 18,
+          "endcolumn": 38,
+          "description": "The class \u0027AuthenticationController\u0027 has a total cyclomatic complexity of 2 (highest 1).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 20,
@@ -750,6 +1129,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryannotationvalueelement"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 54,
+          "endline": 28,
+          "endcolumn": 62,
+          "description": "The method \u0027register(RegisterRequestDto)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 28,
@@ -786,6 +1176,17 @@
         },
         {
           "beginline": 39,
+          "begincolumn": 54,
+          "endline": 39,
+          "endcolumn": 66,
+          "description": "The method \u0027authenticate(AuthenticationRequestDto)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 39,
           "begincolumn": 105,
           "endline": 39,
           "endcolumn": 112,
@@ -812,6 +1213,17 @@
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
         },
         {
+          "beginline": 20,
+          "begincolumn": 14,
+          "endline": 20,
+          "endcolumn": 38,
+          "description": "The class \u0027ForgotPasswordController\u0027 has a total cyclomatic complexity of 6 (highest 3).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 22,
           "begincolumn": 41,
           "endline": 22,
@@ -832,6 +1244,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryannotationvalueelement"
+        },
+        {
+          "beginline": 31,
+          "begincolumn": 35,
+          "endline": 31,
+          "endcolumn": 46,
+          "description": "The method \u0027verifyEmail(VerifyEmailDto)\u0027 has a cyclomatic complexity of 3.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 31,
@@ -865,6 +1288,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryannotationvalueelement"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 35,
+          "endline": 48,
+          "endcolumn": 56,
+          "description": "The method \u0027changePasswordHandler(ChangePassword)\u0027 has a cyclomatic complexity of 3.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 48,
@@ -972,6 +1406,17 @@
         },
         {
           "beginline": 36,
+          "begincolumn": 36,
+          "endline": 36,
+          "endcolumn": 46,
+          "description": "The method \u0027getProduto(Integer)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 36,
           "begincolumn": 75,
           "endline": 36,
           "endcolumn": 77,
@@ -1002,6 +1447,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryannotationvalueelement"
+        },
+        {
+          "beginline": 47,
+          "begincolumn": 42,
+          "endline": 47,
+          "endcolumn": 55,
+          "description": "The method \u0027getAllProduto(int, int)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 47,
@@ -1038,6 +1494,17 @@
         },
         {
           "beginline": 59,
+          "begincolumn": 36,
+          "endline": 59,
+          "endcolumn": 40,
+          "description": "The method \u0027save(Produto)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 59,
           "begincolumn": 62,
           "endline": 59,
           "endcolumn": 69,
@@ -1057,6 +1524,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryannotationvalueelement"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 36,
+          "endline": 70,
+          "endcolumn": 42,
+          "description": "The method \u0027update(Produto)\u0027 has a cyclomatic complexity of 2.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 70,
@@ -1090,6 +1568,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryannotationvalueelement"
+        },
+        {
+          "beginline": 82,
+          "begincolumn": 30,
+          "endline": 82,
+          "endcolumn": 36,
+          "description": "The method \u0027update(Integer)\u0027 has a cyclomatic complexity of 3.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 82,
@@ -1134,6 +1623,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryannotationvalueelement"
+        },
+        {
+          "beginline": 99,
+          "begincolumn": 33,
+          "endline": 99,
+          "endcolumn": 39,
+          "description": "The method \u0027delete(Integer)\u0027 has a cyclomatic complexity of 2.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 99,
@@ -1277,6 +1777,17 @@
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#shortclassname"
         },
         {
+          "beginline": 14,
+          "begincolumn": 14,
+          "endline": 14,
+          "endcolumn": 18,
+          "description": "The class \u0027User\u0027 has a total cyclomatic complexity of 6 (highest 1).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 16,
           "begincolumn": 32,
           "endline": 16,
@@ -1288,6 +1799,17 @@
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#lawofdemeter"
         },
         {
+          "beginline": 29,
+          "begincolumn": 51,
+          "endline": 29,
+          "endcolumn": 65,
+          "description": "The method \u0027getAuthorities()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 30,
           "begincolumn": 16,
           "endline": 30,
@@ -1297,12 +1819,170 @@
           "ruleset": "Error Prone",
           "priority": 1,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_errorprone.html#returnemptycollectionratherthannull"
+        },
+        {
+          "beginline": 34,
+          "begincolumn": 19,
+          "endline": 34,
+          "endcolumn": 30,
+          "description": "The method \u0027getUsername()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 39,
+          "begincolumn": 20,
+          "endline": 39,
+          "endcolumn": 39,
+          "description": "The method \u0027isAccountNonExpired()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 44,
+          "begincolumn": 20,
+          "endline": 44,
+          "endcolumn": 38,
+          "description": "The method \u0027isAccountNonLocked()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 20,
+          "endline": 49,
+          "endcolumn": 43,
+          "description": "The method \u0027isCredentialsNonExpired()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 54,
+          "begincolumn": 20,
+          "endline": 54,
+          "endcolumn": 29,
+          "description": "The method \u0027isEnabled()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/org/therapazes/luisaoproject/interfaces/ForgotPasswordProjection.java",
+      "violations": [
+        {
+          "beginline": 6,
+          "begincolumn": 12,
+          "endline": 6,
+          "endcolumn": 19,
+          "description": "The method \u0027getCode()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 7,
+          "begincolumn": 10,
+          "endline": 7,
+          "endcolumn": 27,
+          "description": "The method \u0027getExpirationTime()\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/org/therapazes/luisaoproject/repositories/ForgotPasswordRepository.java",
+      "violations": [
+        {
+          "beginline": 16,
+          "begincolumn": 30,
+          "endline": 16,
+          "endcolumn": 46,
+          "description": "The method \u0027findByOtpAndUser(String, User)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 18,
+          "begincolumn": 30,
+          "endline": 18,
+          "endcolumn": 45,
+          "description": "The method \u0027findByUserEmail(String)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 21,
+          "begincolumn": 40,
+          "endline": 21,
+          "endcolumn": 65,
+          "description": "The method \u0027findByUserEmailProjection(String)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        }
+      ]
+    },
+    {
+      "filename": "./src/main/java/org/therapazes/luisaoproject/repositories/UserRepository.java",
+      "violations": [
+        {
+          "beginline": 14,
+          "begincolumn": 20,
+          "endline": 14,
+          "endcolumn": 31,
+          "description": "The method \u0027findByEmail(String)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 19,
+          "begincolumn": 10,
+          "endline": 19,
+          "endcolumn": 24,
+          "description": "The method \u0027updatePassword(String, String)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         }
       ]
     },
     {
       "filename": "./src/main/java/org/therapazes/luisaoproject/services/AuthenticationService.java",
       "violations": [
+        {
+          "beginline": 18,
+          "begincolumn": 14,
+          "endline": 18,
+          "endcolumn": 35,
+          "description": "The class \u0027AuthenticationService\u0027 has a total cyclomatic complexity of 4 (highest 3).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
         {
           "beginline": 23,
           "begincolumn": 41,
@@ -1313,6 +1993,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 25,
+          "begincolumn": 38,
+          "endline": 25,
+          "endcolumn": 46,
+          "description": "The method \u0027register(RegisterRequestDto)\u0027 has a cyclomatic complexity of 3.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 25,
@@ -1368,6 +2059,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#useexplicittypes"
+        },
+        {
+          "beginline": 41,
+          "begincolumn": 38,
+          "endline": 41,
+          "endcolumn": 50,
+          "description": "The method \u0027authenticate(AuthenticationRequestDto)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 41,
@@ -1430,6 +2132,17 @@
       "filename": "./src/main/java/org/therapazes/luisaoproject/services/EmailService.java",
       "violations": [
         {
+          "beginline": 20,
+          "begincolumn": 14,
+          "endline": 20,
+          "endcolumn": 26,
+          "description": "The class \u0027EmailService\u0027 has a total cyclomatic complexity of 4 (highest 3).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 22,
           "begincolumn": 40,
           "endline": 22,
@@ -1439,6 +2152,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 25,
+          "begincolumn": 17,
+          "endline": 25,
+          "endcolumn": 38,
+          "description": "The method \u0027sendEmailWithTemplate(String, String, Map\u003cString, Object\u003e)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 25,
@@ -1519,6 +2243,17 @@
         },
         {
           "beginline": 41,
+          "begincolumn": 17,
+          "endline": 41,
+          "endcolumn": 26,
+          "description": "The method \u0027sendEmail(MailBodyDto)\u0027 has a cyclomatic complexity of 3.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 41,
           "begincolumn": 39,
           "endline": 41,
           "endcolumn": 50,
@@ -1589,6 +2324,17 @@
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
         },
         {
+          "beginline": 24,
+          "begincolumn": 14,
+          "endline": 24,
+          "endcolumn": 35,
+          "description": "The class \u0027ForgotPasswordService\u0027 has a total cyclomatic complexity of 8 (highest 5).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 28,
           "begincolumn": 44,
           "endline": 28,
@@ -1598,6 +2344,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#longvariable"
+        },
+        {
+          "beginline": 34,
+          "begincolumn": 19,
+          "endline": 34,
+          "endcolumn": 30,
+          "description": "The method \u0027verifyEmail(String)\u0027 has a cyclomatic complexity of 3.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 34,
@@ -1719,6 +2476,17 @@
           "ruleset": "Design",
           "priority": 1,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#avoidthrowingrawexceptiontypes"
+        },
+        {
+          "beginline": 66,
+          "begincolumn": 19,
+          "endline": 66,
+          "endcolumn": 40,
+          "description": "The method \u0027changePasswordHandler(ChangePassword)\u0027 has a cyclomatic complexity of 5.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 66,
@@ -1847,6 +2615,28 @@
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#unnecessaryimport"
         },
         {
+          "beginline": 17,
+          "begincolumn": 14,
+          "endline": 17,
+          "endcolumn": 28,
+          "description": "The class \u0027ProdutoService\u0027 has a total cyclomatic complexity of 9 (highest 3).",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 20,
+          "begincolumn": 20,
+          "endline": 20,
+          "endcolumn": 34,
+          "description": "The method \u0027getProdutoById(Integer)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
           "beginline": 20,
           "begincolumn": 43,
           "endline": 20,
@@ -1870,6 +2660,17 @@
         },
         {
           "beginline": 24,
+          "begincolumn": 26,
+          "endline": 24,
+          "endcolumn": 39,
+          "description": "The method \u0027getAllProduto(Pageable)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 24,
           "begincolumn": 49,
           "endline": 24,
           "endcolumn": 57,
@@ -1878,6 +2679,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#methodargumentcouldbefinal"
+        },
+        {
+          "beginline": 28,
+          "begincolumn": 20,
+          "endline": 28,
+          "endcolumn": 24,
+          "description": "The method \u0027save(Produto)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 28,
@@ -1903,6 +2715,17 @@
         },
         {
           "beginline": 34,
+          "begincolumn": 17,
+          "endline": 34,
+          "endcolumn": 27,
+          "description": "The method \u0027deleteById(Integer)\u0027 has a cyclomatic complexity of 3.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 34,
           "begincolumn": 36,
           "endline": 34,
           "endcolumn": 38,
@@ -1925,6 +2748,17 @@
         },
         {
           "beginline": 41,
+          "begincolumn": 20,
+          "endline": 41,
+          "endcolumn": 33,
+          "description": "The method \u0027updateProduto(Produto)\u0027 has a cyclomatic complexity of 2.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
+        },
+        {
+          "beginline": 41,
           "begincolumn": 42,
           "endline": 41,
           "endcolumn": 49,
@@ -1944,6 +2778,17 @@
           "ruleset": "Code Style",
           "priority": 3,
           "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_codestyle.html#localvariablecouldbefinal"
+        },
+        {
+          "beginline": 49,
+          "begincolumn": 20,
+          "endline": 49,
+          "endcolumn": 32,
+          "description": "The method \u0027updateStatus(Integer)\u0027 has a cyclomatic complexity of 1.",
+          "rule": "CyclomaticComplexity",
+          "ruleset": "Design",
+          "priority": 3,
+          "externalInfoUrl": "https://docs.pmd-code.org/snapshot/pmd_rules_java_design.html#cyclomaticcomplexity"
         },
         {
           "beginline": 49,

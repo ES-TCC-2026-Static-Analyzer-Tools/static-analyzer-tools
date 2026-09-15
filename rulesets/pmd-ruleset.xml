@@ -21,8 +21,8 @@
     <!-- Calibrando o limite de Complexidade Ciclomatica para bater com o Sonar (Limite = 10) -->
     <rule ref="category/java/design.xml/CyclomaticComplexity">
         <properties>
-            <property name="classReportLevel" value="10"/>
-            <property name="methodReportLevel" value="10"/>
+            <property name="classReportLevel" value="1"/>
+            <property name="methodReportLevel" value="1"/>
         </properties>
     </rule>
 
