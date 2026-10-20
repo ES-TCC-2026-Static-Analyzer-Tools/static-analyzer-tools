@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ES-TCC-2026-Static-Analyzer-Tools/static-analyzer-tools#readme",
   "dependencies": {
+    "dotenv": "^18.0.2",
     "express": "^5.2.1"
   }
 }

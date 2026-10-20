@@ -1,0 +1,12 @@
+[
+  {"name": "raw_report", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "sast_tool", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "project", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "normalized_at", "type": "TIMESTAMP", "mode": "REQUIRED"},
+  {"name": "rule", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "description", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "file_name", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "line_number", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "severity", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "quality", "type": "STRING", "mode": "NULLABLE"}
+]

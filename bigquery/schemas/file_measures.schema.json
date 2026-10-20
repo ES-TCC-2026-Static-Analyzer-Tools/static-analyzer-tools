@@ -1,0 +1,15 @@
+[
+  {"name": "raw_report", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "sast_tool", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "project", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "normalized_at", "type": "TIMESTAMP", "mode": "REQUIRED"},
+  {"name": "file_name", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "loc", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "ncloc", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "complexity", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "cognitive_complexity", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "sqale_index", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "issues_maintainability", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "issues_reliability", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "issues_security", "type": "INTEGER", "mode": "NULLABLE"}
+]
